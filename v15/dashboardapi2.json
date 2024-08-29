@@ -831,6 +831,31 @@
       ]
     },
     {
+      "id": 622,
+      "slug": "3gv8tlks",
+      "title": "",
+      "sub_title": "",
+      "group": "community",
+      "type": "impact",
+      "sub_type": "",
+      "endpoint": "",
+      "mixpanel_type": "ratingClicked",
+      "valid_till": null,
+      "is_see_all_shown": true,
+      "is_personalized": false,
+      "viewed_from": "",
+      "personalized_endpoint": "",
+      "end_date": "",
+      "fetch_url": "",
+      "see_all_type": "",
+      "items": [
+        {
+          "title": "Start Your Impactful Journey",
+          "progress": 0.25
+        }
+      ]
+    },
+    {
       "id": 3035,
       "slug": "campaign_announcement",
       "title": "",
