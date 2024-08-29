@@ -1,10 +1,10 @@
 # Screen wise api details
 
 ### Dashboad 
-https://awais-r.github.io/savyourapi/dashboardApi.json
+https://shanraisshan.github.io/MockApis/v15/dashboardApi.json
 
 with community section
-https://awais-r.github.io/savyourapi/dashboardapi2.json 
+https://shanraisshan.github.io/MockApis/v15/dashboardapi2.json 
 
 ### Value detail
-https://awais-r.github.io/savyourapi/valuedetail.json 
+https://shanraisshan.github.io/MockApis/v15/valuedetail.json 
