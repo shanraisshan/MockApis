@@ -1,0 +1,246 @@
+{
+  "success": true,
+  "message": "",
+  "data": [
+    {
+      "id": 3134,
+      "slug": "values",
+      "title": "Values",
+      "sub_title": "",
+      "group": "values",
+      "type": "values",
+      "sub_type": "",
+      "endpoint": "",
+      "mixpanel_type": "",
+      "valid_till": null,
+      "is_see_all_shown": true,
+      "is_personalized": false,
+      "viewed_from": "",
+      "personalized_endpoint": "",
+      "end_date": "",
+      "items": [
+        {
+          "name": "Values 11",
+          "image": "https://staging-assets.savyour.com/section-media/large/MxEj0YRHXIhYeH11aA0IFIEIUTNmxFTktqVwMdAn.jpg"
+        },
+        {
+          "name": "Values 21",
+          "image": "https://staging-assets.savyour.com/section-media/large/MxEj0YRHXIhYeH11aA0IFIEIUTNmxFTktqVwMdAn.jpg"
+        },
+        {
+          "name": "Values 31",
+          "image": "https://staging-assets.savyour.com/section-media/large/MxEj0YRHXIhYeH11aA0IFIEIUTNmxFTktqVwMdAn.jpg"
+        },
+        {
+          "name": "Values 41",
+          "image": "https://staging-assets.savyour.com/section-media/large/MxEj0YRHXIhYeH11aA0IFIEIUTNmxFTktqVwMdAn.jpg"
+        },
+        {
+          "name": "Values 51",
+          "image": "https://staging-assets.savyour.com/section-media/large/MxEj0YRHXIhYeH11aA0IFIEIUTNmxFTktqVwMdAn.jpg"
+        },
+        {
+          "name": "Values 61",
+          "image": "https://staging-assets.savyour.com/section-media/large/MxEj0YRHXIhYeH11aA0IFIEIUTNmxFTktqVwMdAn.jpg"
+        }
+      ]
+    },
+    {
+      "id": 945,
+      "slug": "category",
+      "title": "Categories",
+      "sub_title": "",
+      "group": "category",
+      "type": "category",
+      "sub_type": "small",
+      "endpoint": "https://api-staging.savyour.com.pk/v6/brand-categories",
+      "mixpanel_type": "categoryClicked",
+      "valid_till": null,
+      "is_see_all_shown": false,
+      "is_personalized": false,
+      "viewed_from": "",
+      "personalized_endpoint": "",
+      "end_date": "",
+      "see_all_type": "",
+      "items": [
+        {
+          "id": 229,
+          "name": "Women Fashion",
+          "slug": "women-fashion-category",
+          "image": "https://vendor-staging.savyour.com/assets/vendor/images/NoImage.png"
+        },
+        {
+          "id": 155,
+          "name": "Home Decor & Furniture",
+          "slug": "home-decor-furniture-category",
+          "image": "https://staging-assets.savyour.com/brand-categories/155/medium/q3tXDwAN0OTZ3OI8Gk1xi8iWV0XscGwb3txetnEI.jpg"
+        },
+        {
+          "id": 150,
+          "name": "Travel & Tourism",
+          "slug": "travel-tourism-category",
+          "image": "https://staging-assets.savyour.com/brand-categories/150/medium/zF6Ds7e5lOBVcNjTn8eMziaDZFjbrtJHMplfm9dg.jpg"
+        },
+        {
+          "id": 145,
+          "name": "Auto & Tyres",
+          "slug": "auto-tyres-category",
+          "image": "https://staging-assets.savyour.com/brand-categories/145/medium/8BMxxDHhvjdudoHQde0COo8Nh8xuHkVmtIdHHZf2.jpg"
+        },
+        {
+          "id": 151,
+          "name": "Mobile Phones & Electronics",
+          "slug": "mobile-phones-electronics-category",
+          "image": "https://staging-assets.savyour.com/brand-categories/151/medium/ONqsN1WzWIu0OzveuhlMtXqdLLVvtyUYj8rIMb5R.jpg"
+        },
+        {
+          "id": 152,
+          "name": "Beauty & Personal Care",
+          "slug": "beauty-personal-care-category",
+          "image": "https://staging-assets.savyour.com/brand-categories/152/medium/EpwFG8epbRBkQgpU6hdXxhTFTCcDWkkeuqdqs95M.jpg"
+        },
+        {
+          "id": 153,
+          "name": "Health & Fitness",
+          "slug": "health-fitness-category",
+          "image": "https://staging-assets.savyour.com/brand-categories/153/medium/ZDt5zmxCkRN5I4xKuVAdkjdAcwis1fUmrfZEmCZa.jpg"
+        },
+        {
+          "id": 146,
+          "name": "Fashion",
+          "slug": "fashion-category",
+          "image": "https://staging-assets.savyour.com/brand-categories/146/medium/YBADN6E4egjqVTBtZM4sNQbiaFUSNNa5IHL9pqhJ.jpg"
+        },
+        {
+          "id": 144,
+          "name": "Stores & Grocery",
+          "slug": "stores-grocery-category",
+          "image": "https://staging-assets.savyour.com/brand-categories/144/medium/5CBy3fx96PVyvbVqHzlaFvsxMlehU01wVJKKf3Ut.jpg"
+        },
+        {
+          "id": 143,
+          "name": "Restaurant & Eateriess",
+          "slug": "restaurant-eateriess-category",
+          "image": "https://staging-assets.savyour.com/brand-categories/143/medium/2a3sCo1bzZP3nDmTGmXiTJ4MhtaczaXkMedzGB51.png"
+        },
+        {
+          "id": 149,
+          "name": "Baby Clothes & Gear",
+          "slug": "baby-clothes-gear-category",
+          "image": "https://staging-assets.savyour.com/brand-categories/149/medium/1vhGADVvGbvFV1VyDNvQaFfvhHzwC1anYnECuNLt.jpg"
+        },
+        {
+          "id": 148,
+          "name": "Toys & Games",
+          "slug": "toys-games-category",
+          "image": "https://staging-assets.savyour.com/brand-categories/148/medium/2PGaZXm89LQGo9hmzeUgDIcqiDU59ubcAT7zwYxl.jpg"
+        },
+        {
+          "id": 147,
+          "name": "Books & Stationary",
+          "slug": "books-stationary-category",
+          "image": "https://staging-assets.savyour.com/brand-categories/147/medium/gI5X34ZTGruOp4q57rjhpA51ODAd3TwWn2mRI8xI.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3035,
+      "slug": "campaign_announcement",
+      "title": "",
+      "sub_title": "",
+      "group": "webview",
+      "type": "announcement",
+      "sub_type": "large",
+      "endpoint": "https://api-staging.savyour.com.pk/v6/app-media/campaign_announcement?limit=1&page=1",
+      "mixpanel_type": "campaignAnnouncementClicked",
+      "valid_till": null,
+      "is_see_all_shown": false,
+      "is_personalized": false,
+      "viewed_from": "",
+      "personalized_endpoint": "",
+      "end_date": "",
+      "see_all_type": "",
+      "items": {
+        "id": 125,
+        "image": "https://staging-assets.savyour.com/app-media/MiZgVdbFubg7Flh0wiP5kAOTG5HutVBvXCxUFUap.jpg",
+        "redirect_url": "https://staging-webview.savyour.com.pk/webview/campaign-webview"
+      }
+    },
+    {
+      "id": 3134,
+      "slug": "banner_slider",
+      "title": "",
+      "sub_title": "",
+      "group": "banner_slider",
+      "type": "banner_slider",
+      "sub_type": "",
+      "endpoint": "category-campaign/89",
+      "mixpanel_type": "",
+      "valid_till": null,
+      "is_see_all_shown": true,
+      "is_personalized": false,
+      "viewed_from": "",
+      "personalized_endpoint": "",
+      "end_date": "",
+      "items": [
+        {
+          "id": 308,
+          "image": "https://staging-assets.savyour.com/section-media/large/MxEj0YRHXIhYeH11aA0IFIEIUTNmxFTktqVwMdAn.jpg",
+          "redirect_type": "list_category_campaign",
+          "redirect_slug": "89"
+        }
+      ]
+    },
+    {
+      "id": 622,
+      "slug": "3gv8tlks",
+      "title": "Share yor expierence",
+      "sub_title": "Earn points by writing reviews!",
+      "group": "rating",
+      "type": "rating",
+      "sub_type": "small",
+      "endpoint": "https://api-staging.savyour.com.pk/v6/users/reviews/pending",
+      "mixpanel_type": "ratingClicked",
+      "valid_till": null,
+      "is_see_all_shown": true,
+      "is_personalized": false,
+      "viewed_from": "",
+      "personalized_endpoint": "",
+      "end_date": "",
+      "fetch_url": "https://api-staging.savyour.com.pk/v6/users/reviews/pending?limit=8",
+      "see_all_type": "",
+      "items": []
+    },
+    {
+      "id": 622,
+      "slug": "3gv8tlks",
+      "title": "Recommendations",
+      "sub_title": "",
+      "group": "recommendations",
+      "type": "recommendations",
+      "sub_type": "",
+      "endpoint": "",
+      "mixpanel_type": "ratingClicked",
+      "valid_till": null,
+      "is_see_all_shown": false,
+      "is_personalized": false,
+      "viewed_from": "",
+      "personalized_endpoint": "",
+      "end_date": "",
+      "fetch_url": "",
+      "see_all_type": "",
+      "items": [
+        {
+          "text": "Brands",
+          "type": "brand",
+          "fetch_url": "https://api-staging.savyour.com.pk/v6/brands/sections/promotional?title=top+20+brand+in+Karachi&screenName=outlet%20listing&redirectedSection=top%2020%20brand%20in%20Karachi&redirectedFrom=online%20home&redirectedSectionId=454"
+        },
+        {
+          "text": "Products",
+          "type": "product",
+          "fetch_url": "https://api-staging.savyour.com.pk/v6/products/see-all?screenName=product%20listing&redirectedSection=none&redirectedFrom=online%20home&redirectedSectionId=-1"
+        }
+      ]
+    }
+  ]
+}

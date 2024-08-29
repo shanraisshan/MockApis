@@ -1,0 +1,1066 @@
+{
+  "success": true,
+  "message": "",
+  "data": [
+    {
+      "id": 3134,
+      "slug": "value",
+      "title": "Value",
+      "sub_title": "",
+      "group": "value",
+      "type": "value",
+      "sub_type": "",
+      "endpoint": "",
+      "mixpanel_type": "",
+      "valid_till": null,
+      "is_see_all_shown": true,
+      "is_personalized": false,
+      "viewed_from": "",
+      "personalized_endpoint": "",
+      "see_all_type": "values",
+      "end_date": "",
+      "items": [
+        {
+          "name": "Material Source",
+          "image": "https://static.vecteezy.com/system/resources/previews/015/100/008/original/leaf-transparent-background-free-png.png"
+        },
+        {
+          "name": "Recyclable",
+          "image": "https://img.freepik.com/premium-vector/watercolor-clipart-floral-element-leaf-transparent-background_653046-119.jpg"
+        },
+        {
+          "name": "Reusability",
+          "image": "https://static.vecteezy.com/system/resources/previews/015/100/008/original/leaf-transparent-background-free-png.png"
+        },
+        {
+          "name": "Energy Efficient",
+          "image": "https://img.freepik.com/premium-vector/watercolor-clipart-floral-element-leaf-transparent-background_653046-119.jpg"
+        },
+        {
+          "name": "Values 5",
+          "image": "https://static.vecteezy.com/system/resources/previews/015/100/008/original/leaf-transparent-background-free-png.png"
+        },
+        {
+          "name": "Values 6",
+          "image": "https://img.freepik.com/premium-vector/watercolor-clipart-floral-element-leaf-transparent-background_653046-119.jpg"
+        }
+      ]
+    },
+    {
+      "id": 622,
+      "slug": "3gv8tlks",
+      "title": "",
+      "sub_title": "",
+      "group": "community",
+      "type": "community",
+      "sub_type": "",
+      "endpoint": "",
+      "mixpanel_type": "ratingClicked",
+      "valid_till": null,
+      "is_see_all_shown": true,
+      "is_personalized": false,
+      "viewed_from": "",
+      "personalized_endpoint": "",
+      "end_date": "",
+      "fetch_url": "",
+      "see_all_type": "",
+      "items": [
+        
+      ]
+    },
+    {
+      "id": 454,
+      "slug": "m6s678j8",
+      "title": "Save the Planet",
+      "sub_title": "",
+      "group": "brand",
+      "type": "brand",
+      "sub_type": "special_brands",
+      "endpoint": "https://api-staging.savyour.com.pk/v6/brands/sections/promotional?title=top+20+brand+in+Karachi",
+      "mixpanel_type": "outletClicked",
+      "background_color": "#0f008080",
+      "valid_till": null,
+      "is_see_all_shown": true,
+      "is_personalized": false,
+      "viewed_from": "",
+      "personalized_endpoint": "",
+      "end_date": "",
+      "see_all_type": "special_brands",
+      "items": [
+        {
+          "outlet": {
+            "cashback": {
+              "categories": [
+                {
+                  "category": "Accessories",
+                  "discount_type": "percentage",
+                  "current_cashback": 3,
+                  "previous_cashback": 2,
+                  "previous_discount_type": "percentage"
+                },
+                {
+                  "category": "T-shirts",
+                  "discount_type": "percentage",
+                  "current_cashback": 3,
+                  "previous_cashback": 2,
+                  "previous_discount_type": "percentage"
+                },
+                {
+                  "category": "Jeans",
+                  "discount_type": "percentage",
+                  "current_cashback": 3,
+                  "previous_cashback": 2,
+                  "previous_discount_type": "percentage"
+                },
+                {
+                  "category": "Ahmed category",
+                  "discount_type": "percentage",
+                  "current_cashback": 3,
+                  "previous_cashback": 2,
+                  "previous_discount_type": "percentage"
+                },
+                {
+                  "category": "New zarda",
+                  "discount_type": "percentage",
+                  "current_cashback": 3,
+                  "previous_cashback": 2,
+                  "previous_discount_type": "percentage"
+                },
+                {
+                  "category": "Hoodie",
+                  "discount_type": "percentage",
+                  "current_cashback": 1.8,
+                  "previous_cashback": 1.2,
+                  "previous_discount_type": "percentage"
+                }
+              ],
+              "redirect_url": "https://staging-stores.savyour.com.pk/pk/?sav_aff_info=savyour-504f3768784b72365a6d53334559575341666c4e2f673d3d-1724830699-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
+              "description": "",
+              "current_cashback": 3,
+              "previous_cashback": 2,
+              "discount_type": "percentage",
+              "previous_discount_type": "percentage",
+              "upto": true,
+              "redirection_type": "out",
+              "max_user_commission": "Max : Rs. 100.00/- Per Order",
+              "cashback_days": "in a day",
+              "average_cashback_days": "Avg. Cashback time: in a day",
+              "order_placed": "Today",
+              "notified_in": "15 Mins",
+              "is_showing": true,
+              "animation_info": {
+                "title": "Galaxy Cricket",
+                "sub_title": "Activated",
+                "description": "Cashback is available in the following categories only",
+                "fulfilled_by_text": ""
+              }
+            },
+            "id": 12,
+            "order_count": 0,
+            "rating_count": 106,
+            "name": "Online",
+            "type": "online",
+            "rating": 4.3
+          },
+          "id": 6,
+          "slug": "galaxy-cricket",
+          "name": "Galaxy Cricket",
+          "logo": "https://staging-assets.savyour.com/brands/6/oOvXCyCoVplyIyHR9ECpw80VmLxG3fTW1i6E03um.png",
+          "banner": "brands/6/SmaCoS5QM8paBvnOeG7JwCAUh9s5lgs0ZpmKrb2q.jpg",
+          "kv_image": "https://staging-assets.savyour.com/brands/6/3vzlbN2NMdJxJ4HAE757La51KU4v4YBRwYYwUuxA.png",
+          "monochrome_logo": "https://staging-assets.savyour.com/brands/6/oOvXCyCoVplyIyHR9ECpw80VmLxG3fTW1i6E03um.png",
+          "identity_logo": "https://staging-assets.savyour.com/brands/6/RWOXPgjsmEIoLCMIpOyDrXWPYT0gHT5zjSC2ZDtA.png",
+          "identifier": "testing.savyour.com.pk",
+          "type": "primary",
+          "business_category": {
+            "id": 5,
+            "name": "Fashion"
+          },
+          "categories": [
+            {
+              "id": 143,
+              "name": "Restaurant & Eateriess",
+              "slug": "restaurant-eateriess-category",
+              "meta_title": "HERE Title in [COUNTRY] Savyour offers.",
+              "meta_description": "HERE Looking for the latest smartphones, laptops, or other gadgets in [COUNTRY]? Savyour offers a wide selection of electronics at competitive prices.",
+              "share_msg": "",
+              "share_url": "https://phpstack-1286578-4664220.cloudwaysapps.com/ou34J",
+              "image": "https://staging-assets.savyour.com/brand-categories/143/medium/2a3sCo1bzZP3nDmTGmXiTJ4MhtaczaXkMedzGB51.png",
+              "subcategories": [
+                {
+                  "id": 171,
+                  "name": "Foodies",
+                  "slug": "foodies",
+                  "meta_title": null,
+                  "meta_description": null,
+                  "share_msg": null,
+                  "share_url": "https://savyour.app/dCaXJ",
+                  "image": "https://staging-assets.savyour.com/brand-subcategories/171/medium/yLxcwTJ71mLN7aR9x9qq7GlYYWee4Kh11KMln4R1.jpg"
+                }
+              ]
+            },
+            {
+              "id": 144,
+              "name": "Stores & Grocery",
+              "slug": "stores-grocery-category",
+              "meta_title": "Get paid to shop grocery!",
+              "meta_description": "Get paid to shop groceryaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!",
+              "share_msg": "",
+              "share_url": "https://phpstack-1286578-4664220.cloudwaysapps.com/kb8z4",
+              "image": "https://staging-assets.savyour.com/brand-categories/144/medium/5CBy3fx96PVyvbVqHzlaFvsxMlehU01wVJKKf3Ut.jpg",
+              "subcategories": [
+                
+              ]
+            }
+          ]
+        },
+        {
+          "outlet": {
+            "cashback": {
+              "categories": [
+                
+              ],
+              "redirect_url": "https://testing.savyour.com.pk/wp1?sav_aff_info=savyour-504f3768784b72365a6d53334559575341666c4e2f673d3d-1724830699-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
+              "description": "",
+              "current_cashback": 8,
+              "previous_cashback": 0,
+              "discount_type": "percentage",
+              "previous_discount_type": "percentage",
+              "upto": false,
+              "redirection_type": "out",
+              "max_user_commission": "Max : Rs. 20.00/- Per Order",
+              "cashback_days": "30 days",
+              "average_cashback_days": "Avg. Cashback time: 30 days",
+              "order_placed": "Today",
+              "notified_in": "15 Mins",
+              "is_showing": true,
+              "animation_info": {
+                "title": "Top Karachi",
+                "sub_title": "Activated",
+                "description": "Cashback is available in the following categories only",
+                "fulfilled_by_text": "Fulfilled by tttesting.savyour"
+              }
+            },
+            "id": 2552,
+            "order_count": 0,
+            "rating_count": 1,
+            "name": "Online",
+            "type": "online",
+            "rating": 4
+          },
+          "id": 3921,
+          "slug": "top-karachi",
+          "name": "Top Karachi",
+          "logo": "https://staging-assets.savyour.com/brands/3921/MVSF9ilFmFM6CbqALq3B48l7YAEGcHk6zToMj7yw.png",
+          "banner": "brands/3921/2grKHb5X4s2fFqHRATkmIh8ODMKu0EYJjPw9iLLn.png",
+          "kv_image": "https://staging-assets.savyour.com/brands/3921/KSRoQn6suQW9ZHT75HTlVl0AxTEaIcAFViSfpowu.png",
+          "monochrome_logo": "https://staging-assets.savyour.com/brands/3921/MVSF9ilFmFM6CbqALq3B48l7YAEGcHk6zToMj7yw.png",
+          "identity_logo": "https://staging-assets.savyour.com/brands/3921/MlnISE7USUEXINLBjwAZkQn24rq96QfylehOauSS.png",
+          "identifier": "twwesting.savyour.com.pk",
+          "type": "primary",
+          "business_category": {
+            "id": 4,
+            "name": "Food & Restaurants"
+          },
+          "categories": [
+            
+          ]
+        },
+        {
+          "outlet": {
+            "cashback": {
+              "categories": [
+                {
+                  "category": "Testing",
+                  "discount_type": "percentage",
+                  "current_cashback": 2,
+                  "previous_cashback": 0,
+                  "previous_discount_type": "percentage"
+                },
+                {
+                  "category": "Fashion",
+                  "discount_type": "percentage",
+                  "current_cashback": 2,
+                  "previous_cashback": 0,
+                  "previous_discount_type": "percentage"
+                },
+                {
+                  "category": "Bags",
+                  "discount_type": "percentage",
+                  "current_cashback": 2,
+                  "previous_cashback": 0,
+                  "previous_discount_type": "percentage"
+                },
+                {
+                  "category": "Test category electronic",
+                  "discount_type": "percentage",
+                  "current_cashback": 2,
+                  "previous_cashback": 0,
+                  "previous_discount_type": "percentage"
+                }
+              ],
+              "redirect_url": "https://burgerlab.com.pk/?publisher_id=savyour-504f3768784b72365a6d53334559575341666c4e2f673d3d-1724830699-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
+              "description": "",
+              "current_cashback": 2,
+              "previous_cashback": 0,
+              "discount_type": "percentage",
+              "previous_discount_type": "percentage",
+              "upto": true,
+              "redirection_type": "in-app",
+              "max_user_commission": "Max : Rs. 15.00/- Per Order",
+              "cashback_days": "5 days",
+              "average_cashback_days": "Avg. Cashback time: 5 days",
+              "order_placed": "Today",
+              "notified_in": "36 Hrs",
+              "is_showing": true,
+              "animation_info": {
+                "title": "Burger Lab",
+                "sub_title": "Activated",
+                "description": "Cashback is available in the following categories only",
+                "fulfilled_by_text": ""
+              }
+            },
+            "id": 5,
+            "order_count": 0,
+            "rating_count": 27,
+            "name": "Online",
+            "type": "online",
+            "rating": 4.1
+          },
+          "id": 263,
+          "slug": "burger-lab",
+          "name": "Burger Lab",
+          "logo": "https://staging-assets.savyour.com/brands/263/1685020441.png",
+          "banner": "brands/263/qWviqlKvw8jYVJekpulmd5cp8h2TUcOR0r6ZBuS1.jpg",
+          "kv_image": "https://staging-assets.savyour.com/brands/263/bvRQQ1zZ50yvr67axJVHUjFIXw1yEerxcWka1yVS.png",
+          "monochrome_logo": "https://staging-assets.savyour.com/brands/263/1685020441.png",
+          "identity_logo": "https://staging-assets.savyour.com/brands/263/0itucrwxFtfiew4pGlqgq6eh3jquyZYu3wuO3bSe.png",
+          "identifier": "burger-lab-jZgfjuXul4-brand.pk",
+          "type": "primary",
+          "business_category": {
+            "id": 4,
+            "name": "Food & Restaurants"
+          },
+          "categories": [
+            {
+              "id": 143,
+              "name": "Restaurant & Eateriess",
+              "slug": "restaurant-eateriess-category",
+              "meta_title": "",
+              "meta_description": "",
+              "share_msg": "",
+              "share_url": "https://savyour.app/ou34J",
+              "image": "https://staging-assets.savyour.com/brand-categories/143/medium/2a3sCo1bzZP3nDmTGmXiTJ4MhtaczaXkMedzGB51.png",
+              "subcategories": [
+                
+              ]
+            }
+          ]
+        },
+        {
+          "outlet": {
+            "cashback": {
+              "categories": [
+                
+              ],
+              "redirect_url": "http://web.savyour.local/testdomain?sav_aff_info=savyour-504f3768784b72365a6d53334559575341666c4e2f673d3d-1724830699-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
+              "description": "",
+              "current_cashback": 4,
+              "previous_cashback": 0,
+              "discount_type": "percentage",
+              "previous_discount_type": "percentage",
+              "upto": false,
+              "redirection_type": "out",
+              "max_user_commission": "Max : Rs. 5.00/- Per Order",
+              "cashback_days": "21 days",
+              "average_cashback_days": "Avg. Cashback time: 21 days",
+              "order_placed": "Today",
+              "notified_in": "15 Mins",
+              "is_showing": true,
+              "animation_info": {
+                "title": "Hooria's Beauty Salon",
+                "sub_title": "Activated",
+                "description": "Cashback is available in the following categories only",
+                "fulfilled_by_text": ""
+              }
+            },
+            "id": 536,
+            "order_count": 0,
+            "rating_count": 5,
+            "name": "Online",
+            "type": "online",
+            "rating": 4
+          },
+          "id": 12,
+          "slug": "hoorias-beauty-salon",
+          "name": "Hooria's Beauty Salon",
+          "logo": "https://staging-assets.savyour.com/brand-asset/July2017/A6c40SlddnGDAQ8pzhXc.jpg",
+          "banner": "brands/12/FTV0rF2ufnFKXK2qePzN41bnMKAH75IkVkfhyPzh.jpg",
+          "kv_image": "https://staging-assets.savyour.com/brands/12/Hh9r6IMHi2d1PcArZj1Ltj69oC2iyztzuyd5hMdd.png",
+          "monochrome_logo": "https://staging-assets.savyour.com/brand-asset/July2017/A6c40SlddnGDAQ8pzhXc.jpg",
+          "identity_logo": "https://staging-assets.savyour.com/brands/12/TyPlpwEQY8W369KxVKGPTZEfYA9PMpHfdjCPMoOk.png",
+          "identifier": "google.com",
+          "type": "primary",
+          "business_category": {
+            "id": 1,
+            "name": "Health, Beauty & Gifts"
+          },
+          "categories": [
+            {
+              "id": 146,
+              "name": "Fashion",
+              "slug": "fashion-category",
+              "meta_title": "",
+              "meta_description": "",
+              "share_msg": "",
+              "share_url": "https://savyour.app/UC3l7",
+              "image": "https://staging-assets.savyour.com/brand-categories/146/medium/YBADN6E4egjqVTBtZM4sNQbiaFUSNNa5IHL9pqhJ.jpg",
+              "subcategories": [
+                {
+                  "id": 179,
+                  "name": "Men",
+                  "slug": "men-subcategory",
+                  "meta_title": null,
+                  "meta_description": null,
+                  "share_msg": null,
+                  "share_url": "https://savyour.app/tAPDo",
+                  "image": "https://staging-assets.savyour.com/brand-subcategories/179/medium/2HWKbYibGx1wgfQFKm0JVqrjKWrrqCMWoXqm7XiE.png"
+                }
+              ]
+            },
+            {
+              "id": 143,
+              "name": "Restaurant & Eateriess",
+              "slug": "restaurant-eateriess-category",
+              "meta_title": "",
+              "meta_description": "",
+              "share_msg": "",
+              "share_url": "https://savyour.app/ou34J",
+              "image": "https://staging-assets.savyour.com/brand-categories/143/medium/2a3sCo1bzZP3nDmTGmXiTJ4MhtaczaXkMedzGB51.png",
+              "subcategories": [
+                
+              ]
+            },
+            {
+              "id": 152,
+              "name": "Beauty & Personal Care",
+              "slug": "beauty-personal-care-category",
+              "meta_title": "",
+              "meta_description": "",
+              "share_msg": "",
+              "share_url": "https://savyour.app/bb0xN",
+              "image": "https://staging-assets.savyour.com/brand-categories/152/medium/EpwFG8epbRBkQgpU6hdXxhTFTCcDWkkeuqdqs95M.jpg",
+              "subcategories": [
+                
+              ]
+            }
+          ]
+        },
+        {
+          "outlet": {
+            "cashback": {
+              "categories": [
+                
+              ],
+              "redirect_url": "https://www.facebook.com?sav_aff_info=savyour-504f3768784b72365a6d53334559575341666c4e2f673d3d-1724830699-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
+              "description": "",
+              "current_cashback": 2,
+              "previous_cashback": 0,
+              "discount_type": "percentage",
+              "previous_discount_type": "percentage",
+              "upto": false,
+              "redirection_type": "in-app",
+              "max_user_commission": "Max : Rs. 10.00/- Per Order",
+              "cashback_days": "21 days",
+              "average_cashback_days": "Avg. Cashback time: 21 days",
+              "order_placed": "Today",
+              "notified_in": "15 Mins",
+              "is_showing": true,
+              "animation_info": {
+                "title": "California Pizza",
+                "sub_title": "Activated",
+                "description": "Cashback is available in the following categories only",
+                "fulfilled_by_text": "Fulfilled by gaditek"
+              }
+            },
+            "id": 82,
+            "order_count": 0,
+            "rating_count": 12,
+            "name": "Online",
+            "type": "online",
+            "rating": 4.5
+          },
+          "id": 264,
+          "slug": "california-pizza",
+          "name": "California Pizza",
+          "logo": "https://staging-assets.savyour.com/brands/264/OorK4ycVPsuXWlDn5LTDnqRgZ5wyP7Uu4Qa8haZ6.png",
+          "banner": "brand-asset/November2018/44122145_1926599907419899_8496740952797347840_n2.jpg",
+          "kv_image": "https://staging-assets.savyour.com/brands/264/0vuJ449ITULK2xrqyEF5QSExk0ERjzJ7PErdhA5X.png",
+          "monochrome_logo": "https://staging-assets.savyour.com/brands/264/OorK4ycVPsuXWlDn5LTDnqRgZ5wyP7Uu4Qa8haZ6.png",
+          "identity_logo": "https://staging-assets.savyour.com/brands/264/LptditTZdOtqPKtuPfN18Wpd1LiTmlIrN7huPmv9.png",
+          "identifier": "californiapizza.com.pk",
+          "type": "primary",
+          "business_category": {
+            "id": 4,
+            "name": "Food & Restaurants"
+          },
+          "categories": [
+            {
+              "id": 143,
+              "name": "Restaurant & Eateriess",
+              "slug": "restaurant-eateriess-category",
+              "meta_title": "",
+              "meta_description": "",
+              "share_msg": "",
+              "share_url": "https://savyour.app/ou34J",
+              "image": "https://staging-assets.savyour.com/brand-categories/143/medium/2a3sCo1bzZP3nDmTGmXiTJ4MhtaczaXkMedzGB51.png",
+              "subcategories": [
+                
+              ]
+            }
+          ]
+        },
+        {
+          "outlet": {
+            "cashback": {
+              "categories": [
+                
+              ],
+              "redirect_url": "https://pk.hemaniherbals.com/?wpam_id=1&sav_aff_info=savyour-504f3768784b72365a6d53334559575341666c4e2f673d3d-1724830699-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
+              "description": "Order Now on website and Kamao 10% Cashback inside Savyour Wallet",
+              "current_cashback": 4,
+              "previous_cashback": 0,
+              "discount_type": "percentage",
+              "previous_discount_type": "percentage",
+              "upto": false,
+              "redirection_type": "out",
+              "max_user_commission": "Max : No limit",
+              "cashback_days": "21 days",
+              "average_cashback_days": "Avg. Cashback time: 21 days",
+              "order_placed": "Today",
+              "notified_in": "15 Mins",
+              "is_showing": true,
+              "animation_info": {
+                "title": "Ice Mokes",
+                "sub_title": "Activated",
+                "description": "Cashback is available in the following categories only",
+                "fulfilled_by_text": ""
+              }
+            },
+            "id": 348,
+            "order_count": 0,
+            "rating_count": 3,
+            "name": "Online",
+            "type": "online",
+            "rating": 4.3
+          },
+          "id": 5,
+          "slug": "ice-mokes",
+          "name": "Ice Mokes",
+          "logo": "https://staging-assets.savyour.com/brand-asset/July2017/zC3KoZU2MAGIu0JPMT7f.png",
+          "banner": "brand-asset/July2017/IPsJq7B4lUQKyZXKVQPq.jpg",
+          "kv_image": "https://staging-assets.savyour.com/brands/5/4nC4ZLAJyEASyiVG5ad0cLdXSOs7jkRYnr4CFX52.jpg",
+          "monochrome_logo": "https://staging-assets.savyour.com/brand-asset/July2017/zC3KoZU2MAGIu0JPMT7f.png",
+          "identity_logo": "https://staging.savyour.com/pk-en/assets/vendor/images/NoImage.png",
+          "identifier": "icesmokes.com",
+          "type": "primary",
+          "business_category": {
+            "id": 1,
+            "name": "Health, Beauty & Gifts"
+          },
+          "categories": [
+            
+          ]
+        },
+        {
+          "outlet": {
+            "cashback": {
+              "categories": [
+                {
+                  "category": "Burgers",
+                  "discount_type": "percentage",
+                  "current_cashback": 13.25,
+                  "previous_cashback": 0,
+                  "previous_discount_type": "percentage"
+                },
+                {
+                  "category": "Loaded fries",
+                  "discount_type": "percentage",
+                  "current_cashback": 13.25,
+                  "previous_cashback": 0,
+                  "previous_discount_type": "percentage"
+                },
+                {
+                  "category": "Beverages & others",
+                  "discount_type": "percentage",
+                  "current_cashback": 13.25,
+                  "previous_cashback": 0,
+                  "previous_discount_type": "percentage"
+                }
+              ],
+              "redirect_url": "https://burgeroclock.com.pk/?_suid_hash=41415961334a666954567669585a4f303842414e65616869707a76646e5349442f7375464a42535853666e2f37513937454b356477373572666b6e704f5a4547&_suj_time=1665651267&_su_channel=web_savyour&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program&sav_aff_info=savyour-504f3768784b72365a6d53334559575341666c4e2f673d3d-1724830699-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
+              "description": "Burger O’Clock is a modern restaurant that exists to delight passionate burger lovers. Walk in and place your order and sit back and relax and soak in our attractive ambiance as you wait for your order to be prepared. All burgers are cooked to order and we pride ourselves on serving fresh, delicious and hygienic burgers that tantalize the taste buds and excite your senses. We have perfected the optimized packaging to enhance your burger experience. Our packaging is designed to be easy to hold and carry as well as ensure that your burgers maintain their flavour and shape. For those who do not prefer a dine in or takeaway experience, we offer our patrons the option to have their order delivered at their home or office.",
+              "current_cashback": 40,
+              "previous_cashback": 0,
+              "discount_type": "percentage",
+              "previous_discount_type": "percentage",
+              "upto": true,
+              "redirection_type": "out",
+              "max_user_commission": "Max : Rs. 200.00/- Per Order",
+              "cashback_days": "21 days",
+              "average_cashback_days": "Avg. Cashback time: 21 days",
+              "order_placed": "Today",
+              "notified_in": "15 Mins",
+              "is_showing": true,
+              "animation_info": {
+                "title": "Burger O'Clock",
+                "sub_title": "Activated",
+                "description": "Cashback is available in the following categories only",
+                "fulfilled_by_text": "Fulfilled by burgeroclock"
+              }
+            },
+            "id": 946,
+            "order_count": 0,
+            "rating_count": 2,
+            "name": "Online",
+            "type": "online",
+            "rating": 5
+          },
+          "id": 3305,
+          "slug": "burger-oclock",
+          "name": "Burger O'Clock",
+          "logo": "https://staging-assets.savyour.com/brands/3305/viTVISznO0rrQizHkTLTsDkXSpDU5Z4bv47apdhR.jpg",
+          "banner": "brands/3305/R0K00m0hxOuDWYoooaZ7pqxg3yzjUxDTFXShxqXR.jpg",
+          "kv_image": "",
+          "monochrome_logo": "https://staging-assets.savyour.com/brands/3305/viTVISznO0rrQizHkTLTsDkXSpDU5Z4bv47apdhR.jpg",
+          "identity_logo": "",
+          "identifier": "burgeroclock.com",
+          "type": "primary",
+          "business_category": {
+            "id": 11,
+            "name": "Global Categories"
+          },
+          "categories": [
+            
+          ]
+        },
+        {
+          "outlet": {
+            "cashback": {
+              "categories": [
+                
+              ],
+              "redirect_url": "https://testing.savyour.com.pk/wordpress?sav_aff_info=savyour-504f3768784b72365a6d53334559575341666c4e2f673d3d-1724830699-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
+              "description": "",
+              "current_cashback": 24,
+              "previous_cashback": 0,
+              "discount_type": "percentage",
+              "previous_discount_type": "none",
+              "upto": false,
+              "redirection_type": "out",
+              "max_user_commission": "Max : Rs. 49.00/- Per Order",
+              "cashback_days": "30 days",
+              "average_cashback_days": "Avg. Cashback time: 30 days",
+              "order_placed": "Today",
+              "notified_in": "15 Mins",
+              "is_showing": true,
+              "animation_info": {
+                "title": "Bike n Car",
+                "sub_title": "Activated",
+                "description": "Cashback is available in the following categories only",
+                "fulfilled_by_text": ""
+              }
+            },
+            "id": 1145,
+            "order_count": 0,
+            "rating_count": 2,
+            "name": "Online",
+            "type": "online",
+            "rating": 3.5
+          },
+          "id": 841,
+          "slug": "bike-n-car",
+          "name": "Bike n Car",
+          "logo": "https://staging-assets.savyour.com/brands/841/Nb4THyW0qcoUFOyEc5ySbrJjTOvxUAV35Mb0cjEN.png",
+          "banner": "brand-asset/December2018/14492516_1240668259331501_4783125533744748201_n.jpg",
+          "kv_image": "https://staging-assets.savyour.com/brands/841/ct8X0Lale8w7vW5NydKkkJZWfiTTbKtkUV8viGmz.png",
+          "monochrome_logo": "https://staging-assets.savyour.com/brands/841/Nb4THyW0qcoUFOyEc5ySbrJjTOvxUAV35Mb0cjEN.png",
+          "identity_logo": "https://vendor-staging.savyour.com/assets/vendor/images/NoImage.png",
+          "identifier": "nokia.com",
+          "type": "primary",
+          "business_category": {
+            "id": 6,
+            "name": "Others"
+          },
+          "categories": [
+            {
+              "id": 145,
+              "name": "Auto & Tyres",
+              "slug": "auto-tyres-category",
+              "meta_title": "Find tools and accessories for your automobiles",
+              "meta_description": "Find tools and accessories for your automobiles",
+              "share_msg": "",
+              "share_url": "https://savyour.app/Jx1dj",
+              "image": "https://staging-assets.savyour.com/brand-categories/145/medium/8BMxxDHhvjdudoHQde0COo8Nh8xuHkVmtIdHHZf2.jpg",
+              "subcategories": [
+                {
+                  "id": 946,
+                  "name": "Bikes",
+                  "slug": "bikes",
+                  "meta_title": "Title in [COUNTRY] Savyour offers.",
+                  "meta_description": "Looking for the latest smartphones, laptops, or other gadgets in [COUNTRY] Savyour offers a wide selection of electronics at competitive prices.",
+                  "share_msg": null,
+                  "share_url": "https://phpstack-1286578-4664220.cloudwaysapps.com/x8Oj1",
+                  "image": "https://staging-assets.savyour.com/brand-subcategories/946/medium/3lyqUJXyN8NSnrVHkzMS4Dtwt1RBMgaEEkA4QVqy.jpg"
+                }
+              ]
+            },
+            {
+              "id": 143,
+              "name": "Restaurant & Eateriess",
+              "slug": "restaurant-eateriess-category",
+              "meta_title": "HERE Title in [COUNTRY] Savyour offers.",
+              "meta_description": "HERE Looking for the latest smartphones, laptops, or other gadgets in [COUNTRY]? Savyour offers a wide selection of electronics at competitive prices.",
+              "share_msg": "",
+              "share_url": "https://phpstack-1286578-4664220.cloudwaysapps.com/ou34J",
+              "image": "https://staging-assets.savyour.com/brand-categories/143/medium/2a3sCo1bzZP3nDmTGmXiTJ4MhtaczaXkMedzGB51.png",
+              "subcategories": [
+                
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 945,
+      "slug": "category",
+      "title": "Categories",
+      "sub_title": "",
+      "group": "category",
+      "type": "category",
+      "sub_type": "small",
+      "endpoint": "https://api-staging.savyour.com.pk/v6/brand-categories",
+      "mixpanel_type": "categoryClicked",
+      "valid_till": null,
+      "is_see_all_shown": false,
+      "is_personalized": false,
+      "viewed_from": "",
+      "personalized_endpoint": "",
+      "end_date": "",
+      "see_all_type": "",
+      "items": [
+        {
+          "id": 229,
+          "name": "Women Fashion",
+          "slug": "women-fashion-category",
+          "image": "https://vendor-staging.savyour.com/assets/vendor/images/NoImage.png"
+        },
+        {
+          "id": 155,
+          "name": "Home Decor & Furniture",
+          "slug": "home-decor-furniture-category",
+          "image": "https://staging-assets.savyour.com/brand-categories/155/medium/q3tXDwAN0OTZ3OI8Gk1xi8iWV0XscGwb3txetnEI.jpg"
+        },
+        {
+          "id": 150,
+          "name": "Travel & Tourism",
+          "slug": "travel-tourism-category",
+          "image": "https://staging-assets.savyour.com/brand-categories/150/medium/zF6Ds7e5lOBVcNjTn8eMziaDZFjbrtJHMplfm9dg.jpg"
+        },
+        {
+          "id": 145,
+          "name": "Auto & Tyres",
+          "slug": "auto-tyres-category",
+          "image": "https://staging-assets.savyour.com/brand-categories/145/medium/8BMxxDHhvjdudoHQde0COo8Nh8xuHkVmtIdHHZf2.jpg"
+        },
+        {
+          "id": 151,
+          "name": "Mobile Phones & Electronics",
+          "slug": "mobile-phones-electronics-category",
+          "image": "https://staging-assets.savyour.com/brand-categories/151/medium/ONqsN1WzWIu0OzveuhlMtXqdLLVvtyUYj8rIMb5R.jpg"
+        },
+        {
+          "id": 152,
+          "name": "Beauty & Personal Care",
+          "slug": "beauty-personal-care-category",
+          "image": "https://staging-assets.savyour.com/brand-categories/152/medium/EpwFG8epbRBkQgpU6hdXxhTFTCcDWkkeuqdqs95M.jpg"
+        },
+        {
+          "id": 153,
+          "name": "Health & Fitness",
+          "slug": "health-fitness-category",
+          "image": "https://staging-assets.savyour.com/brand-categories/153/medium/ZDt5zmxCkRN5I4xKuVAdkjdAcwis1fUmrfZEmCZa.jpg"
+        },
+        {
+          "id": 146,
+          "name": "Fashion",
+          "slug": "fashion-category",
+          "image": "https://staging-assets.savyour.com/brand-categories/146/medium/YBADN6E4egjqVTBtZM4sNQbiaFUSNNa5IHL9pqhJ.jpg"
+        },
+        {
+          "id": 144,
+          "name": "Stores & Grocery",
+          "slug": "stores-grocery-category",
+          "image": "https://staging-assets.savyour.com/brand-categories/144/medium/5CBy3fx96PVyvbVqHzlaFvsxMlehU01wVJKKf3Ut.jpg"
+        },
+        {
+          "id": 143,
+          "name": "Restaurant & Eateriess",
+          "slug": "restaurant-eateriess-category",
+          "image": "https://staging-assets.savyour.com/brand-categories/143/medium/2a3sCo1bzZP3nDmTGmXiTJ4MhtaczaXkMedzGB51.png"
+        },
+        {
+          "id": 149,
+          "name": "Baby Clothes & Gear",
+          "slug": "baby-clothes-gear-category",
+          "image": "https://staging-assets.savyour.com/brand-categories/149/medium/1vhGADVvGbvFV1VyDNvQaFfvhHzwC1anYnECuNLt.jpg"
+        },
+        {
+          "id": 148,
+          "name": "Toys & Games",
+          "slug": "toys-games-category",
+          "image": "https://staging-assets.savyour.com/brand-categories/148/medium/2PGaZXm89LQGo9hmzeUgDIcqiDU59ubcAT7zwYxl.jpg"
+        },
+        {
+          "id": 147,
+          "name": "Books & Stationary",
+          "slug": "books-stationary-category",
+          "image": "https://staging-assets.savyour.com/brand-categories/147/medium/gI5X34ZTGruOp4q57rjhpA51ODAd3TwWn2mRI8xI.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3035,
+      "slug": "campaign_announcement",
+      "title": "",
+      "sub_title": "",
+      "group": "webview",
+      "type": "announcement",
+      "sub_type": "large",
+      "endpoint": "https://api-staging.savyour.com.pk/v6/app-media/campaign_announcement?limit=1&page=1",
+      "mixpanel_type": "campaignAnnouncementClicked",
+      "valid_till": null,
+      "is_see_all_shown": false,
+      "is_personalized": false,
+      "viewed_from": "",
+      "personalized_endpoint": "",
+      "end_date": "",
+      "see_all_type": "",
+      "items": {
+        "id": 125,
+        "image": "https://staging-assets.savyour.com/app-media/MiZgVdbFubg7Flh0wiP5kAOTG5HutVBvXCxUFUap.jpg",
+        "redirect_url": "https://staging-webview.savyour.com.pk/webview/campaign-webview"
+      }
+    },
+    {
+      "id": 3134,
+      "slug": "banner_slider",
+      "title": "",
+      "sub_title": "",
+      "group": "banner_slider",
+      "type": "banner_slider",
+      "sub_type": "",
+      "endpoint": "category-campaign/89",
+      "mixpanel_type": "",
+      "valid_till": null,
+      "is_see_all_shown": true,
+      "is_personalized": false,
+      "viewed_from": "",
+      "personalized_endpoint": "",
+      "end_date": "",
+      "items": [
+        {
+          "id": 308,
+          "image": "https://staging-assets.savyour.com/section-media/large/MxEj0YRHXIhYeH11aA0IFIEIUTNmxFTktqVwMdAn.jpg",
+          "redirect_type": "list_category_campaign",
+          "redirect_slug": "89"
+        }
+      ]
+    },
+    {
+      "id": 622,
+      "slug": "3gv8tlks",
+      "title": "Share yor expierence",
+      "sub_title": "Earn points by writing reviews!",
+      "group": "rating",
+      "type": "rating",
+      "sub_type": "small",
+      "endpoint": "https://api-staging.savyour.com.pk/v6/users/reviews/pending",
+      "mixpanel_type": "ratingClicked",
+      "valid_till": null,
+      "is_see_all_shown": true,
+      "is_personalized": false,
+      "viewed_from": "",
+      "personalized_endpoint": "",
+      "end_date": "",
+      "fetch_url": "https://api-staging.savyour.com.pk/v6/users/reviews/pending?limit=8",
+      "see_all_type": "",
+      "items": [
+        
+      ]
+    },
+    {
+      "id": 622,
+      "slug": "3gv8tlks",
+      "title": "Recommendations",
+      "sub_title": "",
+      "group": "recommendations",
+      "type": "recommendations",
+      "sub_type": "",
+      "endpoint": "",
+      "mixpanel_type": "ratingClicked",
+      "valid_till": null,
+      "is_see_all_shown": false,
+      "is_personalized": false,
+      "viewed_from": "",
+      "personalized_endpoint": "",
+      "end_date": "",
+      "fetch_url": "",
+      "see_all_type": "",
+      "items": [
+        {
+          "text": "Brands",
+          "type": "brand",
+          "sections": [
+            {
+              "id": 79,
+              "slug": "pagination",
+              "title": "",
+              "fetch_url": "https://api-staging.savyour.com.pk/v6/brands/types/promotional?type=online",
+              "endpoint": "https://api-staging.savyour.com.pk/v6/brands/types/promotional?type=online",
+              "mixpanel_type": "",
+              "sub_type": "grid",
+              "sub_title": "",
+              "is_see_all_shown": false,
+              "type": "pagination",
+              "group": "",
+              "sortable_status": 0,
+              "items": [
+                
+              ],
+              "filters": [
+                {
+                  "name": "Categories",
+                  "query_param_keys": [
+                    "category_ids"
+                  ],
+                  "key": "category_ids",
+                  "type": "category",
+                  "sub_type": "pill",
+                  "fetch_url": "https://api-staging.savyour.com.pk/v6/products/filters?filters[]=categories"
+                }
+              ],
+              "sort": [
+                {
+                  "name": "Featured",
+                  "key": "featured",
+                  "is_selected": true
+                },
+                {
+                  "name": "By name (A-Z)",
+                  "key": "name",
+                  "is_selected": false
+                },
+                {
+                  "name": "By name (Z-A)",
+                  "key": "name_desc",
+                  "is_selected": false
+                },
+                {
+                  "name": "By Cashback (high to low)",
+                  "key": "highest_cashback",
+                  "is_selected": false
+                },
+                {
+                  "name": "By Cashback (low to high)",
+                  "key": "highest_cashback_asc",
+                  "is_selected": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Products",
+          "type": "product",
+          "sections": [
+            {
+              "id": 3163,
+              "slug": "pagination",
+              "title": "",
+              "fetch_url": "https://api-staging.savyour.com.pk/v6/list/products/best_seller",
+              "endpoint": "",
+              "mixpanel_type": "",
+              "sub_type": "grid",
+              "sub_title": "",
+              "is_see_all_shown": false,
+              "is_sortable": 1,
+              "sort_order": 5,
+              "type": "pagination_product",
+              "filters": [
+                {
+                  "name": "Categories",
+                  "query_param_keys": [
+                    "category_ids"
+                  ],
+                  "key": "category_ids",
+                  "type": "category",
+                  "sub_type": "pill",
+                  "fetch_url": "https://api-staging.savyour.com.pk/v6/products/filters?filters[]=categories&filter_type=products"
+                },
+                {
+                  "name": "Brands",
+                  "query_param_keys": [
+                    "brand_ids"
+                  ],
+                  "key": "brand_ids",
+                  "type": "brand",
+                  "sub_type": "pill",
+                  "fetch_url": "https://api-staging.savyour.com.pk/v6/products/filters?filters[]=brands&limit=all"
+                },
+                {
+                  "name": "Price Range",
+                  "query_param_keys": [
+                    "min_price",
+                    "max_price"
+                  ],
+                  "key": "price_range",
+                  "type": "product",
+                  "sub_type": "range_slider"
+                }
+              ],
+              "sort": [
+                {
+                  "name": "Featured",
+                  "key": "featured",
+                  "is_selected": true
+                },
+                {
+                  "name": "Product name (A-Z)",
+                  "key": "name_asc",
+                  "is_selected": false
+                },
+                {
+                  "name": "Product name (Z-A)",
+                  "key": "name_desc",
+                  "is_selected": false
+                },
+                {
+                  "name": "Price (high to low)",
+                  "key": "price_desc",
+                  "is_selected": false
+                },
+                {
+                  "name": "Price (low to high)",
+                  "key": "price_asc",
+                  "is_selected": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
