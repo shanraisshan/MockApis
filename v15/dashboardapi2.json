@@ -78,7 +78,7 @@
       "sub_type": "special_brands",
       "endpoint": "https://api-staging.savyour.com.pk/v6/brands/sections/promotional?title=top+20+brand+in+Karachi",
       "mixpanel_type": "outletClicked",
-      "background_color": "#0f008080",
+      "background_color": "#F0F7F7",
       "valid_till": null,
       "is_see_all_shown": true,
       "is_personalized": false,
