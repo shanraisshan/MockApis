@@ -1928,24 +1928,24 @@
         }
       ]
     },
-    {
-      "id": 470,
-      "slug": "just_for_you",
-      "title": "Just For You ❤️",
-      "sub_title": "",
-      "group": "just_for_you",
-      "type": "pagination",
-      "sub_type": "grid",
-      "endpoint": "https://api-staging.savyour.com.pk/v6/brands/types/just-for-you?title=Just+For+You+%E2%9D%A4%EF%B8%8F",
-      "mixpanel_type": "",
-      "valid_till": null,
-      "is_see_all_shown": false,
-      "is_personalized": true,
-      "viewed_from": "home-page-view",
-      "personalized_endpoint": "catalogs/default_catalog/placements/test-jfu",
-      "end_date": "",
-      "fetch_url": "https://api-staging.savyour.com.pk/v6/brands/types/just_for_you",
-      "items": []
-    }
+   {
+            "id": 470,
+            "slug": "just_for_you",
+            "title": "Just For You ❤️",
+            "sub_title": "",
+            "group": "just_for_you",
+            "type": "pagination",
+            "sub_type": "grid",
+            "endpoint": "https://api-staging.savyour.com.pk/v6/brands/types/just-for-you?title=Just+For+You+%E2%9D%A4%EF%B8%8F",
+            "mixpanel_type": "",
+            "valid_till": null,
+            "is_see_all_shown": false,
+            "is_personalized": true,
+            "viewed_from": "home-page-view",
+            "personalized_endpoint": "catalogs/default_catalog/placements/test-jfu",
+            "end_date": "",
+            "fetch_url": "https://api-staging.savyour.com.pk/v6/brands/types/just_for_you",
+            "items": []
+        }
   ]
 }
