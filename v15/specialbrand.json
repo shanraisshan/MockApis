@@ -1917,7 +1917,7 @@
       "sub_title": "",
       "group": "just_for_you",
       "type": "pagination",
-      "sub_type": "kv",
+      "sub_type": "grid",
       "endpoint": "https://api-staging.savyour.com.pk/v6/brands/types/just-for-you?title=Just+For+You+%E2%9D%A4%EF%B8%8F",
       "mixpanel_type": "",
       "valid_till": null,
