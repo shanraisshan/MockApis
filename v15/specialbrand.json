@@ -1,0 +1,1933 @@
+{
+  "success": true,
+  "message": "",
+  "data": [
+    
+    {
+      "id": 3365,
+      "slug": "brand-campaign",
+      "title": "Hot Deals",
+      "sub_title": "",
+      "group": "brand_campaign",
+      "type": "brand_campaign",
+      "sub_type": "small",
+      "endpoint": "https://api-staging.savyour.com.pk/v6/campaigns/brand",
+      "mixpanel_type": "outletClicked",
+      "valid_till": null,
+      "is_see_all_shown": true,
+      "is_personalized": false,
+      "viewed_from": "",
+      "personalized_endpoint": "",
+      "end_date": "",
+      "see_all_type": "",
+      "items": [
+        {
+          "id": 556,
+          "title": "Galaxy Cricket",
+          "slug": "this-is-test",
+          "sub_title": "Grab now huge cashvback👻👻💯",
+          "is_active": true,
+          "share_msg": "*Crazy Promotion through Savyour*\n-> Heal your self or you will dead 👻👻💯 on Galaxy Cricket\n-> *PLUS UPTO 2% Cashback*\n-> Offer Valid Till: October 23rd 2024\n\nJaldi Karo, Savyour Karo",
+          "image": "https://savyour-staging.s3.ap-south-1.amazonaws.com/brand-campaigns/Uu9Hq9yBhBm58H2AFyLfu9GzBuMAg27vcNETXyTR.jpg",
+          "current_cashback": 2,
+          "discount_type": "percentage",
+          "previous_cashback": 0,
+          "previous_discount_type": "percentage",
+          "start_date": "2024-07-10 00:00:00",
+          "end_date": "2024-10-23 23:59:59",
+          "sort_order": 0,
+          "end_date_text": "",
+          "category": {
+            "id": -1,
+            "name": "all"
+          },
+          "category_ids": [
+            -1
+          ],
+          "subcategory_ids": [
+            869
+          ],
+          "created_at": "2024-05-24 13:12:25",
+          "updated_at": "2024-07-04 13:46:43",
+          "brand": {
+            "outlet": {
+              "id": 12,
+              "name": "Online",
+              "terms_and_condition": "<h1>Heading1</h1>\r\n<h2>Heading2</h2>\r\n<p>Paragraph <strong>bold</strong> <strong>Strong</strong></p>\r\n<ul>\r\n<li>ul-&gt; li 1</li>\r\n<li>ul-&gt; li 2</li>\r\n<li>ul-&gt; li 3</li>\r\n</ul>\r\n<div>Div Tag\r\n<div>\r\n<p style=\"font-family: verdana;\">This is a paragraph.</p>\r\n<p style=\"font-family: 'Courier New';\">This is another paragraph.</p>\r\n</div>\r\n</div>",
+              "type": "online",
+              "share_url": "https://savyour.app/8xLdP",
+              "share_msg": "Order Now & save more with upto 2% on Galaxy Cricket. Shop through the link below",
+              "card_tag": "",
+              "cashback": {
+                "categories": [
+                  {
+                    "category": "Accessories",
+                    "discount_type": "percentage",
+                    "current_cashback": 2,
+                    "previous_cashback": 0,
+                    "previous_discount_type": "percentage"
+                  },
+                  {
+                    "category": "T-shirts",
+                    "discount_type": "percentage",
+                    "current_cashback": 2,
+                    "previous_cashback": 0,
+                    "previous_discount_type": "percentage"
+                  },
+                  {
+                    "category": "Jeans",
+                    "discount_type": "percentage",
+                    "current_cashback": 2,
+                    "previous_cashback": 0,
+                    "previous_discount_type": "percentage"
+                  },
+                  {
+                    "category": "Ahmed category",
+                    "discount_type": "percentage",
+                    "current_cashback": 2,
+                    "previous_cashback": 0,
+                    "previous_discount_type": "percentage"
+                  },
+                  {
+                    "category": "New zarda",
+                    "discount_type": "percentage",
+                    "current_cashback": 2,
+                    "previous_cashback": 0,
+                    "previous_discount_type": "percentage"
+                  },
+                  {
+                    "category": "Hoodie",
+                    "discount_type": "percentage",
+                    "current_cashback": 1.2,
+                    "previous_cashback": 0,
+                    "previous_discount_type": "percentage"
+                  }
+                ],
+                "redirect_url": "https://staging-stores.savyour.com.pk/pk/",
+                "terms_and_condition": "<h1>Heading1</h1>\r\n<h2>Heading2</h2>\r\n<p>Paragraph <strong>bold</strong> <strong>Strong</strong></p>\r\n<ul>\r\n<li>ul-&gt; li 1</li>\r\n<li>ul-&gt; li 2</li>\r\n<li>ul-&gt; li 3</li>\r\n</ul>\r\n<div>Div Tag\r\n<div>\r\n<p style=\"font-family: verdana;\">This is a paragraph.</p>\r\n<p style=\"font-family: 'Courier New';\">This is another paragraph.</p>\r\n</div>\r\n</div>",
+                "description": "",
+                "domain": "staging-stores.savyour",
+                "current_cashback": 2,
+                "discount_type": "percentage",
+                "previous_cashback": 0,
+                "previous_discount_type": "percentage",
+                "upto": true,
+                "valid_till": "",
+                "is_live": true,
+                "sort_order": 0,
+                "is_active": true,
+                "is_parent": 1,
+                "redirection_type": "out",
+                "live_date": "2023-05-02 00:00:00",
+                "max_user_commission": "Max : Rs. 10.00/- Per Order",
+                "cashback_days": "in a day",
+                "is_showing": true,
+                "special_brands_detail": {},
+                "affiliate": {
+                  "id": 1,
+                  "name": "Savyour",
+                  "slug": "savyour"
+                },
+                "order_placed": "Today",
+                "notified_in": "15 Mins",
+                "animation_info": {
+                  "title": "Galaxy Cricket",
+                  "sub_title": "Activated",
+                  "description": "Cashback is available in the following categories only",
+                  "fulfilled_by_text": ""
+                }
+              },
+              "cities": [
+                {
+                  "id": 1,
+                  "name": "Karachi",
+                  "short_name": "KHI"
+                },
+                {
+                  "id": 2,
+                  "name": "Lahore",
+                  "short_name": "LHR"
+                },
+                {
+                  "id": 3,
+                  "name": "Islamabad",
+                  "short_name": "ISL"
+                },
+                {
+                  "id": 4,
+                  "name": "Quetta",
+                  "short_name": "UET"
+                },
+                {
+                  "id": 5,
+                  "name": "Peshawar",
+                  "short_name": "PEW"
+                },
+                {
+                  "id": 6,
+                  "name": "Multan",
+                  "short_name": "MUX"
+                },
+                {
+                  "id": 9,
+                  "name": "bhawalpur",
+                  "short_name": "BHAL"
+                },
+                {
+                  "id": 10,
+                  "name": "Jacobabad",
+                  "short_name": "JC"
+                },
+                {
+                  "id": 12,
+                  "name": "Sukkur",
+                  "short_name": "SUKKUR"
+                },
+                {
+                  "id": 13,
+                  "name": "Hyderabad",
+                  "short_name": "HYDERABAD"
+                },
+                {
+                  "id": 14,
+                  "name": "keenya",
+                  "short_name": "KEENYA"
+                },
+                {
+                  "id": 15,
+                  "name": "Imran City town",
+                  "short_name": "IMMU"
+                },
+                {
+                  "id": 19,
+                  "name": "shahanf",
+                  "short_name": "SHA"
+                },
+                {
+                  "id": 20,
+                  "name": "KKC",
+                  "short_name": "KKC"
+                },
+                {
+                  "id": 21,
+                  "name": "BNB",
+                  "short_name": "BNB"
+                },
+                {
+                  "id": 22,
+                  "name": "Dera Bugti",
+                  "short_name": "DBT"
+                },
+                {
+                  "id": 23,
+                  "name": "Jatoi Shimali",
+                  "short_name": "JSL"
+                },
+                {
+                  "id": 24,
+                  "name": "Swabi",
+                  "short_name": "SWB"
+                },
+                {
+                  "id": 25,
+                  "name": "Rawala Kot",
+                  "short_name": "RKT"
+                },
+                {
+                  "id": 27,
+                  "name": "Pano Aqil",
+                  "short_name": "PNQ"
+                },
+                {
+                  "id": 28,
+                  "name": "Taxila",
+                  "short_name": "TXL"
+                },
+                {
+                  "id": 29,
+                  "name": "Phalia",
+                  "short_name": "PLA"
+                },
+                {
+                  "id": 30,
+                  "name": "Mir Pur",
+                  "short_name": "MRPR"
+                },
+                {
+                  "id": 31,
+                  "name": "Nawabshah",
+                  "short_name": "CENTRAL"
+                },
+                {
+                  "id": 35,
+                  "name": "Fake city",
+                  "short_name": "FC"
+                },
+                {
+                  "id": 37,
+                  "name": "Testing City",
+                  "short_name": "TESTING"
+                },
+                {
+                  "id": 39,
+                  "name": "Ontario",
+                  "short_name": "ONTARIO"
+                },
+                {
+                  "id": 41,
+                  "name": "Dubai",
+                  "short_name": "DXB"
+                }
+              ],
+              "rating": 4.3,
+              "rating_count": 118,
+              "review_count": 81,
+              "is_bookmarked": false
+            },
+            "_id": "65b130e827d6bba69e06d076",
+            "id": 6,
+            "slug": "galaxy-cricket",
+            "order_count": 1159,
+            "highest_current_cashback": 2,
+            "name": "Galaxy Cricket",
+            "identity_logo": "https://staging-assets.savyour.com/brands/6/RWOXPgjsmEIoLCMIpOyDrXWPYT0gHT5zjSC2ZDtA.png",
+            "logo": "https://staging-assets.savyour.com/brands/6/oOvXCyCoVplyIyHR9ECpw80VmLxG3fTW1i6E03um.png",
+            "kv_image": "https://staging-assets.savyour.com/brands/6/3vzlbN2NMdJxJ4HAE757La51KU4v4YBRwYYwUuxA.png",
+            "meta_title": "Unlock Savings on Galaxy Cricket pk offering Cashback Upto 2%. Act Fast, Save more!",
+            "meta_description": "Explore the diverse offerings from Galaxy Cricket pk. Place your orders now and earn enticing cashback Upto 2%",
+            "identifier": "testing.savyour.com.pk",
+            "type": "primary",
+            "share_url": "https://savyour.app/6yaPl",
+            "tier": "Tier 3",
+            "order_placed_fifteen_days": 15,
+            "cashback_highest": "online"
+          },
+          "share_url": "",
+          "description": "Heal your self or you will dead 👻👻💯",
+          "terms_and_condition": "",
+          "images": [
+            "https://staging-assets.savyour.com/brand-campaigns/large/Uu9Hq9yBhBm58H2AFyLfu9GzBuMAg27vcNETXyTR.jpg"
+          ],
+          "like": {
+            "is_liked": false,
+            "msg": "Liked by 2 others",
+            "like_count": 2
+          }
+        },
+        {
+          "id": 560,
+          "title": "Pak Wheels",
+          "slug": "pak-wheels-tz",
+          "sub_title": "2%",
+          "is_active": true,
+          "share_msg": "*Crazy Promotion through Savyour*\n-> short on Pak Wheels\n-> *PLUS 34% Cashback*\n-> Offer Valid Till: September 6th 2024\n\nJaldi Karo, Savyour Karo",
+          "image": "https://savyour-staging.s3.ap-south-1.amazonaws.com/brand-campaigns/eDFfwIfjmFk7GgUWIqMRPBsef9vUkCJnbZmgcbEH.jpg",
+          "current_cashback": 34,
+          "discount_type": "percentage",
+          "previous_cashback": 0,
+          "previous_discount_type": "percentage",
+          "start_date": "2024-06-25 00:00:00",
+          "end_date": "2024-09-06 23:59:59",
+          "sort_order": 0,
+          "end_date_text": "",
+          "category": {
+            "id": 145,
+            "name": "Auto & Tyres"
+          },
+          "category_ids": [
+            145
+          ],
+          "subcategory_ids": [
+            0
+          ],
+          "created_at": "2024-06-25 16:52:07",
+          "updated_at": "2024-08-30 12:06:47",
+          "brand": {
+            "outlet": {
+              "id": 2171,
+              "name": "Online",
+              "terms_and_condition": "",
+              "type": "online",
+              "share_url": "https://savyour.app/3DzEu",
+              "share_msg": "Order Now & save more with upto 34% on Pak Wheels. Shop through the link below",
+              "card_tag": "",
+              "cashback": {
+                "categories": [],
+                "redirect_url": "https://testing.savyour.com.pk/wordpress",
+                "terms_and_condition": "",
+                "description": "",
+                "domain": "pkwheels",
+                "current_cashback": 34,
+                "discount_type": "percentage",
+                "previous_cashback": 0,
+                "previous_discount_type": "percentage",
+                "upto": false,
+                "valid_till": "",
+                "is_live": false,
+                "sort_order": 9,
+                "is_active": true,
+                "is_parent": 1,
+                "redirection_type": "out",
+                "live_date": "2024-05-05 00:00:00",
+                "max_user_commission": "Max : Rs. 80.00/- Per Order",
+                "cashback_days": "7 days",
+                "is_showing": true,
+                "special_brands_detail": {},
+                "affiliate": {
+                  "id": 1,
+                  "name": "Savyour",
+                  "slug": "savyour"
+                },
+                "order_placed": "Today",
+                "notified_in": "15 Mins",
+                "animation_info": {
+                  "title": "Pak Wheels",
+                  "sub_title": "Activated",
+                  "description": "Cashback is available in the following categories only",
+                  "fulfilled_by_text": ""
+                }
+              },
+              "cities": [
+                {
+                  "id": 1,
+                  "name": "Karachi",
+                  "short_name": "KHI"
+                }
+              ],
+              "rating": 5,
+              "rating_count": 3,
+              "review_count": 0,
+              "is_bookmarked": false
+            },
+            "_id": "65b130fa27d6bba69e06d186",
+            "id": 3722,
+            "slug": "pak-wheels",
+            "order_count": 3,
+            "highest_current_cashback": 34,
+            "name": "Pak Wheels",
+            "identity_logo": "https://staging-assets.savyour.com/brands/3722/pEDv6dN4b85LH9MapkeYo9jdcExer07H0TiYGe9C.png",
+            "logo": "https://staging-assets.savyour.com/brands/3722/WgqOyig1oflvMVuCTSZEGVz5knovKVAytKR1MXAp.png",
+            "kv_image": "https://staging-assets.savyour.com/brands/3722/0dJJ7o7fIbgPOOMInstYw5G7OWzFFQP6fNptld9R.png",
+            "meta_title": "Unlock Savings on Pak Wheels pk offering Cashback 34%. Act Fast, Save more!",
+            "meta_description": "Explore the diverse offerings from Pak Wheels pk. Place your orders now and earn enticing cashback 34%",
+            "identifier": "pakwheels.om",
+            "type": "primary",
+            "share_url": "https://savyour.app/9yx8D",
+            "tier": "Tier 3",
+            "order_placed_fifteen_days": 0,
+            "cashback_highest": "online"
+          },
+          "share_url": "",
+          "description": "short",
+          "terms_and_condition": "terms",
+          "images": [
+            "https://staging-assets.savyour.com/brand-campaigns/large/eDFfwIfjmFk7GgUWIqMRPBsef9vUkCJnbZmgcbEH.jpg"
+          ],
+          "like": {
+            "is_liked": false,
+            "msg": "Liked by 1 other",
+            "like_count": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 484,
+      "slug": "campaign_announcement",
+      "title": "",
+      "sub_title": "",
+      "group": "webview",
+      "type": "announcement",
+      "sub_type": "large",
+      "endpoint": "https://api-staging.savyour.com.pk/v6/app-media/campaign_announcement?limit=1&page=1",
+      "mixpanel_type": "campaignAnnouncementClicked",
+      "valid_till": null,
+      "is_see_all_shown": false,
+      "is_personalized": false,
+      "viewed_from": "",
+      "personalized_endpoint": "",
+      "end_date": "",
+      "see_all_type": "",
+      "items": {
+        "id": 125,
+        "image": "https://staging-assets.savyour.com/app-media/MiZgVdbFubg7Flh0wiP5kAOTG5HutVBvXCxUFUap.jpg",
+        "redirect_url": "https://staging-webview.savyour.com.pk/webview/campaign-webview"
+      }
+    },
+    {
+      "id": 454,
+      "slug": "m6s678j8",
+      "title": "top 20 brand in Karachi",
+      "sub_title": "",
+      "group": "brand",
+      "type": "brand",
+      "sub_type": "small",
+      "endpoint": "https://api-staging.savyour.com.pk/v6/brands/sections/promotional?title=top+20+brand+in+Karachi",
+      "mixpanel_type": "outletClicked",
+      "valid_till": null,
+      "is_see_all_shown": true,
+      "is_personalized": false,
+      "viewed_from": "",
+      "personalized_endpoint": "",
+      "end_date": "",
+      "see_all_type": "brands",
+      "items": [
+        {
+          "outlet": {
+            "cashback": {
+              "categories": [
+                {
+                  "category": "Accessories",
+                  "discount_type": "percentage",
+                  "current_cashback": 2,
+                  "previous_cashback": 0,
+                  "previous_discount_type": "percentage"
+                },
+                {
+                  "category": "T-shirts",
+                  "discount_type": "percentage",
+                  "current_cashback": 2,
+                  "previous_cashback": 0,
+                  "previous_discount_type": "percentage"
+                },
+                {
+                  "category": "Jeans",
+                  "discount_type": "percentage",
+                  "current_cashback": 2,
+                  "previous_cashback": 0,
+                  "previous_discount_type": "percentage"
+                },
+                {
+                  "category": "Ahmed category",
+                  "discount_type": "percentage",
+                  "current_cashback": 2,
+                  "previous_cashback": 0,
+                  "previous_discount_type": "percentage"
+                },
+                {
+                  "category": "New zarda",
+                  "discount_type": "percentage",
+                  "current_cashback": 2,
+                  "previous_cashback": 0,
+                  "previous_discount_type": "percentage"
+                },
+                {
+                  "category": "Hoodie",
+                  "discount_type": "percentage",
+                  "current_cashback": 1.2,
+                  "previous_cashback": 0,
+                  "previous_discount_type": "percentage"
+                }
+              ],
+              "redirect_url": "https://staging-stores.savyour.com.pk/pk/?sav_aff_info=app_savyour-56614a6e4f357771786b5679695978383259686f4f5559655441667271375a586a5574584b534a503575383d-1725033761-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
+              "description": "",
+              "current_cashback": 2,
+              "previous_cashback": 0,
+              "discount_type": "percentage",
+              "previous_discount_type": "percentage",
+              "upto": true,
+              "redirection_type": "out",
+              "max_user_commission": "Max : Rs. 10.00/- Per Order",
+              "cashback_days": "in a day",
+              "average_cashback_days": "Avg. Cashback time: in a day",
+              "order_placed": "Today",
+              "notified_in": "15 Mins",
+              "is_showing": true,
+              "animation_info": {
+                "title": "Galaxy Cricket",
+                "sub_title": "Activated",
+                "description": "Cashback is available in the following categories only",
+                "fulfilled_by_text": ""
+              }
+            },
+            "id": 12,
+            "order_count": 0,
+            "rating_count": 106,
+            "name": "Online",
+            "type": "online",
+            "rating": 4.3
+          },
+          "id": 6,
+          "slug": "galaxy-cricket",
+          "name": "Galaxy Cricket",
+          "logo": "https://staging-assets.savyour.com/brands/6/oOvXCyCoVplyIyHR9ECpw80VmLxG3fTW1i6E03um.png",
+          "banner": "brands/6/SmaCoS5QM8paBvnOeG7JwCAUh9s5lgs0ZpmKrb2q.jpg",
+          "kv_image": "https://staging-assets.savyour.com/brands/6/3vzlbN2NMdJxJ4HAE757La51KU4v4YBRwYYwUuxA.png",
+          "monochrome_logo": "https://staging-assets.savyour.com/brands/6/oOvXCyCoVplyIyHR9ECpw80VmLxG3fTW1i6E03um.png",
+          "identity_logo": "https://staging-assets.savyour.com/brands/6/RWOXPgjsmEIoLCMIpOyDrXWPYT0gHT5zjSC2ZDtA.png",
+          "identifier": "testing.savyour.com.pk",
+          "type": "primary",
+          "business_category": {
+            "id": 5,
+            "name": "Fashion"
+          },
+          "categories": [
+            {
+              "id": 143,
+              "name": "Restaurant & Eateriess",
+              "slug": "restaurant-eateriess-category",
+              "meta_title": "HERE Title in [COUNTRY] Savyour offers.",
+              "meta_description": "HERE Looking for the latest smartphones, laptops, or other gadgets in [COUNTRY]? Savyour offers a wide selection of electronics at competitive prices.",
+              "share_msg": "",
+              "share_url": "https://phpstack-1286578-4664220.cloudwaysapps.com/ou34J",
+              "image": "https://staging-assets.savyour.com/brand-categories/143/medium/2a3sCo1bzZP3nDmTGmXiTJ4MhtaczaXkMedzGB51.png",
+              "subcategories": [
+                {
+                  "id": 171,
+                  "name": "Foodies",
+                  "slug": "foodies",
+                  "meta_title": null,
+                  "meta_description": null,
+                  "share_msg": null,
+                  "share_url": "https://savyour.app/dCaXJ",
+                  "image": "https://staging-assets.savyour.com/brand-subcategories/171/medium/yLxcwTJ71mLN7aR9x9qq7GlYYWee4Kh11KMln4R1.jpg"
+                }
+              ]
+            },
+            {
+              "id": 144,
+              "name": "Stores & Grocery",
+              "slug": "stores-grocery-category",
+              "meta_title": "Get paid to shop grocery!",
+              "meta_description": "Get paid to shop groceryaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!",
+              "share_msg": "",
+              "share_url": "https://phpstack-1286578-4664220.cloudwaysapps.com/kb8z4",
+              "image": "https://staging-assets.savyour.com/brand-categories/144/medium/5CBy3fx96PVyvbVqHzlaFvsxMlehU01wVJKKf3Ut.jpg",
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "outlet": {
+            "cashback": {
+              "categories": [],
+              "redirect_url": "https://testing.savyour.com.pk/wp1?sav_aff_info=app_savyour-56614a6e4f357771786b5679695978383259686f4f5559655441667271375a586a5574584b534a503575383d-1725033761-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
+              "description": "",
+              "current_cashback": 8,
+              "previous_cashback": 0,
+              "discount_type": "percentage",
+              "previous_discount_type": "percentage",
+              "upto": false,
+              "redirection_type": "out",
+              "max_user_commission": "Max : Rs. 20.00/- Per Order",
+              "cashback_days": "30 days",
+              "average_cashback_days": "Avg. Cashback time: 30 days",
+              "order_placed": "Today",
+              "notified_in": "15 Mins",
+              "is_showing": true,
+              "animation_info": {
+                "title": "Top Karachi",
+                "sub_title": "Activated",
+                "description": "Cashback is available in the following categories only",
+                "fulfilled_by_text": "Fulfilled by tttesting.savyour"
+              }
+            },
+            "id": 2552,
+            "order_count": 0,
+            "rating_count": 1,
+            "name": "Online",
+            "type": "online",
+            "rating": 4
+          },
+          "id": 3921,
+          "slug": "top-karachi",
+          "name": "Top Karachi",
+          "logo": "https://staging-assets.savyour.com/brands/3921/MVSF9ilFmFM6CbqALq3B48l7YAEGcHk6zToMj7yw.png",
+          "banner": "brands/3921/2grKHb5X4s2fFqHRATkmIh8ODMKu0EYJjPw9iLLn.png",
+          "kv_image": "https://staging-assets.savyour.com/brands/3921/KSRoQn6suQW9ZHT75HTlVl0AxTEaIcAFViSfpowu.png",
+          "monochrome_logo": "https://staging-assets.savyour.com/brands/3921/MVSF9ilFmFM6CbqALq3B48l7YAEGcHk6zToMj7yw.png",
+          "identity_logo": "https://staging-assets.savyour.com/brands/3921/MlnISE7USUEXINLBjwAZkQn24rq96QfylehOauSS.png",
+          "identifier": "twwesting.savyour.com.pk",
+          "type": "primary",
+          "business_category": {
+            "id": 4,
+            "name": "Food & Restaurants"
+          },
+          "categories": []
+        },
+        {
+          "outlet": {
+            "cashback": {
+              "categories": [
+                {
+                  "category": "Testing",
+                  "discount_type": "percentage",
+                  "current_cashback": 2,
+                  "previous_cashback": 0,
+                  "previous_discount_type": "percentage"
+                },
+                {
+                  "category": "Fashion",
+                  "discount_type": "percentage",
+                  "current_cashback": 2,
+                  "previous_cashback": 0,
+                  "previous_discount_type": "percentage"
+                },
+                {
+                  "category": "Bags",
+                  "discount_type": "percentage",
+                  "current_cashback": 2,
+                  "previous_cashback": 0,
+                  "previous_discount_type": "percentage"
+                },
+                {
+                  "category": "Test category electronic",
+                  "discount_type": "percentage",
+                  "current_cashback": 2,
+                  "previous_cashback": 0,
+                  "previous_discount_type": "percentage"
+                }
+              ],
+              "redirect_url": "https://burgerlab.com.pk/?publisher_id=app_savyour-56614a6e4f357771786b5679695978383259686f4f5559655441667271375a586a5574584b534a503575383d-1725033761-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
+              "description": "",
+              "current_cashback": 2,
+              "previous_cashback": 0,
+              "discount_type": "percentage",
+              "previous_discount_type": "percentage",
+              "upto": true,
+              "redirection_type": "in-app",
+              "max_user_commission": "Max : Rs. 15.00/- Per Order",
+              "cashback_days": "5 days",
+              "average_cashback_days": "Avg. Cashback time: 5 days",
+              "order_placed": "Today",
+              "notified_in": "36 Hrs",
+              "is_showing": true,
+              "animation_info": {
+                "title": "Burger Lab",
+                "sub_title": "Activated",
+                "description": "Cashback is available in the following categories only",
+                "fulfilled_by_text": ""
+              }
+            },
+            "id": 5,
+            "order_count": 0,
+            "rating_count": 27,
+            "name": "Online",
+            "type": "online",
+            "rating": 4.1
+          },
+          "id": 263,
+          "slug": "burger-lab",
+          "name": "Burger Lab",
+          "logo": "https://staging-assets.savyour.com/brands/263/1685020441.png",
+          "banner": "brands/263/qWviqlKvw8jYVJekpulmd5cp8h2TUcOR0r6ZBuS1.jpg",
+          "kv_image": "https://staging-assets.savyour.com/brands/263/bvRQQ1zZ50yvr67axJVHUjFIXw1yEerxcWka1yVS.png",
+          "monochrome_logo": "https://staging-assets.savyour.com/brands/263/1685020441.png",
+          "identity_logo": "https://staging-assets.savyour.com/brands/263/0itucrwxFtfiew4pGlqgq6eh3jquyZYu3wuO3bSe.png",
+          "identifier": "burger-lab-jZgfjuXul4-brand.pk",
+          "type": "primary",
+          "business_category": {
+            "id": 4,
+            "name": "Food & Restaurants"
+          },
+          "categories": [
+            {
+              "id": 143,
+              "name": "Restaurant & Eateriess",
+              "slug": "restaurant-eateriess-category",
+              "meta_title": "",
+              "meta_description": "",
+              "share_msg": "",
+              "share_url": "https://savyour.app/ou34J",
+              "image": "https://staging-assets.savyour.com/brand-categories/143/medium/2a3sCo1bzZP3nDmTGmXiTJ4MhtaczaXkMedzGB51.png",
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "outlet": {
+            "cashback": {
+              "categories": [],
+              "redirect_url": "http://web.savyour.local/testdomain?sav_aff_info=app_savyour-56614a6e4f357771786b5679695978383259686f4f5559655441667271375a586a5574584b534a503575383d-1725033761-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
+              "description": "",
+              "current_cashback": 4,
+              "previous_cashback": 0,
+              "discount_type": "percentage",
+              "previous_discount_type": "percentage",
+              "upto": false,
+              "redirection_type": "out",
+              "max_user_commission": "Max : Rs. 5.00/- Per Order",
+              "cashback_days": "21 days",
+              "average_cashback_days": "Avg. Cashback time: 21 days",
+              "order_placed": "Today",
+              "notified_in": "15 Mins",
+              "is_showing": true,
+              "animation_info": {
+                "title": "Hooria's Beauty Salon",
+                "sub_title": "Activated",
+                "description": "Cashback is available in the following categories only",
+                "fulfilled_by_text": ""
+              }
+            },
+            "id": 536,
+            "order_count": 0,
+            "rating_count": 5,
+            "name": "Online",
+            "type": "online",
+            "rating": 4
+          },
+          "id": 12,
+          "slug": "hoorias-beauty-salon",
+          "name": "Hooria's Beauty Salon",
+          "logo": "https://staging-assets.savyour.com/brand-asset/July2017/A6c40SlddnGDAQ8pzhXc.jpg",
+          "banner": "brands/12/FTV0rF2ufnFKXK2qePzN41bnMKAH75IkVkfhyPzh.jpg",
+          "kv_image": "https://staging-assets.savyour.com/brands/12/Hh9r6IMHi2d1PcArZj1Ltj69oC2iyztzuyd5hMdd.png",
+          "monochrome_logo": "https://staging-assets.savyour.com/brand-asset/July2017/A6c40SlddnGDAQ8pzhXc.jpg",
+          "identity_logo": "https://staging-assets.savyour.com/brands/12/TyPlpwEQY8W369KxVKGPTZEfYA9PMpHfdjCPMoOk.png",
+          "identifier": "google.com",
+          "type": "primary",
+          "business_category": {
+            "id": 1,
+            "name": "Health, Beauty & Gifts"
+          },
+          "categories": [
+            {
+              "id": 146,
+              "name": "Fashion",
+              "slug": "fashion-category",
+              "meta_title": "",
+              "meta_description": "",
+              "share_msg": "",
+              "share_url": "https://savyour.app/UC3l7",
+              "image": "https://staging-assets.savyour.com/brand-categories/146/medium/YBADN6E4egjqVTBtZM4sNQbiaFUSNNa5IHL9pqhJ.jpg",
+              "subcategories": [
+                {
+                  "id": 179,
+                  "name": "Men",
+                  "slug": "men-subcategory",
+                  "meta_title": null,
+                  "meta_description": null,
+                  "share_msg": null,
+                  "share_url": "https://savyour.app/tAPDo",
+                  "image": "https://staging-assets.savyour.com/brand-subcategories/179/medium/2HWKbYibGx1wgfQFKm0JVqrjKWrrqCMWoXqm7XiE.png"
+                }
+              ]
+            },
+            {
+              "id": 143,
+              "name": "Restaurant & Eateriess",
+              "slug": "restaurant-eateriess-category",
+              "meta_title": "",
+              "meta_description": "",
+              "share_msg": "",
+              "share_url": "https://savyour.app/ou34J",
+              "image": "https://staging-assets.savyour.com/brand-categories/143/medium/2a3sCo1bzZP3nDmTGmXiTJ4MhtaczaXkMedzGB51.png",
+              "subcategories": []
+            },
+            {
+              "id": 152,
+              "name": "Beauty & Personal Care",
+              "slug": "beauty-personal-care-category",
+              "meta_title": "",
+              "meta_description": "",
+              "share_msg": "",
+              "share_url": "https://savyour.app/bb0xN",
+              "image": "https://staging-assets.savyour.com/brand-categories/152/medium/EpwFG8epbRBkQgpU6hdXxhTFTCcDWkkeuqdqs95M.jpg",
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "outlet": {
+            "cashback": {
+              "categories": [],
+              "redirect_url": "https://www.facebook.com?sav_aff_info=app_savyour-56614a6e4f357771786b5679695978383259686f4f5559655441667271375a586a5574584b534a503575383d-1725033761-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
+              "description": "",
+              "current_cashback": 2,
+              "previous_cashback": 0,
+              "discount_type": "percentage",
+              "previous_discount_type": "percentage",
+              "upto": false,
+              "redirection_type": "in-app",
+              "max_user_commission": "Max : Rs. 10.00/- Per Order",
+              "cashback_days": "21 days",
+              "average_cashback_days": "Avg. Cashback time: 21 days",
+              "order_placed": "Today",
+              "notified_in": "15 Mins",
+              "is_showing": true,
+              "animation_info": {
+                "title": "California Pizza",
+                "sub_title": "Activated",
+                "description": "Cashback is available in the following categories only",
+                "fulfilled_by_text": "Fulfilled by gaditek"
+              }
+            },
+            "id": 82,
+            "order_count": 0,
+            "rating_count": 12,
+            "name": "Online",
+            "type": "online",
+            "rating": 4.5
+          },
+          "id": 264,
+          "slug": "california-pizza",
+          "name": "California Pizza",
+          "logo": "https://staging-assets.savyour.com/brands/264/OorK4ycVPsuXWlDn5LTDnqRgZ5wyP7Uu4Qa8haZ6.png",
+          "banner": "brand-asset/November2018/44122145_1926599907419899_8496740952797347840_n2.jpg",
+          "kv_image": "https://staging-assets.savyour.com/brands/264/0vuJ449ITULK2xrqyEF5QSExk0ERjzJ7PErdhA5X.png",
+          "monochrome_logo": "https://staging-assets.savyour.com/brands/264/OorK4ycVPsuXWlDn5LTDnqRgZ5wyP7Uu4Qa8haZ6.png",
+          "identity_logo": "https://staging-assets.savyour.com/brands/264/LptditTZdOtqPKtuPfN18Wpd1LiTmlIrN7huPmv9.png",
+          "identifier": "californiapizza.com.pk",
+          "type": "primary",
+          "business_category": {
+            "id": 4,
+            "name": "Food & Restaurants"
+          },
+          "categories": [
+            {
+              "id": 143,
+              "name": "Restaurant & Eateriess",
+              "slug": "restaurant-eateriess-category",
+              "meta_title": "",
+              "meta_description": "",
+              "share_msg": "",
+              "share_url": "https://savyour.app/ou34J",
+              "image": "https://staging-assets.savyour.com/brand-categories/143/medium/2a3sCo1bzZP3nDmTGmXiTJ4MhtaczaXkMedzGB51.png",
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "outlet": {
+            "cashback": {
+              "categories": [],
+              "redirect_url": "https://pk.hemaniherbals.com/?wpam_id=1&sav_aff_info=app_savyour-56614a6e4f357771786b5679695978383259686f4f5559655441667271375a586a5574584b534a503575383d-1725033761-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
+              "description": "Order Now on website and Kamao 10% Cashback inside Savyour Wallet",
+              "current_cashback": 4,
+              "previous_cashback": 0,
+              "discount_type": "percentage",
+              "previous_discount_type": "percentage",
+              "upto": false,
+              "redirection_type": "out",
+              "max_user_commission": "Max : No limit",
+              "cashback_days": "21 days",
+              "average_cashback_days": "Avg. Cashback time: 21 days",
+              "order_placed": "Today",
+              "notified_in": "15 Mins",
+              "is_showing": true,
+              "animation_info": {
+                "title": "Ice Mokes",
+                "sub_title": "Activated",
+                "description": "Cashback is available in the following categories only",
+                "fulfilled_by_text": ""
+              }
+            },
+            "id": 348,
+            "order_count": 0,
+            "rating_count": 3,
+            "name": "Online",
+            "type": "online",
+            "rating": 4.3
+          },
+          "id": 5,
+          "slug": "ice-mokes",
+          "name": "Ice Mokes",
+          "logo": "https://staging-assets.savyour.com/brand-asset/July2017/zC3KoZU2MAGIu0JPMT7f.png",
+          "banner": "brand-asset/July2017/IPsJq7B4lUQKyZXKVQPq.jpg",
+          "kv_image": "https://staging-assets.savyour.com/brands/5/4nC4ZLAJyEASyiVG5ad0cLdXSOs7jkRYnr4CFX52.jpg",
+          "monochrome_logo": "https://staging-assets.savyour.com/brand-asset/July2017/zC3KoZU2MAGIu0JPMT7f.png",
+          "identity_logo": "https://staging.savyour.com/pk-en/assets/vendor/images/NoImage.png",
+          "identifier": "icesmokes.com",
+          "type": "primary",
+          "business_category": {
+            "id": 1,
+            "name": "Health, Beauty & Gifts"
+          },
+          "categories": []
+        },
+        {
+          "outlet": {
+            "cashback": {
+              "categories": [
+                {
+                  "category": "Burgers",
+                  "discount_type": "percentage",
+                  "current_cashback": 13.25,
+                  "previous_cashback": 0,
+                  "previous_discount_type": "percentage"
+                },
+                {
+                  "category": "Loaded fries",
+                  "discount_type": "percentage",
+                  "current_cashback": 13.25,
+                  "previous_cashback": 0,
+                  "previous_discount_type": "percentage"
+                },
+                {
+                  "category": "Beverages & others",
+                  "discount_type": "percentage",
+                  "current_cashback": 13.25,
+                  "previous_cashback": 0,
+                  "previous_discount_type": "percentage"
+                }
+              ],
+              "redirect_url": "https://burgeroclock.com.pk/?_suid_hash=41415961334a666954567669585a4f303842414e65616869707a76646e5349442f7375464a42535853666e2f37513937454b356477373572666b6e704f5a4547&_suj_time=1665651267&_su_channel=web_savyour&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program&sav_aff_info=app_savyour-56614a6e4f357771786b5679695978383259686f4f5559655441667271375a586a5574584b534a503575383d-1725033761-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
+              "description": "Burger O’Clock is a modern restaurant that exists to delight passionate burger lovers. Walk in and place your order and sit back and relax and soak in our attractive ambiance as you wait for your order to be prepared. All burgers are cooked to order and we pride ourselves on serving fresh, delicious and hygienic burgers that tantalize the taste buds and excite your senses. We have perfected the optimized packaging to enhance your burger experience. Our packaging is designed to be easy to hold and carry as well as ensure that your burgers maintain their flavour and shape. For those who do not prefer a dine in or takeaway experience, we offer our patrons the option to have their order delivered at their home or office.",
+              "current_cashback": 40,
+              "previous_cashback": 0,
+              "discount_type": "percentage",
+              "previous_discount_type": "percentage",
+              "upto": true,
+              "redirection_type": "out",
+              "max_user_commission": "Max : Rs. 200.00/- Per Order",
+              "cashback_days": "21 days",
+              "average_cashback_days": "Avg. Cashback time: 21 days",
+              "order_placed": "Today",
+              "notified_in": "15 Mins",
+              "is_showing": true,
+              "animation_info": {
+                "title": "Burger O'Clock",
+                "sub_title": "Activated",
+                "description": "Cashback is available in the following categories only",
+                "fulfilled_by_text": "Fulfilled by burgeroclock"
+              }
+            },
+            "id": 946,
+            "order_count": 0,
+            "rating_count": 2,
+            "name": "Online",
+            "type": "online",
+            "rating": 5
+          },
+          "id": 3305,
+          "slug": "burger-oclock",
+          "name": "Burger O'Clock",
+          "logo": "https://staging-assets.savyour.com/brands/3305/viTVISznO0rrQizHkTLTsDkXSpDU5Z4bv47apdhR.jpg",
+          "banner": "brands/3305/R0K00m0hxOuDWYoooaZ7pqxg3yzjUxDTFXShxqXR.jpg",
+          "kv_image": "",
+          "monochrome_logo": "https://staging-assets.savyour.com/brands/3305/viTVISznO0rrQizHkTLTsDkXSpDU5Z4bv47apdhR.jpg",
+          "identity_logo": "",
+          "identifier": "burgeroclock.com",
+          "type": "primary",
+          "business_category": {
+            "id": 11,
+            "name": "Global Categories"
+          },
+          "categories": []
+        },
+        {
+          "outlet": {
+            "cashback": {
+              "categories": [],
+              "redirect_url": "https://testing.savyour.com.pk/wordpress?sav_aff_info=app_savyour-56614a6e4f357771786b5679695978383259686f4f5559655441667271375a586a5574584b534a503575383d-1725033761-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
+              "description": "",
+              "current_cashback": 24,
+              "previous_cashback": 0,
+              "discount_type": "percentage",
+              "previous_discount_type": "percentage",
+              "upto": false,
+              "redirection_type": "out",
+              "max_user_commission": "Max : Rs. 49.00/- Per Order",
+              "cashback_days": "30 days",
+              "average_cashback_days": "Avg. Cashback time: 30 days",
+              "order_placed": "Today",
+              "notified_in": "15 Mins",
+              "is_showing": true,
+              "animation_info": {
+                "title": "Bike n Car",
+                "sub_title": "Activated",
+                "description": "Cashback is available in the following categories only",
+                "fulfilled_by_text": ""
+              }
+            },
+            "id": 1145,
+            "order_count": 0,
+            "rating_count": 2,
+            "name": "Online",
+            "type": "online",
+            "rating": 3.5
+          },
+          "id": 841,
+          "slug": "bike-n-car",
+          "name": "Bike n Car",
+          "logo": "https://staging-assets.savyour.com/brands/841/Nb4THyW0qcoUFOyEc5ySbrJjTOvxUAV35Mb0cjEN.png",
+          "banner": "brand-asset/December2018/14492516_1240668259331501_4783125533744748201_n.jpg",
+          "kv_image": "https://staging-assets.savyour.com/brands/841/ct8X0Lale8w7vW5NydKkkJZWfiTTbKtkUV8viGmz.png",
+          "monochrome_logo": "https://staging-assets.savyour.com/brands/841/Nb4THyW0qcoUFOyEc5ySbrJjTOvxUAV35Mb0cjEN.png",
+          "identity_logo": "https://vendor-staging-v1.savyour.com/assets/vendor/images/NoImage.png",
+          "identifier": "nokia.com",
+          "type": "primary",
+          "business_category": {
+            "id": 6,
+            "name": "Others"
+          },
+          "categories": [
+            {
+              "id": 145,
+              "name": "Auto & Tyres",
+              "slug": "auto-tyres-category",
+              "meta_title": "Find tools and accessories for your automobiles",
+              "meta_description": "Find tools and accessories for your automobiles",
+              "share_msg": "",
+              "share_url": "https://savyour.app/Jx1dj",
+              "image": "https://staging-assets.savyour.com/brand-categories/145/medium/8BMxxDHhvjdudoHQde0COo8Nh8xuHkVmtIdHHZf2.jpg",
+              "subcategories": [
+                {
+                  "id": 946,
+                  "name": "Bikes",
+                  "slug": "bikes",
+                  "meta_title": "Title in [COUNTRY] Savyour offers.",
+                  "meta_description": "Looking for the latest smartphones, laptops, or other gadgets in [COUNTRY] Savyour offers a wide selection of electronics at competitive prices.",
+                  "share_msg": null,
+                  "share_url": "https://phpstack-1286578-4664220.cloudwaysapps.com/x8Oj1",
+                  "image": "https://staging-assets.savyour.com/brand-subcategories/946/medium/3lyqUJXyN8NSnrVHkzMS4Dtwt1RBMgaEEkA4QVqy.jpg"
+                }
+              ]
+            },
+            {
+              "id": 143,
+              "name": "Restaurant & Eateriess",
+              "slug": "restaurant-eateriess-category",
+              "meta_title": "HERE Title in [COUNTRY] Savyour offers.",
+              "meta_description": "HERE Looking for the latest smartphones, laptops, or other gadgets in [COUNTRY]? Savyour offers a wide selection of electronics at competitive prices.",
+              "share_msg": "",
+              "share_url": "https://phpstack-1286578-4664220.cloudwaysapps.com/ou34J",
+              "image": "https://staging-assets.savyour.com/brand-categories/143/medium/2a3sCo1bzZP3nDmTGmXiTJ4MhtaczaXkMedzGB51.png",
+              "subcategories": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 445,
+      "slug": "qkfi94oi",
+      "title": "Telenor",
+      "sub_title": "Telenor",
+      "group": "webview",
+      "type": "webview",
+      "sub_type": "large",
+      "endpoint": "https://api-staging.savyour.com.pk/v6/app-media/announcement?limit=1&page=1",
+      "mixpanel_type": "announcementClicked",
+      "valid_till": null,
+      "is_see_all_shown": false,
+      "is_personalized": false,
+      "viewed_from": "",
+      "personalized_endpoint": "",
+      "end_date": "",
+      "see_all_type": "",
+      "items": {
+        "id": 43,
+        "image": "https://staging-assets.savyour.com/app-media/9oHTPdve7KGJJz40uM6J9p6ynSO3NO6lNsG4BYKY.png",
+        "redirect_url": "https://staging-webview.savyour.com.pk/webview/topup"
+      }
+    },
+    {
+      "id": 447,
+      "slug": "mt55r70p",
+      "title": "New On Savyour",
+      "sub_title": "New On Savyour",
+      "group": "new_on_savyour",
+      "type": "brand",
+      "sub_type": "small",
+      "endpoint": "https://api-staging.savyour.com.pk/v6/brands/sections/new_on_savyour?title=New+On+Savyour",
+      "mixpanel_type": "",
+      "valid_till": null,
+      "is_see_all_shown": true,
+      "is_personalized": false,
+      "viewed_from": "",
+      "personalized_endpoint": "",
+      "end_date": "",
+      "see_all_type": "brands",
+      "items": [
+        {
+          "outlet": {
+            "cashback": {
+              "categories": [],
+              "redirect_url": "https://ariel.com?sav_aff_info=savyour-56614a6e4f357771786b5679695978383259686f4f5559655441667271375a586a5574584b534a503575383d-1725037578-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
+              "description": "",
+              "current_cashback": 0,
+              "previous_cashback": 0,
+              "discount_type": "percentage",
+              "previous_discount_type": "none",
+              "upto": false,
+              "redirection_type": "out",
+              "max_user_commission": "Max : Rs. 50.00/- Per Order",
+              "cashback_days": "30 days",
+              "average_cashback_days": "Avg. Cashback time: 30 days",
+              "order_placed": "Today",
+              "notified_in": "15 Mins",
+              "is_showing": true,
+              "animation_info": {
+                "title": "Ariel",
+                "sub_title": "Activated",
+                "description": "Cashback is available in the following categories only",
+                "fulfilled_by_text": "Fulfilled by arielariel"
+              }
+            },
+            "id": 2593,
+            "order_count": 0,
+            "rating_count": 0,
+            "name": "Online",
+            "type": "online",
+            "rating": 5
+          },
+          "id": 3736,
+          "slug": "ariel",
+          "name": "Ariel",
+          "logo": "https://staging-assets.savyour.com/brands/3736/pUVXA63gahkRtfeHMuWkv3LMA3EbQQ9SxeaeJyMN.png",
+          "banner": "brands/3736/medium/87OBxp33XgaGVoXQLGuuMEg8f47p930z6s5RkEmK.png",
+          "kv_image": "https://staging-assets.savyour.com/brands/3736/cpkSOjDBZTYvNdrhuY3X3wi2jp1UCEaBoTYV8Qxr.png",
+          "monochrome_logo": "https://staging-assets.savyour.com/brands/3736/pUVXA63gahkRtfeHMuWkv3LMA3EbQQ9SxeaeJyMN.png",
+          "identity_logo": "https://staging-assets.savyour.com/brands/3736/MVLOHaZyfvi8pp92DWyTEraFHaBv273O3cpjlt8c.png",
+          "identifier": "arielarabia.com",
+          "type": "primary",
+          "business_category": {
+            "id": 3,
+            "name": "Stores & Grocery"
+          },
+          "categories": [
+            {
+              "id": 144,
+              "name": "Stores & Grocery",
+              "slug": "stores-grocery-category",
+              "meta_title": "Get paid to shop grocery!",
+              "meta_description": "Get paid to shop groceryaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!",
+              "share_msg": "",
+              "share_url": "https://phpstack-1286578-4664220.cloudwaysapps.com/kb8z4",
+              "image": "https://staging-assets.savyour.com/brand-categories/144/medium/5CBy3fx96PVyvbVqHzlaFvsxMlehU01wVJKKf3Ut.jpg",
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "outlet": {
+            "cashback": {
+              "categories": [],
+              "redirect_url": "https://www.fifa.com/fifaplus/en?sav_aff_info=savyour-56614a6e4f357771786b5679695978383259686f4f5559655441667271375a586a5574584b534a503575383d-1725037578-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
+              "description": "",
+              "current_cashback": 4.5,
+              "previous_cashback": 0,
+              "discount_type": "percentage",
+              "previous_discount_type": "percentage",
+              "upto": false,
+              "redirection_type": "out",
+              "max_user_commission": "Max : Rs. 10.00/- Per Order",
+              "cashback_days": "30 days",
+              "average_cashback_days": "Avg. Cashback time: 30 days",
+              "order_placed": "Today",
+              "notified_in": "15 Mins",
+              "is_showing": true,
+              "animation_info": {
+                "title": "brandscreate",
+                "sub_title": "Activated",
+                "description": "Cashback is available in the following categories only",
+                "fulfilled_by_text": ""
+              }
+            },
+            "id": 2586,
+            "order_count": 0,
+            "rating_count": 0,
+            "name": "Online",
+            "type": "online",
+            "rating": 5
+          },
+          "id": 3946,
+          "slug": "brandscreate",
+          "name": "brandscreate",
+          "logo": "https://staging.savyour.com/pk-en/assets/vendor/images/NoImage.png",
+          "banner": "/tmp/medium/phpAuaGua",
+          "kv_image": "",
+          "monochrome_logo": "https://staging.savyour.com/pk-en/assets/vendor/images/NoImage.png",
+          "identity_logo": "",
+          "identifier": "mysiwwswte.com",
+          "type": "primary",
+          "business_category": {
+            "id": 1,
+            "name": "Health, Beauty & Gifts"
+          },
+          "categories": []
+        },
+        {
+          "outlet": {
+            "cashback": {
+              "categories": [],
+              "redirect_url": "https://www.google.com?sav_aff_info=savyour-56614a6e4f357771786b5679695978383259686f4f5559655441667271375a586a5574584b534a503575383d-1725037578-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
+              "description": "",
+              "current_cashback": 2.25,
+              "previous_cashback": 0,
+              "discount_type": "percentage",
+              "previous_discount_type": "percentage",
+              "upto": false,
+              "redirection_type": "out",
+              "max_user_commission": "Max : Rs. 40.00/- Per Order",
+              "cashback_days": "30 days",
+              "average_cashback_days": "Avg. Cashback time: 30 days",
+              "order_placed": "Today",
+              "notified_in": "15 Mins",
+              "is_showing": true,
+              "animation_info": {
+                "title": "Specialities barndsss",
+                "sub_title": "Activated",
+                "description": "Cashback is available in the following categories only",
+                "fulfilled_by_text": ""
+              }
+            },
+            "id": 2587,
+            "order_count": 0,
+            "rating_count": 0,
+            "name": "Online",
+            "type": "online",
+            "rating": 5
+          },
+          "id": 3947,
+          "slug": "specialities-barndsss",
+          "name": "Specialities barndsss",
+          "logo": "https://staging.savyour.com/pk-en/assets/vendor/images/NoImage.png",
+          "banner": "/tmp/medium/php2XLAXf",
+          "kv_image": "https://staging-assets.savyour.com/brands/3947/tfwJvPZbAv4Znuc97hgvb2mhrYRp3SB28V69JBIN.png",
+          "monochrome_logo": "https://staging.savyour.com/pk-en/assets/vendor/images/NoImage.png",
+          "identity_logo": "https://staging-assets.savyour.com/brands/3947/DGopqX4jFArVpIeC1unFgiXJt1jXzeCNjtT1ZfLj.png",
+          "identifier": "telemssart.pk",
+          "type": "primary",
+          "business_category": {
+            "id": 3,
+            "name": "Stores & Grocery"
+          },
+          "categories": []
+        },
+        {
+          "outlet": {
+            "cashback": {
+              "categories": [],
+              "redirect_url": "https://order.pieinthesky.com.pk/?sav_aff_info=savyour-56614a6e4f357771786b5679695978383259686f4f5559655441667271375a586a5574584b534a503575383d-1725037578-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
+              "description": "",
+              "current_cashback": 5,
+              "previous_cashback": 0,
+              "discount_type": "percentage",
+              "previous_discount_type": "percentage",
+              "upto": false,
+              "redirection_type": "out",
+              "max_user_commission": "Max : Rs. 1,000.00/- Per Order",
+              "cashback_days": "30 days",
+              "average_cashback_days": "Avg. Cashback time: 30 days",
+              "order_placed": "Today",
+              "notified_in": "15 Mins",
+              "is_showing": true,
+              "animation_info": {
+                "title": "Testing RS",
+                "sub_title": "Activated",
+                "description": "Cashback is available in the following categories only",
+                "fulfilled_by_text": ""
+              }
+            },
+            "id": 2588,
+            "order_count": 0,
+            "rating_count": 0,
+            "name": "Online",
+            "type": "online",
+            "rating": 5
+          },
+          "id": 3948,
+          "slug": "testing-rs",
+          "name": "Testing RS",
+          "logo": "https://staging-assets.savyour.com/brands/3948/FAP51Xcej1AKIX4epTvXNPhiKKnbrGbLxGyryEhh.png",
+          "banner": "brands/3948/medium/J06U5C7yHMuvZbeCdIcDiAmIjADmncW6qEKuWIvk.png",
+          "kv_image": "https://staging-assets.savyour.com/brands/3948/zBuQFGooCCUKAxol3sHr4bvv72It8NDS4l3ZFRpN.png",
+          "monochrome_logo": "https://staging-assets.savyour.com/brands/3948/FAP51Xcej1AKIX4epTvXNPhiKKnbrGbLxGyryEhh.png",
+          "identity_logo": "https://staging-assets.savyour.com/brands/3948/pCn1ACxmXfR1ZnFtRuYLe575hDs7JRRaxGWX2d3l.png",
+          "identifier": "tripP.com",
+          "type": "primary",
+          "business_category": {
+            "id": 2,
+            "name": "Electronics & Home Appliances"
+          },
+          "categories": []
+        },
+        {
+          "outlet": {
+            "cashback": {
+              "categories": [],
+              "redirect_url": "https://www.google.com?sav_aff_info=savyour-56614a6e4f357771786b5679695978383259686f4f5559655441667271375a586a5574584b534a503575383d-1725037578-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
+              "description": "",
+              "current_cashback": 12.1,
+              "previous_cashback": 0,
+              "discount_type": "percentage",
+              "previous_discount_type": "percentage",
+              "upto": false,
+              "redirection_type": "out",
+              "max_user_commission": "Max : Rs. 10.00/- Per Order",
+              "cashback_days": "30 days",
+              "average_cashback_days": "Avg. Cashback time: 30 days",
+              "order_placed": "Today",
+              "notified_in": "15 Mins",
+              "is_showing": true,
+              "animation_info": {
+                "title": "DANY TECHNOLOGIES by nida",
+                "sub_title": "Activated",
+                "description": "Cashback is available in the following categories only",
+                "fulfilled_by_text": ""
+              }
+            },
+            "id": 2583,
+            "order_count": 0,
+            "rating_count": 1,
+            "name": "Online",
+            "type": "online",
+            "rating": 5
+          },
+          "id": 3944,
+          "slug": "dany-technologies-by-nida",
+          "name": "DANY TECHNOLOGIES by nida",
+          "logo": "https://staging.savyour.com/pk-en/assets/vendor/images/NoImage.png",
+          "banner": "/tmp/medium/phpykiy0M",
+          "kv_image": "",
+          "monochrome_logo": "https://staging.savyour.com/pk-en/assets/vendor/images/NoImage.png",
+          "identity_logo": "",
+          "identifier": "danytech.com.pk",
+          "type": "primary",
+          "business_category": {
+            "id": 2,
+            "name": "Electronics & Home Appliances"
+          },
+          "categories": []
+        },
+        {
+          "outlet": {
+            "cashback": {
+              "categories": [],
+              "redirect_url": "https://www.fifa.com/fifaplus/en?sav_aff_info=savyour-56614a6e4f357771786b5679695978383259686f4f5559655441667271375a586a5574584b534a503575383d-1725037578-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
+              "description": "",
+              "current_cashback": 0,
+              "previous_cashback": 0,
+              "discount_type": "percentage",
+              "previous_discount_type": "none",
+              "upto": false,
+              "redirection_type": "out",
+              "max_user_commission": "Max : Rs. 10.00/- Per Order",
+              "cashback_days": "30 days",
+              "average_cashback_days": "Avg. Cashback time: 30 days",
+              "order_placed": "Today",
+              "notified_in": "15 Mins",
+              "is_showing": true,
+              "animation_info": {
+                "title": "FIFA",
+                "sub_title": "Activated",
+                "description": "Cashback is available in the following categories only",
+                "fulfilled_by_text": "Fulfilled by fifa"
+              }
+            },
+            "id": 2580,
+            "order_count": 0,
+            "rating_count": 0,
+            "name": "Online",
+            "type": "online",
+            "rating": 5
+          },
+          "id": 3942,
+          "slug": "fifa",
+          "name": "FIFA",
+          "logo": "https://staging-assets.savyour.com/brands/3942/KzOxrKWC9bIRUxy40Od201EPgHIbF9gcJELG0rpt.png",
+          "banner": "brands/3942/medium/gCmSnW4mAxvdPpiwloHVw13SMgRZJhpkyUlnC92B.png",
+          "kv_image": "https://staging-assets.savyour.com/brands/3942/ijJzlTEZtyvU3kLt2Yfy87WpHA8VCHtobTGrdaad.png",
+          "monochrome_logo": "https://staging-assets.savyour.com/brands/3942/KzOxrKWC9bIRUxy40Od201EPgHIbF9gcJELG0rpt.png",
+          "identity_logo": "https://staging-assets.savyour.com/brands/3942/b4ycdvLfwy7RqDSsM0bIFnnm2jhs9hiCwr7swiAK.png",
+          "identifier": "fifa.com",
+          "type": "primary",
+          "business_category": {
+            "id": 2,
+            "name": "Electronics & Home Appliances"
+          },
+          "categories": [
+            {
+              "id": 153,
+              "name": "Health & Fitness",
+              "slug": "health-fitness-category",
+              "meta_title": "",
+              "meta_description": "",
+              "share_msg": "",
+              "share_url": "https://savyour.app/KjFJ0",
+              "image": "https://staging-assets.savyour.com/brand-categories/153/medium/ZDt5zmxCkRN5I4xKuVAdkjdAcwis1fUmrfZEmCZa.jpg",
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "outlet": {
+            "cashback": {
+              "categories": [],
+              "redirect_url": "https://testing.savyour.com.pk/wordpress?sav_aff_info=savyour-56614a6e4f357771786b5679695978383259686f4f5559655441667271375a586a5574584b534a503575383d-1725037578-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
+              "description": "",
+              "current_cashback": 34,
+              "previous_cashback": 0,
+              "discount_type": "percentage",
+              "previous_discount_type": "percentage",
+              "upto": false,
+              "redirection_type": "out",
+              "max_user_commission": "Max : Rs. 80.00/- Per Order",
+              "cashback_days": "7 days",
+              "average_cashback_days": "Avg. Cashback time: 7 days",
+              "order_placed": "Today",
+              "notified_in": "15 Mins",
+              "is_showing": true,
+              "animation_info": {
+                "title": "Pak Wheels",
+                "sub_title": "Activated",
+                "description": "Cashback is available in the following categories only",
+                "fulfilled_by_text": ""
+              }
+            },
+            "id": 2171,
+            "order_count": 0,
+            "rating_count": 3,
+            "name": "Online",
+            "type": "online",
+            "rating": 5
+          },
+          "id": 3722,
+          "slug": "pak-wheels",
+          "name": "Pak Wheels",
+          "logo": "https://staging-assets.savyour.com/brands/3722/WgqOyig1oflvMVuCTSZEGVz5knovKVAytKR1MXAp.png",
+          "banner": "brands/3722/medium/XvIDni3Ax8ZzBt0LNVJ7sTtKaqmEUgpc0KI8igaH.png",
+          "kv_image": "https://staging-assets.savyour.com/brands/3722/0dJJ7o7fIbgPOOMInstYw5G7OWzFFQP6fNptld9R.png",
+          "monochrome_logo": "https://staging-assets.savyour.com/brands/3722/WgqOyig1oflvMVuCTSZEGVz5knovKVAytKR1MXAp.png",
+          "identity_logo": "https://staging-assets.savyour.com/brands/3722/pEDv6dN4b85LH9MapkeYo9jdcExer07H0TiYGe9C.png",
+          "identifier": "pakwheels.om",
+          "type": "primary",
+          "business_category": {
+            "id": 2,
+            "name": "Electronics & Home Appliances"
+          },
+          "categories": [
+            {
+              "id": 145,
+              "name": "Auto & Tyres",
+              "slug": "auto-tyres-category",
+              "meta_title": "Find tools and accessories for your automobiles",
+              "meta_description": "Find tools and accessories for your automobiles",
+              "share_msg": "",
+              "share_url": "https://savyour.app/Jx1dj",
+              "image": "https://staging-assets.savyour.com/brand-categories/145/medium/8BMxxDHhvjdudoHQde0COo8Nh8xuHkVmtIdHHZf2.jpg",
+              "subcategories": [
+                {
+                  "id": 946,
+                  "name": "Bikes",
+                  "slug": "bikes",
+                  "meta_title": "Title in [COUNTRY] Savyour offers.",
+                  "meta_description": "Looking for the latest smartphones, laptops, or other gadgets in [COUNTRY] Savyour offers a wide selection of electronics at competitive prices.",
+                  "share_msg": null,
+                  "share_url": "https://phpstack-1286578-4664220.cloudwaysapps.com/x8Oj1",
+                  "image": "https://staging-assets.savyour.com/brand-subcategories/946/medium/3lyqUJXyN8NSnrVHkzMS4Dtwt1RBMgaEEkA4QVqy.jpg"
+                }
+              ]
+            },
+            {
+              "id": 143,
+              "name": "Restaurant & Eateriess",
+              "slug": "restaurant-eateriess-category",
+              "meta_title": "HERE Title in [COUNTRY] Savyour offers.",
+              "meta_description": "HERE Looking for the latest smartphones, laptops, or other gadgets in [COUNTRY]? Savyour offers a wide selection of electronics at competitive prices.",
+              "share_msg": "",
+              "share_url": "https://phpstack-1286578-4664220.cloudwaysapps.com/ou34J",
+              "image": "https://staging-assets.savyour.com/brand-categories/143/medium/2a3sCo1bzZP3nDmTGmXiTJ4MhtaczaXkMedzGB51.png",
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "outlet": {
+            "cashback": {
+              "categories": [],
+              "redirect_url": "https://surmawala.pk?sav_aff_info=savyour-56614a6e4f357771786b5679695978383259686f4f5559655441667271375a586a5574584b534a503575383d-1725037578-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
+              "description": "",
+              "current_cashback": 32,
+              "previous_cashback": 0,
+              "discount_type": "percentage",
+              "previous_discount_type": "percentage",
+              "upto": false,
+              "redirection_type": "out",
+              "max_user_commission": "Max : Rs. 30.00/- Per Order",
+              "cashback_days": "30 days",
+              "average_cashback_days": "Avg. Cashback time: 30 days",
+              "order_placed": "Today",
+              "notified_in": "15 Mins",
+              "is_showing": true,
+              "animation_info": {
+                "title": "Audionic",
+                "sub_title": "Activated",
+                "description": "Cashback is available in the following categories only",
+                "fulfilled_by_text": ""
+              }
+            },
+            "id": 1141,
+            "order_count": 0,
+            "rating_count": 3,
+            "name": "Online",
+            "type": "online",
+            "rating": 4.3
+          },
+          "id": 3391,
+          "slug": "audionic",
+          "name": "Audionic",
+          "logo": "https://staging-assets.savyour.com/brands/3391/kw6hGRSirS5eUkWZky7YhfI0FlCuakewofGvIHRs.png",
+          "banner": "brands/3391/medium/1aCB3uSXpOeN8apZtFDpVr4ZdO0uVLVk09ZLWsjd.png",
+          "kv_image": "https://staging-assets.savyour.com/brands/3391/ugrMQIw6IFVteM15n8gRM3u6gf9I1bxg6HuTe275.jpg",
+          "monochrome_logo": "https://staging-assets.savyour.com/brands/3391/kw6hGRSirS5eUkWZky7YhfI0FlCuakewofGvIHRs.png",
+          "identity_logo": "https://staging-assets.savyour.com/brands/3391/4uPjVLdYwSpY5qymfdeo9sY0UZJCVss5QBg1oh57.png",
+          "identifier": "audionic.pk",
+          "type": "primary",
+          "business_category": {
+            "id": 2,
+            "name": "Electronics & Home Appliances"
+          },
+          "categories": [
+            {
+              "id": 151,
+              "name": "Mobile Phones & Electronics",
+              "slug": "mobile-phones-electronics-category",
+              "meta_title": "Shop home appliances, smart devices, mobile phones & more in great prices",
+              "meta_description": "Shop home appliances, smart devices, mobile phones & more in great prices",
+              "share_msg": "",
+              "share_url": "https://savyour.app/LsvCM",
+              "image": "https://staging-assets.savyour.com/brand-categories/151/medium/ONqsN1WzWIu0OzveuhlMtXqdLLVvtyUYj8rIMb5R.jpg",
+              "subcategories": []
+            },
+            {
+              "id": 143,
+              "name": "Restaurant & Eateriess",
+              "slug": "restaurant-eateriess-category",
+              "meta_title": "HERE Title in [COUNTRY] Savyour offers.",
+              "meta_description": "HERE Looking for the latest smartphones, laptops, or other gadgets in [COUNTRY]? Savyour offers a wide selection of electronics at competitive prices.",
+              "share_msg": "",
+              "share_url": "https://phpstack-1286578-4664220.cloudwaysapps.com/ou34J",
+              "image": "https://staging-assets.savyour.com/brand-categories/143/medium/2a3sCo1bzZP3nDmTGmXiTJ4MhtaczaXkMedzGB51.png",
+              "subcategories": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 436,
+      "slug": "eid-bazar",
+      "title": "Eid Bazaar ?️",
+      "sub_title": "",
+      "group": "collection",
+      "type": "collection",
+      "sub_type": "small",
+      "endpoint": "https://api-staging.savyour.com.pk/v6/collections",
+      "mixpanel_type": "",
+      "valid_till": null,
+      "is_see_all_shown": false,
+      "is_personalized": false,
+      "viewed_from": "",
+      "personalized_endpoint": "",
+      "end_date": "",
+      "see_all_type": "",
+      "items": [
+        {
+          "id": 99,
+          "slug": "ma-auto-59Mu8uQu87",
+          "name": "MA Auto",
+          "description": "auto",
+          "image": "https://staging-assets.savyour.com/collections/99/UDFxoXWvi9r4mDFB3CdW4vKc6zFfLoDx4R8nbt80.jpg",
+          "web_icon": "https://staging-assets.savyour.com/collections/99/FRtbYrU5l9wVMspc4ARsbkZz9p1zKzPFlFA7ZwA0.jpg",
+          "banner": "https://staging-assets.savyour.com/collections/99/ySGihhflPTPzNfYSbt1Ejx6xBrz4YHnarjOfJqa4.jpg",
+          "share_msg": "Here’s a collection of business which I found on Savyour, you can find any kind of business on-the-go with this free app.",
+          "share_url": "https://savyour.app/9Bia5"
+        },
+        {
+          "id": 101,
+          "slug": "bachat-bazzar-05Wtnu3uKE",
+          "name": "Bachat Bazzar!",
+          "description": "Bachat Bazzar is bazzar where you can find cheap products",
+          "image": "https://staging-assets.savyour.com/collections/101/FvpTivFDJPxQDXgdyIub2L6RcxGiKXSHsARkj9AG.png",
+          "web_icon": "https://staging-assets.savyour.com/collections/101/4G9r1HTnvRrf9sjjek37SbiZy34BPXwPFXThDI1D.jpeg",
+          "banner": "https://staging-assets.savyour.com/collections/101/vyh4cMA9T5uM6BRMLgcUU5zAxEBPwejm4aUI499B.jpeg",
+          "share_msg": "Here’s a collection of business which I found on Savyour, you can find any kind of business on-the-go with this free app.",
+          "share_url": "https://savyour.app/8v6gw"
+        },
+        {
+          "id": 103,
+          "slug": "car-auto-1D8UyuNuml",
+          "name": "Car & Auto",
+          "description": "g",
+          "image": "https://staging-assets.savyour.com/collections/103/NOyN9ldsJ8hzVjx1Igp8Un65HsoKVz4Ifuatjzii.jpeg",
+          "web_icon": "https://staging-assets.savyour.com/collections/103/3QT4hN22kw6nlmBm0vtzO7BAMerViWFYpqD1WJjo.png",
+          "banner": "https://staging-assets.savyour.com/collections/103/8bWtYe2A3a2vhiw9pHnsc8OTTJuNSK959i29cB5i.png",
+          "share_msg": "Here’s a collection of business which I found on Savyour, you can find any kind of business on-the-go with this free app.",
+          "share_url": "https://savyour.app/WUJw6"
+        },
+        {
+          "id": 96,
+          "slug": "tx-OJ6HeuWuMQ",
+          "name": "TX",
+          "description": "tx desc",
+          "image": "https://staging-assets.savyour.com/collections/96/tbSNXSc2Vo4CTGvGSddkFYE6FKJVuoe7HZhuRKtR.jpeg",
+          "web_icon": "https://staging-assets.savyour.com/collections/96/Y4Sp7y86ctoG6OwX9IPFxCrgzvDqD3gUtXKH3wSi.png",
+          "banner": "https://staging-assets.savyour.com/collections/96/q11KnnB16FIRHemq0sowoI0HYSdNcFY5prbm1pFb.png",
+          "share_msg": "Here’s a collection of business which I found on Savyour, you can find any kind of business on-the-go with this free app.",
+          "share_url": "https://savyour.app/1uiEA"
+        },
+        {
+          "id": 98,
+          "slug": "smooth-testing-3eKuqu5uVb",
+          "name": "Smooth Testing",
+          "description": "To Verify collection issue on different cities",
+          "image": "https://staging-assets.savyour.com/collections/98/T1TzyRz9L7iMKPuhFcDH0DDTTk8HzNnvoT6RooM5.jpeg",
+          "web_icon": "https://staging-assets.savyour.com/collections/98/mqTRygPqBTMwltKyYUSqEs1JWQPeVCoB0bJ5VSco.jpeg",
+          "banner": "",
+          "share_msg": "Here’s a collection of business which I found on Savyour, you can find any kind of business on-the-go with this free app.",
+          "share_url": "https://savyour.app/2h7RT"
+        },
+        {
+          "id": 102,
+          "slug": "ramzan-offers-OJxueuWuMl",
+          "name": "Ramzan Offers",
+          "description": "Special Deals and discounts for the month of Ramazan",
+          "image": "https://staging-assets.savyour.com/collections/102/a0qwfOlMutEC9ehglXw1nH8XjLvWJSZdHIn6ACiH.jpeg",
+          "web_icon": "https://staging-assets.savyour.com/collections/102/jH0iIlIWjUZOwtC4WUwRvjm9lWyOmUN2HSTinnnv.jpeg",
+          "banner": "https://staging-assets.savyour.com/collections/102/xwjhGYqD73bK77GoRZDNjkGNX04aUU5fnWMXD4TL.jpeg",
+          "share_msg": "Here’s a collection of business which I found on Savyour, you can find any kind of business on-the-go with this free app.",
+          "share_url": "https://savyour.app/ayojQ"
+        },
+        {
+          "id": 109,
+          "slug": "best-collection-KKatouJu97",
+          "name": "beST COLLECTION",
+          "description": "beST COLLECTION",
+          "image": "https://staging-assets.savyour.com/collections/109/MnKRmpBb1gFdtGZKOKrFnTwRXUc5fibIl6DzWpC5.jpeg",
+          "web_icon": "https://staging-assets.savyour.com/collections/109/Mp1rwILImnIZXdieYLUcdCdh7VodN1ri1HaVazPJ.jpeg",
+          "banner": "https://staging-assets.savyour.com/collections/109/DGCoXnqDdoHsSVcva5rCVzABepIPPOQfYfjJ9dNG.jpeg",
+          "share_msg": "Here’s a collection of business which I found on Savyour, you can find any kind of business on-the-go with this free app.",
+          "share_url": "https://savyour.app/sCO5H"
+        },
+        {
+          "id": 90,
+          "slug": "smile-please-WGGFluRupE",
+          "name": "Smile Please",
+          "description": "Smile Please Smile Please Smile Please Smile Please Smile Please Smile Please Smile Please Smile Please Smile Please Smile Please Smile Please Smile Please Smile Please Smile Please",
+          "image": "https://staging-assets.savyour.com/collections/90/gn7jM0EMdP7UsZvatZsWTORNxPRC8iJMRv0V0s71.png",
+          "web_icon": "https://staging-assets.savyour.com/collections/90/GbrzGjmVadduUg0KXC2HXWTZ3BLRtu7c4tBQoB3o.png",
+          "banner": "https://staging-assets.savyour.com/collections/90/6mPns2TArVi6FyG3kwOQRBPv6LIbE4SWiUyaDyBT.jpeg",
+          "share_msg": "Here’s a collection of business which I found on Savyour, you can find any kind of business on-the-go with this free app.",
+          "share_url": "https://savyour.app/L9mOM"
+        },
+        {
+          "id": 110,
+          "slug": "testing-n-E9NTzugurx",
+          "name": "Testing N",
+          "description": "Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing",
+          "image": "https://staging-assets.savyour.com/collections/110/F3qR1ik87bzkpQwfxb6dIR4V8JgX3Ukfc8DqJx0j.png",
+          "web_icon": "https://staging-assets.savyour.com/collections/110/6EMRKcqpuIT8he2yogKKqN2EQvNHsHuwpZKvqOge.png",
+          "banner": "",
+          "share_msg": "Here’s a collection of business which I found on Savyour, you can find any kind of business on-the-go with this free app.",
+          "share_url": "https://savyour.app/KQF4j"
+        }
+      ]
+    },
+    {
+      "id": 443,
+      "slug": "ob1xadv5",
+      "title": "Recently Visited",
+      "sub_title": "Recently Visited",
+      "group": "recently_visited",
+      "type": "brand",
+      "sub_type": "small",
+      "endpoint": "https://api-staging.savyour.com.pk/v6/brands/sections/recently_visited?title=Recently+Visited",
+      "mixpanel_type": "",
+      "valid_till": null,
+      "is_see_all_shown": true,
+      "is_personalized": false,
+      "viewed_from": "",
+      "personalized_endpoint": "",
+      "end_date": "",
+      "see_all_type": "brands",
+      "fetch_url": "https://api-staging.savyour.com.pk/v6/brands/types/recently_visited?limit=8",
+      "items": []
+    },
+    {
+      "id": 511,
+      "slug": "service-utilities",
+      "title": "Service & Utilities",
+      "sub_title": "Service & Utilities",
+      "group": "collection",
+      "type": "collection",
+      "sub_type": "small",
+      "endpoint": "https://api-staging.savyour.com.pk/v6/https://api-staging.savyour.com.pk/v4/brands/service-utilities",
+      "mixpanel_type": "outletClicked",
+      "valid_till": null,
+      "is_see_all_shown": false,
+      "is_personalized": false,
+      "viewed_from": "",
+      "personalized_endpoint": "",
+      "end_date": "",
+      "see_all_type": "",
+      "items": [
+        {
+          "id": 99,
+          "slug": "ma-auto-59Mu8uQu87",
+          "name": "MA Auto",
+          "description": "auto",
+          "image": "https://staging-assets.savyour.com/collections/99/UDFxoXWvi9r4mDFB3CdW4vKc6zFfLoDx4R8nbt80.jpg",
+          "web_icon": "https://staging-assets.savyour.com/collections/99/FRtbYrU5l9wVMspc4ARsbkZz9p1zKzPFlFA7ZwA0.jpg",
+          "banner": "https://staging-assets.savyour.com/collections/99/ySGihhflPTPzNfYSbt1Ejx6xBrz4YHnarjOfJqa4.jpg",
+          "share_msg": "Here’s a collection of business which I found on Savyour, you can find any kind of business on-the-go with this free app.",
+          "share_url": "https://savyour.app/9Bia5"
+        },
+        {
+          "id": 101,
+          "slug": "bachat-bazzar-05Wtnu3uKE",
+          "name": "Bachat Bazzar!",
+          "description": "Bachat Bazzar is bazzar where you can find cheap products",
+          "image": "https://staging-assets.savyour.com/collections/101/FvpTivFDJPxQDXgdyIub2L6RcxGiKXSHsARkj9AG.png",
+          "web_icon": "https://staging-assets.savyour.com/collections/101/4G9r1HTnvRrf9sjjek37SbiZy34BPXwPFXThDI1D.jpeg",
+          "banner": "https://staging-assets.savyour.com/collections/101/vyh4cMA9T5uM6BRMLgcUU5zAxEBPwejm4aUI499B.jpeg",
+          "share_msg": "Here’s a collection of business which I found on Savyour, you can find any kind of business on-the-go with this free app.",
+          "share_url": "https://savyour.app/8v6gw"
+        },
+        {
+          "id": 103,
+          "slug": "car-auto-1D8UyuNuml",
+          "name": "Car & Auto",
+          "description": "g",
+          "image": "https://staging-assets.savyour.com/collections/103/NOyN9ldsJ8hzVjx1Igp8Un65HsoKVz4Ifuatjzii.jpeg",
+          "web_icon": "https://staging-assets.savyour.com/collections/103/3QT4hN22kw6nlmBm0vtzO7BAMerViWFYpqD1WJjo.png",
+          "banner": "https://staging-assets.savyour.com/collections/103/8bWtYe2A3a2vhiw9pHnsc8OTTJuNSK959i29cB5i.png",
+          "share_msg": "Here’s a collection of business which I found on Savyour, you can find any kind of business on-the-go with this free app.",
+          "share_url": "https://savyour.app/WUJw6"
+        },
+        {
+          "id": 96,
+          "slug": "tx-OJ6HeuWuMQ",
+          "name": "TX",
+          "description": "tx desc",
+          "image": "https://staging-assets.savyour.com/collections/96/tbSNXSc2Vo4CTGvGSddkFYE6FKJVuoe7HZhuRKtR.jpeg",
+          "web_icon": "https://staging-assets.savyour.com/collections/96/Y4Sp7y86ctoG6OwX9IPFxCrgzvDqD3gUtXKH3wSi.png",
+          "banner": "https://staging-assets.savyour.com/collections/96/q11KnnB16FIRHemq0sowoI0HYSdNcFY5prbm1pFb.png",
+          "share_msg": "Here’s a collection of business which I found on Savyour, you can find any kind of business on-the-go with this free app.",
+          "share_url": "https://savyour.app/1uiEA"
+        },
+        {
+          "id": 98,
+          "slug": "smooth-testing-3eKuqu5uVb",
+          "name": "Smooth Testing",
+          "description": "To Verify collection issue on different cities",
+          "image": "https://staging-assets.savyour.com/collections/98/T1TzyRz9L7iMKPuhFcDH0DDTTk8HzNnvoT6RooM5.jpeg",
+          "web_icon": "https://staging-assets.savyour.com/collections/98/mqTRygPqBTMwltKyYUSqEs1JWQPeVCoB0bJ5VSco.jpeg",
+          "banner": "",
+          "share_msg": "Here’s a collection of business which I found on Savyour, you can find any kind of business on-the-go with this free app.",
+          "share_url": "https://savyour.app/2h7RT"
+        },
+        {
+          "id": 102,
+          "slug": "ramzan-offers-OJxueuWuMl",
+          "name": "Ramzan Offers",
+          "description": "Special Deals and discounts for the month of Ramazan",
+          "image": "https://staging-assets.savyour.com/collections/102/a0qwfOlMutEC9ehglXw1nH8XjLvWJSZdHIn6ACiH.jpeg",
+          "web_icon": "https://staging-assets.savyour.com/collections/102/jH0iIlIWjUZOwtC4WUwRvjm9lWyOmUN2HSTinnnv.jpeg",
+          "banner": "https://staging-assets.savyour.com/collections/102/xwjhGYqD73bK77GoRZDNjkGNX04aUU5fnWMXD4TL.jpeg",
+          "share_msg": "Here’s a collection of business which I found on Savyour, you can find any kind of business on-the-go with this free app.",
+          "share_url": "https://savyour.app/ayojQ"
+        },
+        {
+          "id": 109,
+          "slug": "best-collection-KKatouJu97",
+          "name": "beST COLLECTION",
+          "description": "beST COLLECTION",
+          "image": "https://staging-assets.savyour.com/collections/109/MnKRmpBb1gFdtGZKOKrFnTwRXUc5fibIl6DzWpC5.jpeg",
+          "web_icon": "https://staging-assets.savyour.com/collections/109/Mp1rwILImnIZXdieYLUcdCdh7VodN1ri1HaVazPJ.jpeg",
+          "banner": "https://staging-assets.savyour.com/collections/109/DGCoXnqDdoHsSVcva5rCVzABepIPPOQfYfjJ9dNG.jpeg",
+          "share_msg": "Here’s a collection of business which I found on Savyour, you can find any kind of business on-the-go with this free app.",
+          "share_url": "https://savyour.app/sCO5H"
+        },
+        {
+          "id": 90,
+          "slug": "smile-please-WGGFluRupE",
+          "name": "Smile Please",
+          "description": "Smile Please Smile Please Smile Please Smile Please Smile Please Smile Please Smile Please Smile Please Smile Please Smile Please Smile Please Smile Please Smile Please Smile Please",
+          "image": "https://staging-assets.savyour.com/collections/90/gn7jM0EMdP7UsZvatZsWTORNxPRC8iJMRv0V0s71.png",
+          "web_icon": "https://staging-assets.savyour.com/collections/90/GbrzGjmVadduUg0KXC2HXWTZ3BLRtu7c4tBQoB3o.png",
+          "banner": "https://staging-assets.savyour.com/collections/90/6mPns2TArVi6FyG3kwOQRBPv6LIbE4SWiUyaDyBT.jpeg",
+          "share_msg": "Here’s a collection of business which I found on Savyour, you can find any kind of business on-the-go with this free app.",
+          "share_url": "https://savyour.app/L9mOM"
+        },
+        {
+          "id": 110,
+          "slug": "testing-n-E9NTzugurx",
+          "name": "Testing N",
+          "description": "Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing",
+          "image": "https://staging-assets.savyour.com/collections/110/F3qR1ik87bzkpQwfxb6dIR4V8JgX3Ukfc8DqJx0j.png",
+          "web_icon": "https://staging-assets.savyour.com/collections/110/6EMRKcqpuIT8he2yogKKqN2EQvNHsHuwpZKvqOge.png",
+          "banner": "",
+          "share_msg": "Here’s a collection of business which I found on Savyour, you can find any kind of business on-the-go with this free app.",
+          "share_url": "https://savyour.app/KQF4j"
+        }
+      ]
+    },
+    {
+      "id": 439,
+      "slug": "banner",
+      "title": "Exciting Cashbacks Test",
+      "sub_title": "Limited time Cashback Offers",
+      "group": "banner",
+      "type": "banner",
+      "sub_type": "small",
+      "endpoint": "https://api-staging.savyour.com.pk/v6/app-media/banner",
+      "mixpanel_type": "",
+      "valid_till": null,
+      "is_see_all_shown": false,
+      "is_personalized": false,
+      "viewed_from": "",
+      "personalized_endpoint": "",
+      "end_date": "",
+      "see_all_type": "",
+      "items": [
+        {
+          "id": 71,
+          "image": "https://staging-assets.savyour.com/app-media/a0ro1sfJPfUhEwL7WWgk5r2jfoIiitzbszlnl5iB.png",
+          "redirect_id": 12
+        },
+        {
+          "id": 77,
+          "image": "https://staging-assets.savyour.com/app-media/8Gj91h7qlEuFWz2s7jhYYrP8VSoKJbc7kvc5AqUD.jpg",
+          "redirect_id": 12
+        },
+        {
+          "id": 72,
+          "image": "https://staging-assets.savyour.com/app-media/3WDmaxmBk2DqzwEePuASghXLzGMD6PzI66mDXJtr.jpg",
+          "redirect_id": null
+        },
+        {
+          "id": 134,
+          "image": "https://staging-assets.savyour.com/app-media/2Yi4pt4nUpsyMtxYCd0xXOIWr2IO17L6u4AKvFPO.png",
+          "redirect_id": null
+        },
+        {
+          "id": 140,
+          "image": "https://staging-assets.savyour.com/app-media/NDdNxwWEr5ujrAn0OQzycV5kUSLUy22hkRDAZzLx.png",
+          "redirect_id": 360
+        },
+        {
+          "id": 73,
+          "image": "https://staging-assets.savyour.com/app-media/5FGzlgF4D2Vt7nLevcsfGwZhPRcWTy51BlZmBuVe.jpg",
+          "redirect_id": null
+        },
+        {
+          "id": 74,
+          "image": "https://staging-assets.savyour.com/app-media/fYe7QDvuMI8dH80DUlngJfSSkRpZQwiPzTLLyBrg.jpg",
+          "redirect_id": null
+        }
+      ]
+    },
+    {
+      "id": 470,
+      "slug": "just_for_you",
+      "title": "Just For You ❤️",
+      "sub_title": "",
+      "group": "just_for_you",
+      "type": "pagination",
+      "sub_type": "kv",
+      "endpoint": "https://api-staging.savyour.com.pk/v6/brands/types/just-for-you?title=Just+For+You+%E2%9D%A4%EF%B8%8F",
+      "mixpanel_type": "",
+      "valid_till": null,
+      "is_see_all_shown": false,
+      "is_personalized": true,
+      "viewed_from": "home-page-view",
+      "personalized_endpoint": "catalogs/default_catalog/placements/test-jfu",
+      "end_date": "",
+      "fetch_url": "https://api-staging.savyour.com.pk/v6/brands/types/just_for_you",
+      "items": []
+    }
+  ]
+}
