@@ -2,7 +2,25 @@
   "success": true,
   "message": "",
   "data": [
-    
+     {
+      "id": 3365,
+      "slug": "brand-campaign",
+      "title": "Special",
+      "sub_title": "",
+      "group": "brand_campaign",
+      "type": "header",
+      "sub_type": "small",
+      "endpoint": "",
+      "mixpanel_type": "outletClicked",
+      "valid_till": null,
+      "is_see_all_shown": true,
+      "is_personalized": false,
+      "viewed_from": "",
+      "personalized_endpoint": "",
+      "end_date": "",
+      "see_all_type": "",
+      "items": []
+     },
     {
       "id": 3365,
       "slug": "brand-campaign",
