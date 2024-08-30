@@ -922,6 +922,28 @@
       ]
     },
     {
+      "id": 621,
+      "slug": "3gv8tlks",
+      "title": "",
+      "sub_title": "",
+      "group": "impact",
+      "type": "impact",
+      "sub_type": "",
+      "endpoint": "",
+      "mixpanel_type": "ratingClicked",
+      "valid_till": null,
+      "is_see_all_shown": true,
+      "is_personalized": false,
+      "viewed_from": "",
+      "personalized_endpoint": "",
+      "end_date": "",
+      "fetch_url": "",
+      "see_all_type": "",
+      "items": [
+        
+      ]
+    },
+    {
       "id": 625,
       "slug": "3gv8tlks",
       "title": "Recommendations",
