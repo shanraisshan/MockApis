@@ -76,7 +76,7 @@
       "group": "brand",
       "type": "brand",
       "sub_type": "special_brands",
-      "endpoint": "https://api-staging.savyour.com.pk/v6/brands/sections/promotional?title=top+20+brand+in+Karachi",
+      "endpoint": "https://shanraisshan.github.io/MockApis/v15/specialbrand.json",
       "mixpanel_type": "outletClicked",
       "background_color": "#F0F7F7",
       "valid_till": null,
