@@ -5,17 +5,21 @@
         {
             "id": 234,
             "slug": "brand-campaign",
-            "title": "Special Brnads",
-            "name": "Special Brnads",
+            "title": "Special Deals",
             "sub_title": "",
+            "group": "brand_campaign",
             "type": "header",
+            "sub_type": "small",
+            "endpoint": "https://api-staging.savyour.com.pk/v6/campaigns/brand",
+            "mixpanel_type": "outletClicked",
+            "valid_till": null,
             "is_see_all_shown": true,
             "is_personalized": false,
+            "viewed_from": "",
             "personalized_endpoint": "",
             "end_date": "",
             "see_all_type": "",
-            "items": [
-            ]
+            "items": []
         },
         {
             "id": 3365,
