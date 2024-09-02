@@ -28,7 +28,7 @@
         {
           "name": "Recyclable",
           "image": "https://img.freepik.com/premium-vector/watercolor-clipart-floral-element-leaf-transparent-background_653046-119.jpg",
-          "background_color": "#F0F7F7"
+          "background_color": "#ead4e0"
         },
         {
           "name": "Reusability",
@@ -752,7 +752,7 @@
           "name": "Auto & Tyres",
           "slug": "auto-tyres-category",
           "image": "https://staging-assets.savyour.com/brand-categories/145/medium/8BMxxDHhvjdudoHQde0COo8Nh8xuHkVmtIdHHZf2.jpg",
-          "background_color": "#e5f2f2"
+          "background_color": "#ead4e0"
         },
         {
           "id": 151,
