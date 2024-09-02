@@ -5,7 +5,7 @@
     {
       "id": 234,
       "slug": "brand-campaign",
-      "title": "Special Deals",
+      "title": "",
       "sub_title": "",
       "group": "brand_campaign",
       "type": "header",
@@ -20,7 +20,8 @@
       "end_date": "",
       "see_all_type": "",
       "items": {
-        "id": -1
+        "id": -1,
+        "title": "Special Deals"
       }
     },
     {
