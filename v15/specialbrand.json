@@ -19,6 +19,10 @@
             "personalized_endpoint": "",
             "end_date": "",
             "see_all_type": "",
+            "header": {
+                "title": "Special Deals",
+                "name": "Special Deals"
+            }
             "items": []
         },
         {
