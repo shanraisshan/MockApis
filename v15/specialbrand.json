@@ -19,7 +19,9 @@
       "personalized_endpoint": "",
       "end_date": "",
       "see_all_type": "",
-      "header" : null,
+      "header" : {
+        "id": -1
+      },
       "items": []
     },
     {
