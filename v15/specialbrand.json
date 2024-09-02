@@ -2,7 +2,21 @@
     "success": true,
     "message": "",
     "data": [
-        
+        {
+            "id": 234,
+            "slug": "brand-campaign",
+            "title": "Special Brnads",
+            "name": "Special Brnads",
+            "sub_title": "",
+            "type": "header",
+            "is_see_all_shown": true,
+            "is_personalized": false,
+            "personalized_endpoint": "",
+            "end_date": "",
+            "see_all_type": "",
+            "items": [
+            ]
+        },
         {
             "id": 3365,
             "slug": "brand-campaign",
@@ -1653,7 +1667,7 @@
          {
               "id": 79,
               "slug": "pagination",
-              "title": "",
+              "title": "All Brands",
               "fetch_url": "https://api-staging.savyour.com.pk/v6/brands/types/promotional?type=online",
               "endpoint": "https://api-staging.savyour.com.pk/v6/brands/types/promotional?type=online",
               "mixpanel_type": "",
