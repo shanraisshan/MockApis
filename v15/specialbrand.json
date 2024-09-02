@@ -19,21 +19,7 @@
       "personalized_endpoint": "",
       "end_date": "",
       "see_all_type": "",
-      "header": {
-        "title": "Special Deals",
-        "name": "Special Deals",
-        "type" : null,
-        "tabs" : null,
-        "id" : 123,
-        "image" : null,
-        "slug" : null,
-        "description" : null,
-        "endDate" : null,
-        "endDateText" :null,
-        "backgroundColor" : null,
-        "shareMsg" : null,
-        "shareUrl" : null
-      },
+      "header" : null,
       "items": []
     },
     {
