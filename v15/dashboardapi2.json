@@ -22,27 +22,33 @@
       "items": [
         {
           "name": "Material Source",
-          "image": "https://static.vecteezy.com/system/resources/previews/015/100/008/original/leaf-transparent-background-free-png.png"
+          "image": "https://static.vecteezy.com/system/resources/previews/015/100/008/original/leaf-transparent-background-free-png.png",
+          "background_color": "#F0F7F7"
         },
         {
           "name": "Recyclable",
-          "image": "https://img.freepik.com/premium-vector/watercolor-clipart-floral-element-leaf-transparent-background_653046-119.jpg"
+          "image": "https://img.freepik.com/premium-vector/watercolor-clipart-floral-element-leaf-transparent-background_653046-119.jpg",
+          "background_color": "#F0F7F7"
         },
         {
           "name": "Reusability",
-          "image": "https://static.vecteezy.com/system/resources/previews/015/100/008/original/leaf-transparent-background-free-png.png"
+          "image": "https://static.vecteezy.com/system/resources/previews/015/100/008/original/leaf-transparent-background-free-png.png",
+          "background_color": "#F0F7F7"
         },
         {
           "name": "Energy Efficient",
-          "image": "https://img.freepik.com/premium-vector/watercolor-clipart-floral-element-leaf-transparent-background_653046-119.jpg"
+          "image": "https://img.freepik.com/premium-vector/watercolor-clipart-floral-element-leaf-transparent-background_653046-119.jpg",
+          "background_color": "#F0F7F7"
         },
         {
           "name": "Values 5",
-          "image": "https://static.vecteezy.com/system/resources/previews/015/100/008/original/leaf-transparent-background-free-png.png"
+          "image": "https://static.vecteezy.com/system/resources/previews/015/100/008/original/leaf-transparent-background-free-png.png",
+          "background_color": "#e5f2f2"
         },
         {
           "name": "Values 6",
-          "image": "https://img.freepik.com/premium-vector/watercolor-clipart-floral-element-leaf-transparent-background_653046-119.jpg"
+          "image": "https://img.freepik.com/premium-vector/watercolor-clipart-floral-element-leaf-transparent-background_653046-119.jpg",
+          "background_color": "#F0F7F7"
         }
       ]
     },
@@ -64,9 +70,7 @@
       "end_date": "",
       "fetch_url": "",
       "see_all_type": "",
-      "items": [
-        
-      ]
+      "items": []
     },
     {
       "id": 454,
@@ -208,18 +212,14 @@
               "share_msg": "",
               "share_url": "https://phpstack-1286578-4664220.cloudwaysapps.com/kb8z4",
               "image": "https://staging-assets.savyour.com/brand-categories/144/medium/5CBy3fx96PVyvbVqHzlaFvsxMlehU01wVJKKf3Ut.jpg",
-              "subcategories": [
-                
-              ]
+              "subcategories": []
             }
           ]
         },
         {
           "outlet": {
             "cashback": {
-              "categories": [
-                
-              ],
+              "categories": [],
               "redirect_url": "https://testing.savyour.com.pk/wp1?sav_aff_info=savyour-504f3768784b72365a6d53334559575341666c4e2f673d3d-1724830699-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
               "description": "",
               "current_cashback": 8,
@@ -262,9 +262,7 @@
             "id": 4,
             "name": "Food & Restaurants"
           },
-          "categories": [
-            
-          ]
+          "categories": []
         },
         {
           "outlet": {
@@ -351,18 +349,14 @@
               "share_msg": "",
               "share_url": "https://savyour.app/ou34J",
               "image": "https://staging-assets.savyour.com/brand-categories/143/medium/2a3sCo1bzZP3nDmTGmXiTJ4MhtaczaXkMedzGB51.png",
-              "subcategories": [
-                
-              ]
+              "subcategories": []
             }
           ]
         },
         {
           "outlet": {
             "cashback": {
-              "categories": [
-                
-              ],
+              "categories": [],
               "redirect_url": "http://web.savyour.local/testdomain?sav_aff_info=savyour-504f3768784b72365a6d53334559575341666c4e2f673d3d-1724830699-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
               "description": "",
               "current_cashback": 4,
@@ -437,9 +431,7 @@
               "share_msg": "",
               "share_url": "https://savyour.app/ou34J",
               "image": "https://staging-assets.savyour.com/brand-categories/143/medium/2a3sCo1bzZP3nDmTGmXiTJ4MhtaczaXkMedzGB51.png",
-              "subcategories": [
-                
-              ]
+              "subcategories": []
             },
             {
               "id": 152,
@@ -450,18 +442,14 @@
               "share_msg": "",
               "share_url": "https://savyour.app/bb0xN",
               "image": "https://staging-assets.savyour.com/brand-categories/152/medium/EpwFG8epbRBkQgpU6hdXxhTFTCcDWkkeuqdqs95M.jpg",
-              "subcategories": [
-                
-              ]
+              "subcategories": []
             }
           ]
         },
         {
           "outlet": {
             "cashback": {
-              "categories": [
-                
-              ],
+              "categories": [],
               "redirect_url": "https://www.facebook.com?sav_aff_info=savyour-504f3768784b72365a6d53334559575341666c4e2f673d3d-1724830699-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
               "description": "",
               "current_cashback": 2,
@@ -514,18 +502,14 @@
               "share_msg": "",
               "share_url": "https://savyour.app/ou34J",
               "image": "https://staging-assets.savyour.com/brand-categories/143/medium/2a3sCo1bzZP3nDmTGmXiTJ4MhtaczaXkMedzGB51.png",
-              "subcategories": [
-                
-              ]
+              "subcategories": []
             }
           ]
         },
         {
           "outlet": {
             "cashback": {
-              "categories": [
-                
-              ],
+              "categories": [],
               "redirect_url": "https://pk.hemaniherbals.com/?wpam_id=1&sav_aff_info=savyour-504f3768784b72365a6d53334559575341666c4e2f673d3d-1724830699-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
               "description": "Order Now on website and Kamao 10% Cashback inside Savyour Wallet",
               "current_cashback": 4,
@@ -568,9 +552,7 @@
             "id": 1,
             "name": "Health, Beauty & Gifts"
           },
-          "categories": [
-            
-          ]
+          "categories": []
         },
         {
           "outlet": {
@@ -640,16 +622,12 @@
             "id": 11,
             "name": "Global Categories"
           },
-          "categories": [
-            
-          ]
+          "categories": []
         },
         {
           "outlet": {
             "cashback": {
-              "categories": [
-                
-              ],
+              "categories": [],
               "redirect_url": "https://testing.savyour.com.pk/wordpress?sav_aff_info=savyour-504f3768784b72365a6d53334559575341666c4e2f673d3d-1724830699-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
               "description": "",
               "current_cashback": 24,
@@ -724,9 +702,7 @@
               "share_msg": "",
               "share_url": "https://phpstack-1286578-4664220.cloudwaysapps.com/ou34J",
               "image": "https://staging-assets.savyour.com/brand-categories/143/medium/2a3sCo1bzZP3nDmTGmXiTJ4MhtaczaXkMedzGB51.png",
-              "subcategories": [
-                
-              ]
+              "subcategories": []
             }
           ]
         }
@@ -754,79 +730,92 @@
           "id": 229,
           "name": "Women Fashion",
           "slug": "women-fashion-category",
-          "image": "https://vendor-staging.savyour.com/assets/vendor/images/NoImage.png"
+          "image": "https://vendor-staging.savyour.com/assets/vendor/images/NoImage.png",
+          "background_color": "#e5f2f2"
         },
         {
           "id": 155,
           "name": "Home Decor & Furniture",
           "slug": "home-decor-furniture-category",
-          "image": "https://staging-assets.savyour.com/brand-categories/155/medium/q3tXDwAN0OTZ3OI8Gk1xi8iWV0XscGwb3txetnEI.jpg"
+          "image": "https://staging-assets.savyour.com/brand-categories/155/medium/q3tXDwAN0OTZ3OI8Gk1xi8iWV0XscGwb3txetnEI.jpg",
+          "background_color": "#e5f2f2"
         },
         {
           "id": 150,
           "name": "Travel & Tourism",
           "slug": "travel-tourism-category",
-          "image": "https://staging-assets.savyour.com/brand-categories/150/medium/zF6Ds7e5lOBVcNjTn8eMziaDZFjbrtJHMplfm9dg.jpg"
+          "image": "https://staging-assets.savyour.com/brand-categories/150/medium/zF6Ds7e5lOBVcNjTn8eMziaDZFjbrtJHMplfm9dg.jpg",
+          "background_color": "#e5f2f2"
         },
         {
           "id": 145,
           "name": "Auto & Tyres",
           "slug": "auto-tyres-category",
-          "image": "https://staging-assets.savyour.com/brand-categories/145/medium/8BMxxDHhvjdudoHQde0COo8Nh8xuHkVmtIdHHZf2.jpg"
+          "image": "https://staging-assets.savyour.com/brand-categories/145/medium/8BMxxDHhvjdudoHQde0COo8Nh8xuHkVmtIdHHZf2.jpg",
+          "background_color": "#e5f2f2"
         },
         {
           "id": 151,
           "name": "Mobile Phones & Electronics",
           "slug": "mobile-phones-electronics-category",
-          "image": "https://staging-assets.savyour.com/brand-categories/151/medium/ONqsN1WzWIu0OzveuhlMtXqdLLVvtyUYj8rIMb5R.jpg"
+          "image": "https://staging-assets.savyour.com/brand-categories/151/medium/ONqsN1WzWIu0OzveuhlMtXqdLLVvtyUYj8rIMb5R.jpg",
+          "background_color": "#e5f2f2"
         },
         {
           "id": 152,
           "name": "Beauty & Personal Care",
           "slug": "beauty-personal-care-category",
-          "image": "https://staging-assets.savyour.com/brand-categories/152/medium/EpwFG8epbRBkQgpU6hdXxhTFTCcDWkkeuqdqs95M.jpg"
+          "image": "https://staging-assets.savyour.com/brand-categories/152/medium/EpwFG8epbRBkQgpU6hdXxhTFTCcDWkkeuqdqs95M.jpg",
+          "background_color": "#e5f2f2"
         },
         {
           "id": 153,
           "name": "Health & Fitness",
           "slug": "health-fitness-category",
-          "image": "https://staging-assets.savyour.com/brand-categories/153/medium/ZDt5zmxCkRN5I4xKuVAdkjdAcwis1fUmrfZEmCZa.jpg"
+          "image": "https://staging-assets.savyour.com/brand-categories/153/medium/ZDt5zmxCkRN5I4xKuVAdkjdAcwis1fUmrfZEmCZa.jpg",
+          "background_color": "#e5f2f2"
         },
         {
           "id": 146,
           "name": "Fashion",
           "slug": "fashion-category",
-          "image": "https://staging-assets.savyour.com/brand-categories/146/medium/YBADN6E4egjqVTBtZM4sNQbiaFUSNNa5IHL9pqhJ.jpg"
+          "image": "https://staging-assets.savyour.com/brand-categories/146/medium/YBADN6E4egjqVTBtZM4sNQbiaFUSNNa5IHL9pqhJ.jpg",
+          "background_color": "#e5f2f2"
         },
         {
           "id": 144,
           "name": "Stores & Grocery",
           "slug": "stores-grocery-category",
-          "image": "https://staging-assets.savyour.com/brand-categories/144/medium/5CBy3fx96PVyvbVqHzlaFvsxMlehU01wVJKKf3Ut.jpg"
+          "image": "https://staging-assets.savyour.com/brand-categories/144/medium/5CBy3fx96PVyvbVqHzlaFvsxMlehU01wVJKKf3Ut.jpg",
+          "background_color": "#e5f2f2"
         },
         {
           "id": 143,
           "name": "Restaurant & Eateriess",
           "slug": "restaurant-eateriess-category",
-          "image": "https://staging-assets.savyour.com/brand-categories/143/medium/2a3sCo1bzZP3nDmTGmXiTJ4MhtaczaXkMedzGB51.png"
+          "image": "https://staging-assets.savyour.com/brand-categories/143/medium/2a3sCo1bzZP3nDmTGmXiTJ4MhtaczaXkMedzGB51.png",
+          "background_color": "#e5f2f2"
         },
         {
           "id": 149,
           "name": "Baby Clothes & Gear",
           "slug": "baby-clothes-gear-category",
-          "image": "https://staging-assets.savyour.com/brand-categories/149/medium/1vhGADVvGbvFV1VyDNvQaFfvhHzwC1anYnECuNLt.jpg"
+          "image": "https://staging-assets.savyour.com/brand-categories/149/medium/1vhGADVvGbvFV1VyDNvQaFfvhHzwC1anYnECuNLt.jpg",
+          "background_color": "#e5f2f2"
         },
         {
           "id": 148,
           "name": "Toys & Games",
           "slug": "toys-games-category",
-          "image": "https://staging-assets.savyour.com/brand-categories/148/medium/2PGaZXm89LQGo9hmzeUgDIcqiDU59ubcAT7zwYxl.jpg"
+          "image": "https://staging-assets.savyour.com/brand-categories/148/medium/2PGaZXm89LQGo9hmzeUgDIcqiDU59ubcAT7zwYxl.jpg",
+          "background_color": "#e5f2f2"
         },
         {
           "id": 147,
           "name": "Books & Stationary",
           "slug": "books-stationary-category",
-          "image": "https://staging-assets.savyour.com/brand-categories/147/medium/gI5X34ZTGruOp4q57rjhpA51ODAd3TwWn2mRI8xI.jpg"
+          "image": "https://staging-assets.savyour.com/brand-categories/147/medium/gI5X34ZTGruOp4q57rjhpA51ODAd3TwWn2mRI8xI.jpg",
+          "background_color": "#e5f2f2"
         }
       ]
     },
@@ -848,8 +837,9 @@
       "end_date": "",
       "fetch_url": "",
       "see_all_type": "",
-      "items": [
-      ]
+      "items": {
+        "progress" : 0.0
+      }
     },
     {
       "id": 3035,
@@ -917,9 +907,7 @@
       "end_date": "",
       "fetch_url": "https://api-staging.savyour.com.pk/v6/users/reviews/pending?limit=8",
       "see_all_type": "",
-      "items": [
-        
-      ]
+      "items": []
     },
     {
       "id": 621,
@@ -939,9 +927,9 @@
       "end_date": "",
       "fetch_url": "",
       "see_all_type": "",
-      "items": [
-        
-      ]
+      "items": {
+        "progress" : 0.30
+      }
     },
     {
       "id": 625,
@@ -979,9 +967,7 @@
               "type": "pagination",
               "group": "",
               "sortable_status": 0,
-              "items": [
-                
-              ],
+              "items": [],
               "filters": [
                 {
                   "name": "Categories",
