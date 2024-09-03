@@ -24,7 +24,8 @@
                 "title": "DGM Campaign Screen Title",
                 "image": "https://savyour-staging.s3.ap-south-1.amazonaws.com/savyour-campaigns/591/64o60D73w4xBYfxGXs66v0d6atuziSj5Du55LtS2.png",
                 "end_date": "2024-09-23 23:59:59",
-                "end_date_text": "Expiring in"
+                "end_date_text": "Expiring in",
+                "background_color": "#f7986f"
             }
         },
         {
