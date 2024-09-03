@@ -5,7 +5,7 @@
     {
       "id": 3134,
       "slug": "value_header",
-      "title": "Value Header",
+      "title": "",
       "sub_title": "",
       "group": "value_header",
       "type": "value_header",
@@ -13,7 +13,7 @@
       "endpoint": "",
       "mixpanel_type": "",
       "valid_till": null,
-      "is_see_all_shown": true,
+      "is_see_all_shown": false,
       "is_personalized": false,
       "viewed_from": "",
       "personalized_endpoint": "",
