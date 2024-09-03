@@ -21,7 +21,9 @@
       "see_all_type": "",
       "items": {
         "id": -1,
-        "title": "Special Deals"
+        "title": "Special Deals",
+        "image": "https://savyour-staging.s3.ap-south-1.amazonaws.com/savyour-campaigns/591/64o60D73w4xBYfxGXs66v0d6atuziSj5Du55LtS2.png",
+        "end_date_text": "00 days 05 hours 34 mins"
       }
     },
     {
