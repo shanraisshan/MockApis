@@ -59,9 +59,9 @@
                     "previous_cashback": 0,
                     "previous_discount_type": "percentage",
                     "start_date": "2024-07-10 00:00:00",
-                    "end_date": "2024-10-23 23:59:59",
+                    "end_date": "2024-9-4 23:59:59",
                     "sort_order": 0,
-                    "end_date_text": "",
+                    "end_date_text": "Expiring Soon",
                     "category": {
                         "id": -1,
                         "name": "all"
@@ -354,7 +354,7 @@
                     "start_date": "2024-06-25 00:00:00",
                     "end_date": "2024-09-06 23:59:59",
                     "sort_order": 0,
-                    "end_date_text": "",
+                    "end_date_text": "Expiring Soon",
                     "category": {
                         "id": 145,
                         "name": "Auto & Tyres"
