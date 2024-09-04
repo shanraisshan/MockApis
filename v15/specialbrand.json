@@ -335,7 +335,7 @@
                     ],
                     "like": {
                         "is_liked": false,
-                        "msg": "Liked by 2 others",
+                        "msg": "Favorite by Umair & 1.2K others",
                         "like_count": 2
                     }
                 },
@@ -450,7 +450,7 @@
                     ],
                     "like": {
                         "is_liked": false,
-                        "msg": "Liked by 1 other",
+                        "msg": "Favorite by Umair & 1.2K others",
                         "like_count": 1
                     }
                 }
