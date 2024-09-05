@@ -1,6 +1,6 @@
 # Screen wise api details
 
-### Dashboad Screen
+### Dashboad Screen.
 https://shanraisshan.github.io/MockApis/v15/dashboardApi.json
 
 with community section
