@@ -1,0 +1,79 @@
+{
+  "success": true,
+  "message": "",
+  "data": [
+    {
+      "id": 79,
+      "slug": "pagination",
+      "title": "",
+      "fetch_url": "https://api-staging.savyour.com.pk/v6/brands/types/promotional?type=online",
+      "endpoint": "https://api-staging.savyour.com.pk/v6/brands/types/promotional?type=online",
+      "mixpanel_type": "",
+      "sub_type": "list",
+      "sub_title": "",
+      "is_see_all_shown": false,
+      "type": "pagination",
+      "group": "",
+      "sortable_status": 0,
+      "items": [
+        
+      ],
+      "filters": [
+        {
+          "name": "Categories",
+          "query_param_keys": [
+            "category_ids"
+          ],
+          "key": "category_ids",
+          "type": "category",
+          "sub_type": "pill",
+          "fetch_url": "https://api-staging.savyour.com.pk/v6/products/filters?filters[]=categories"
+        }
+      ],
+      "sort": [
+        {
+          "name": "Featured",
+          "key": "featured",
+          "is_selected": true
+        },
+        {
+          "name": "By name (A-Z)",
+          "key": "name",
+          "is_selected": false
+        },
+        {
+          "name": "By name (Z-A)",
+          "key": "name_desc",
+          "is_selected": false
+        },
+        {
+          "name": "By Cashback (high to low)",
+          "key": "highest_cashback",
+          "is_selected": false
+        },
+        {
+          "name": "By Cashback (low to high)",
+          "key": "highest_cashback_asc",
+          "is_selected": false
+        }
+      ]
+    },
+    {
+      "id": 3141,
+      "slug": "header",
+      "title": "Top 20 in Karachi !",
+      "fetch_url": "brands/types/promotional?type=online",
+      "endpoint": "https://api-staging.savyour.com.pk/v6/brands/types/promotional?type=online",
+      "mixpanel_type": "",
+      "sub_type": "grid",
+      "sub_title": "",
+      "is_see_all_shown": false,
+      "type": "header",
+      "group": "",
+      "sortable_status": 0,
+      "items": {
+        "title": "Top 20 in Karachi !"
+      }
+    }
+  ]
+}
