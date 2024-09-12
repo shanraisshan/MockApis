@@ -1,0 +1,674 @@
+{
+  "success": true,
+  "message": "",
+  "data": [
+    {
+      "id": 10,
+      "title": "Hot Deals",
+      "fetch_url": "",
+      "endpoint": "",
+      "mixpanel_type": "outletClicked",
+      "sub_type": "small",
+      "sub_title": "Don't miss top offers happening now",
+      "is_see_all_shown": false,
+      "type": "brand_campaign",
+      "group": "brand_campaign",
+      "sortable_status": 6,
+      "items": [
+        {
+          "id": 561,
+          "title": "Galaxy Cricket",
+          "slug": "lollipop-deal-s",
+          "sub_title": "Upto 60% Off",
+          "is_active": true,
+          "share_msg": "*Crazy Promotion through Savyour*\n-> Save more by savyour👻👻💯 on Galaxy Cricket\n-> *PLUS UPTO 2% Cashback*\n-> Offer Valid Till: September 11th 2024\n\nJaldi Karo, Savyour Karo",
+          "image": "https://savyour-staging.s3.ap-south-1.amazonaws.com/brand-campaigns/GnGdtGmdFDs1CJlREUN613QXb2YGnrL1LwH1C0Ri.jpg",
+          "current_cashback": 2,
+          "discount_type": "percentage",
+          "previous_cashback": 2,
+          "previous_discount_type": "percentage",
+          "start_date": "2024-09-04 00:00:00",
+          "end_date": "2024-09-11 23:59:59",
+          "sort_order": 1,
+          "end_date_text": "Expiring soon",
+          "category": {
+            "id": -1,
+            "name": "all"
+          },
+          "category_ids": [
+            -1
+          ],
+          "subcategory_ids": [
+            171
+          ],
+          "created_at": "2024-06-28 18:03:52",
+          "updated_at": "2024-09-04 12:25:49",
+          "brand": {
+            "outlet": {
+              "id": 12,
+              "name": "Online",
+              "terms_and_condition": "<h1>Heading1</h1>\r\n<h2>Heading2</h2>\r\n<p>Paragraph <strong>bold</strong> <strong>Strong</strong></p>\r\n<ul>\r\n<li>ul-&gt; li 1</li>\r\n<li>ul-&gt; li 2</li>\r\n<li>ul-&gt; li 3</li>\r\n</ul>\r\n<div>Div Tag\r\n<div>\r\n<p style=\"font-family: verdana;\">This is a paragraph.</p>\r\n<p style=\"font-family: 'Courier New';\">This is another paragraph.</p>\r\n</div>\r\n</div>",
+              "type": "online",
+              "share_url": "https://savyour.app/8xLdP",
+              "share_msg": "Order Now & save more with upto 2% on Galaxy Cricket. Shop through the link below",
+              "card_tag": "",
+              "cashback": {
+                "categories": [
+                  {
+                    "category": "Accessories",
+                    "discount_type": "percentage",
+                    "current_cashback": 2,
+                    "previous_cashback": 2,
+                    "previous_discount_type": "percentage"
+                  },
+                  {
+                    "category": "T-shirts",
+                    "discount_type": "percentage",
+                    "current_cashback": 2,
+                    "previous_cashback": 2,
+                    "previous_discount_type": "percentage"
+                  },
+                  {
+                    "category": "Jeans",
+                    "discount_type": "percentage",
+                    "current_cashback": 2,
+                    "previous_cashback": 2,
+                    "previous_discount_type": "percentage"
+                  },
+                  {
+                    "category": "Ahmed category",
+                    "discount_type": "percentage",
+                    "current_cashback": 2,
+                    "previous_cashback": 2,
+                    "previous_discount_type": "percentage"
+                  },
+                  {
+                    "category": "New zarda",
+                    "discount_type": "percentage",
+                    "current_cashback": 2,
+                    "previous_cashback": 2,
+                    "previous_discount_type": "percentage"
+                  },
+                  {
+                    "category": "Hoodie",
+                    "discount_type": "percentage",
+                    "current_cashback": 1.2,
+                    "previous_cashback": 1.2,
+                    "previous_discount_type": "percentage"
+                  }
+                ],
+                "redirect_url": "https://staging-stores.savyour.com.pk/pk/",
+                "terms_and_condition": "<h1>Heading1</h1>\r\n<h2>Heading2</h2>\r\n<p>Paragraph <strong>bold</strong> <strong>Strong</strong></p>\r\n<ul>\r\n<li>ul-&gt; li 1</li>\r\n<li>ul-&gt; li 2</li>\r\n<li>ul-&gt; li 3</li>\r\n</ul>\r\n<div>Div Tag\r\n<div>\r\n<p style=\"font-family: verdana;\">This is a paragraph.</p>\r\n<p style=\"font-family: 'Courier New';\">This is another paragraph.</p>\r\n</div>\r\n</div>",
+                "description": "",
+                "domain": "staging-stores.savyour",
+                "current_cashback": 2,
+                "discount_type": "percentage",
+                "previous_cashback": 2,
+                "previous_discount_type": "percentage",
+                "upto": true,
+                "valid_till": "",
+                "is_live": true,
+                "sort_order": 0,
+                "is_active": true,
+                "is_parent": 1,
+                "redirection_type": "out",
+                "live_date": "2023-05-02 00:00:00",
+                "max_user_commission": "Max : Rs. 10.00/- Per Order",
+                "cashback_days": "in a day",
+                "is_showing": true,
+                "special_brands_detail": {
+                  "end_date_text": "Extra Cashback Expires in",
+                  "end_date": "2024-09-06 20:00:00",
+                  "title": "September 1974",
+                  "id": 592
+                },
+                "affiliate": {
+                  "id": 1,
+                  "name": "Savyour",
+                  "slug": "savyour"
+                },
+                "order_placed": "Today",
+                "notified_in": "15 Mins",
+                "animation_info": {
+                  "title": "Galaxy Cricket",
+                  "sub_title": "Activated",
+                  "description": "Cashback is available in the following categories only",
+                  "fulfilled_by_text": ""
+                }
+              },
+              "cities": [
+                {
+                  "id": 1,
+                  "name": "Karachi",
+                  "short_name": "KHI"
+                },
+                {
+                  "id": 2,
+                  "name": "Lahore",
+                  "short_name": "LHR"
+                },
+                {
+                  "id": 3,
+                  "name": "Islamabad",
+                  "short_name": "ISL"
+                },
+                {
+                  "id": 4,
+                  "name": "Quetta",
+                  "short_name": "UET"
+                },
+                {
+                  "id": 5,
+                  "name": "Peshawar",
+                  "short_name": "PEW"
+                },
+                {
+                  "id": 6,
+                  "name": "Multan",
+                  "short_name": "MUX"
+                },
+                {
+                  "id": 9,
+                  "name": "bhawalpur",
+                  "short_name": "BHAL"
+                },
+                {
+                  "id": 10,
+                  "name": "Jacobabad",
+                  "short_name": "JC"
+                },
+                {
+                  "id": 12,
+                  "name": "Sukkur",
+                  "short_name": "SUKKUR"
+                },
+                {
+                  "id": 13,
+                  "name": "Hyderabad",
+                  "short_name": "HYDERABAD"
+                },
+                {
+                  "id": 14,
+                  "name": "keenya",
+                  "short_name": "KEENYA"
+                },
+                {
+                  "id": 15,
+                  "name": "Imran City town",
+                  "short_name": "IMMU"
+                },
+                {
+                  "id": 19,
+                  "name": "shahanf",
+                  "short_name": "SHA"
+                },
+                {
+                  "id": 20,
+                  "name": "KKC",
+                  "short_name": "KKC"
+                },
+                {
+                  "id": 21,
+                  "name": "BNB",
+                  "short_name": "BNB"
+                },
+                {
+                  "id": 22,
+                  "name": "Dera Bugti",
+                  "short_name": "DBT"
+                },
+                {
+                  "id": 23,
+                  "name": "Jatoi Shimali",
+                  "short_name": "JSL"
+                },
+                {
+                  "id": 24,
+                  "name": "Swabi",
+                  "short_name": "SWB"
+                },
+                {
+                  "id": 25,
+                  "name": "Rawala Kot",
+                  "short_name": "RKT"
+                },
+                {
+                  "id": 27,
+                  "name": "Pano Aqil",
+                  "short_name": "PNQ"
+                },
+                {
+                  "id": 28,
+                  "name": "Taxila",
+                  "short_name": "TXL"
+                },
+                {
+                  "id": 29,
+                  "name": "Phalia",
+                  "short_name": "PLA"
+                },
+                {
+                  "id": 30,
+                  "name": "Mir Pur",
+                  "short_name": "MRPR"
+                },
+                {
+                  "id": 31,
+                  "name": "Nawabshah",
+                  "short_name": "CENTRAL"
+                },
+                {
+                  "id": 35,
+                  "name": "Fake city",
+                  "short_name": "FC"
+                },
+                {
+                  "id": 37,
+                  "name": "Testing City",
+                  "short_name": "TESTING"
+                },
+                {
+                  "id": 39,
+                  "name": "Ontario",
+                  "short_name": "ONTARIO"
+                },
+                {
+                  "id": 41,
+                  "name": "Dubai",
+                  "short_name": "DXB"
+                }
+              ],
+              "rating": 4.3,
+              "rating_count": 118,
+              "review_count": 81,
+              "is_bookmarked": false
+            },
+            "_id": "65b130e827d6bba69e06d076",
+            "id": 6,
+            "slug": "galaxy-cricket",
+            "order_count": 1160,
+            "highest_current_cashback": 2,
+            "name": "Galaxy Cricket",
+            "identity_logo": "https://staging-assets.savyour.com/brands/6/RWOXPgjsmEIoLCMIpOyDrXWPYT0gHT5zjSC2ZDtA.png",
+            "logo": "https://staging-assets.savyour.com/brands/6/oOvXCyCoVplyIyHR9ECpw80VmLxG3fTW1i6E03um.png",
+            "kv_image": "https://staging-assets.savyour.com/brands/6/3vzlbN2NMdJxJ4HAE757La51KU4v4YBRwYYwUuxA.png",
+            "meta_title": "Unlock Savings on Galaxy Cricket pk offering Cashback Upto 2%. Act Fast, Save more!",
+            "meta_description": "Explore the diverse offerings from Galaxy Cricket pk. Place your orders now and earn enticing cashback Upto 2%",
+            "identifier": "testing.savyour.com.pk",
+            "type": "primary",
+            "share_url": "https://savyour.app/6yaPl",
+            "tier": "Tier 3",
+            "order_placed_fifteen_days": 15,
+            "cashback_highest": "online"
+          },
+          "share_url": "",
+          "description": "Save more by savyour👻👻💯",
+          "terms_and_condition": "",
+          "images": [
+            "https://staging-assets.savyour.com/brand-campaigns/large/Ej1VUQqKQ42wXvxlAamRmuIRPlWqGtbtGJLIwaRI.jpg",
+            "https://staging-assets.savyour.com/brand-campaigns/large/f7jyUkxKNsx2OsBpxGVnrE4j4Lzjm8xJALALD2iy.jpg",
+            "https://staging-assets.savyour.com/brand-campaigns/large/GnGdtGmdFDs1CJlREUN613QXb2YGnrL1LwH1C0Ri.jpg"
+          ],
+          "like": {
+            "is_liked": false,
+            "msg": "Liked by 1 other",
+            "like_count": 1
+          }
+        },
+        {
+          "id": 556,
+          "title": "Galaxy Cricket",
+          "slug": "this-is-test",
+          "sub_title": "Grab now huge cashvback👻👻💯",
+          "is_active": true,
+          "share_msg": "*Crazy Promotion through Savyour*\n-> Heal your self or you will dead 👻👻💯 on Galaxy Cricket\n-> *PLUS UPTO 2% Cashback*\n-> Offer Valid Till: October 23rd 2024\n\nJaldi Karo, Savyour Karo",
+          "image": "https://savyour-staging.s3.ap-south-1.amazonaws.com/brand-campaigns/Uu9Hq9yBhBm58H2AFyLfu9GzBuMAg27vcNETXyTR.jpg",
+          "current_cashback": 2,
+          "discount_type": "percentage",
+          "previous_cashback": 2,
+          "previous_discount_type": "percentage",
+          "start_date": "2024-07-10 00:00:00",
+          "end_date": "2024-10-23 23:59:59",
+          "sort_order": 0,
+          "end_date_text": "",
+          "category": {
+            "id": -1,
+            "name": "all"
+          },
+          "category_ids": [
+            -1
+          ],
+          "subcategory_ids": [
+            869
+          ],
+          "created_at": "2024-05-24 13:12:25",
+          "updated_at": "2024-07-04 13:46:43",
+          "brand": {
+            "outlet": {
+              "id": 12,
+              "name": "Online",
+              "terms_and_condition": "<h1>Heading1</h1>\r\n<h2>Heading2</h2>\r\n<p>Paragraph <strong>bold</strong> <strong>Strong</strong></p>\r\n<ul>\r\n<li>ul-&gt; li 1</li>\r\n<li>ul-&gt; li 2</li>\r\n<li>ul-&gt; li 3</li>\r\n</ul>\r\n<div>Div Tag\r\n<div>\r\n<p style=\"font-family: verdana;\">This is a paragraph.</p>\r\n<p style=\"font-family: 'Courier New';\">This is another paragraph.</p>\r\n</div>\r\n</div>",
+              "type": "online",
+              "share_url": "https://savyour.app/8xLdP",
+              "share_msg": "Order Now & save more with upto 2% on Galaxy Cricket. Shop through the link below",
+              "card_tag": "",
+              "cashback": {
+                "categories": [
+                  {
+                    "category": "Accessories",
+                    "discount_type": "percentage",
+                    "current_cashback": 2,
+                    "previous_cashback": 2,
+                    "previous_discount_type": "percentage"
+                  },
+                  {
+                    "category": "T-shirts",
+                    "discount_type": "percentage",
+                    "current_cashback": 2,
+                    "previous_cashback": 2,
+                    "previous_discount_type": "percentage"
+                  },
+                  {
+                    "category": "Jeans",
+                    "discount_type": "percentage",
+                    "current_cashback": 2,
+                    "previous_cashback": 2,
+                    "previous_discount_type": "percentage"
+                  },
+                  {
+                    "category": "Ahmed category",
+                    "discount_type": "percentage",
+                    "current_cashback": 2,
+                    "previous_cashback": 2,
+                    "previous_discount_type": "percentage"
+                  },
+                  {
+                    "category": "New zarda",
+                    "discount_type": "percentage",
+                    "current_cashback": 2,
+                    "previous_cashback": 2,
+                    "previous_discount_type": "percentage"
+                  },
+                  {
+                    "category": "Hoodie",
+                    "discount_type": "percentage",
+                    "current_cashback": 1.2,
+                    "previous_cashback": 1.2,
+                    "previous_discount_type": "percentage"
+                  }
+                ],
+                "redirect_url": "https://staging-stores.savyour.com.pk/pk/",
+                "terms_and_condition": "<h1>Heading1</h1>\r\n<h2>Heading2</h2>\r\n<p>Paragraph <strong>bold</strong> <strong>Strong</strong></p>\r\n<ul>\r\n<li>ul-&gt; li 1</li>\r\n<li>ul-&gt; li 2</li>\r\n<li>ul-&gt; li 3</li>\r\n</ul>\r\n<div>Div Tag\r\n<div>\r\n<p style=\"font-family: verdana;\">This is a paragraph.</p>\r\n<p style=\"font-family: 'Courier New';\">This is another paragraph.</p>\r\n</div>\r\n</div>",
+                "description": "",
+                "domain": "staging-stores.savyour",
+                "current_cashback": 2,
+                "discount_type": "percentage",
+                "previous_cashback": 2,
+                "previous_discount_type": "percentage",
+                "upto": true,
+                "valid_till": "",
+                "is_live": true,
+                "sort_order": 0,
+                "is_active": true,
+                "is_parent": 1,
+                "redirection_type": "out",
+                "live_date": "2023-05-02 00:00:00",
+                "max_user_commission": "Max : Rs. 10.00/- Per Order",
+                "cashback_days": "in a day",
+                "is_showing": true,
+                "special_brands_detail": {
+                  "end_date_text": "Extra Cashback Expires in",
+                  "end_date": "2024-09-06 20:00:00",
+                  "title": "September 1974",
+                  "id": 592
+                },
+                "affiliate": {
+                  "id": 1,
+                  "name": "Savyour",
+                  "slug": "savyour"
+                },
+                "order_placed": "Today",
+                "notified_in": "15 Mins",
+                "animation_info": {
+                  "title": "Galaxy Cricket",
+                  "sub_title": "Activated",
+                  "description": "Cashback is available in the following categories only",
+                  "fulfilled_by_text": ""
+                }
+              },
+              "cities": [
+                {
+                  "id": 1,
+                  "name": "Karachi",
+                  "short_name": "KHI"
+                },
+                {
+                  "id": 2,
+                  "name": "Lahore",
+                  "short_name": "LHR"
+                },
+                {
+                  "id": 3,
+                  "name": "Islamabad",
+                  "short_name": "ISL"
+                },
+                {
+                  "id": 4,
+                  "name": "Quetta",
+                  "short_name": "UET"
+                },
+                {
+                  "id": 5,
+                  "name": "Peshawar",
+                  "short_name": "PEW"
+                },
+                {
+                  "id": 6,
+                  "name": "Multan",
+                  "short_name": "MUX"
+                },
+                {
+                  "id": 9,
+                  "name": "bhawalpur",
+                  "short_name": "BHAL"
+                },
+                {
+                  "id": 10,
+                  "name": "Jacobabad",
+                  "short_name": "JC"
+                },
+                {
+                  "id": 12,
+                  "name": "Sukkur",
+                  "short_name": "SUKKUR"
+                },
+                {
+                  "id": 13,
+                  "name": "Hyderabad",
+                  "short_name": "HYDERABAD"
+                },
+                {
+                  "id": 14,
+                  "name": "keenya",
+                  "short_name": "KEENYA"
+                },
+                {
+                  "id": 15,
+                  "name": "Imran City town",
+                  "short_name": "IMMU"
+                },
+                {
+                  "id": 19,
+                  "name": "shahanf",
+                  "short_name": "SHA"
+                },
+                {
+                  "id": 20,
+                  "name": "KKC",
+                  "short_name": "KKC"
+                },
+                {
+                  "id": 21,
+                  "name": "BNB",
+                  "short_name": "BNB"
+                },
+                {
+                  "id": 22,
+                  "name": "Dera Bugti",
+                  "short_name": "DBT"
+                },
+                {
+                  "id": 23,
+                  "name": "Jatoi Shimali",
+                  "short_name": "JSL"
+                },
+                {
+                  "id": 24,
+                  "name": "Swabi",
+                  "short_name": "SWB"
+                },
+                {
+                  "id": 25,
+                  "name": "Rawala Kot",
+                  "short_name": "RKT"
+                },
+                {
+                  "id": 27,
+                  "name": "Pano Aqil",
+                  "short_name": "PNQ"
+                },
+                {
+                  "id": 28,
+                  "name": "Taxila",
+                  "short_name": "TXL"
+                },
+                {
+                  "id": 29,
+                  "name": "Phalia",
+                  "short_name": "PLA"
+                },
+                {
+                  "id": 30,
+                  "name": "Mir Pur",
+                  "short_name": "MRPR"
+                },
+                {
+                  "id": 31,
+                  "name": "Nawabshah",
+                  "short_name": "CENTRAL"
+                },
+                {
+                  "id": 35,
+                  "name": "Fake city",
+                  "short_name": "FC"
+                },
+                {
+                  "id": 37,
+                  "name": "Testing City",
+                  "short_name": "TESTING"
+                },
+                {
+                  "id": 39,
+                  "name": "Ontario",
+                  "short_name": "ONTARIO"
+                },
+                {
+                  "id": 41,
+                  "name": "Dubai",
+                  "short_name": "DXB"
+                }
+              ],
+              "rating": 4.3,
+              "rating_count": 118,
+              "review_count": 81,
+              "is_bookmarked": false
+            },
+            "_id": "65b130e827d6bba69e06d076",
+            "id": 6,
+            "slug": "galaxy-cricket",
+            "order_count": 1160,
+            "highest_current_cashback": 2,
+            "name": "Galaxy Cricket",
+            "identity_logo": "https://staging-assets.savyour.com/brands/6/RWOXPgjsmEIoLCMIpOyDrXWPYT0gHT5zjSC2ZDtA.png",
+            "logo": "https://staging-assets.savyour.com/brands/6/oOvXCyCoVplyIyHR9ECpw80VmLxG3fTW1i6E03um.png",
+            "kv_image": "https://staging-assets.savyour.com/brands/6/3vzlbN2NMdJxJ4HAE757La51KU4v4YBRwYYwUuxA.png",
+            "meta_title": "Unlock Savings on Galaxy Cricket pk offering Cashback Upto 2%. Act Fast, Save more!",
+            "meta_description": "Explore the diverse offerings from Galaxy Cricket pk. Place your orders now and earn enticing cashback Upto 2%",
+            "identifier": "testing.savyour.com.pk",
+            "type": "primary",
+            "share_url": "https://savyour.app/6yaPl",
+            "tier": "Tier 3",
+            "order_placed_fifteen_days": 15,
+            "cashback_highest": "online"
+          },
+          "share_url": "",
+          "description": "Heal your self or you will dead 👻👻💯",
+          "terms_and_condition": "",
+          "images": [
+            "https://staging-assets.savyour.com/brand-campaigns/large/Uu9Hq9yBhBm58H2AFyLfu9GzBuMAg27vcNETXyTR.jpg"
+          ],
+          "like": {
+            "is_liked": false,
+            "msg": "Liked by 2 others",
+            "like_count": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Other Deals",
+      "fetch_url": "https://api-staging.savyour.com.pk/v6/campaigns/see-all",
+      "endpoint": "",
+      "mixpanel_type": "pagination",
+      "sub_type": "small",
+      "sub_title": "Don't miss top offers happening now",
+      "is_see_all_shown": false,
+      "type": "pagination",
+      "group": "pagination",
+      "sortable_status": 7,
+      "filters": [
+        {
+          "name": "Categories",
+          "query_param_keys": [
+            "category_ids"
+          ],
+          "key": "category_ids",
+          "type": "category",
+          "sub_type": "pill",
+          "fetch_url": "https://api-staging.savyour.com.pk/v6/products/filters?filters[]=categories&category_ids[]=143&category_ids[]=144&category_ids[]=-1&"
+        },
+        {
+          "name": "Brands",
+          "query_param_keys": [
+            "brand_ids"
+          ],
+          "key": "brand_ids",
+          "type": "brand",
+          "sub_type": "pill",
+          "fetch_url": "https://api-staging.savyour.com.pk/v6/products/filters?filters[]=brands&brand_ids[]=6&brand_ids[]=6&"
+        }
+      ],
+      "sort": [
+        {
+          "name": "Expiring Soon",
+          "key": "expiring_soon",
+          "is_selected": true
+        },
+        {
+          "name": "Most Popular",
+          "key": "most_popular",
+          "is_selected": false
+        },
+        {
+          "name": "Last Added",
+          "key": "latest",
+          "is_selected": false
+        }
+      ],
+      "items": [
+        
+      ]
+    }
+  ]
+}
