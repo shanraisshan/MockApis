@@ -838,7 +838,7 @@
       "fetch_url": "",
       "see_all_type": "",
       "items": {
-        "progress" : 0.0
+        "progress": 0.0
       }
     },
     {
@@ -890,22 +890,16 @@
       ]
     },
     {
-      "id": 622,
-      "slug": "3gv8tlks",
-      "title": "Share yor expierence",
+      "id": 23,
+      "slug": "recent-purchases",
+      "title": "Recent Purchases",
       "sub_title": "Earn points by writing reviews!",
-      "group": "rating",
       "type": "rating",
       "sub_type": "small",
-      "endpoint": "https://api-staging.savyour.com.pk/v6/users/reviews/pending",
-      "mixpanel_type": "ratingClicked",
-      "valid_till": null,
-      "is_see_all_shown": true,
-      "is_personalized": false,
-      "viewed_from": "",
-      "personalized_endpoint": "",
+      "endpoint": "https://api-staging.savyour.com/api/v1/users/reviews/pending",
       "end_date": "",
-      "fetch_url": "https://api-staging.savyour.com.pk/v6/users/reviews/pending?limit=8",
+      "is_see_all_shown": false,
+      "fetch_url": "https://api-staging.savyour.com/api/v1/users/reviews/pending?limit=8",
       "see_all_type": "",
       "items": []
     },
@@ -928,7 +922,7 @@
       "fetch_url": "",
       "see_all_type": "",
       "items": {
-        "progress" : 0.30
+        "progress": 0.30
       }
     },
     {
