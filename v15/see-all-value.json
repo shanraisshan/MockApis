@@ -10,6 +10,7 @@
       "fetch_url": "",
       "endpoint": "",
       "mixpanel_type": "",
+      "type": "header",
       "sub_type": "",
       "sub_title": "",
       "is_see_all_shown": false,
