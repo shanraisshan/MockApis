@@ -1,0 +1,171 @@
+{
+  "success": true,
+  "message": "",
+  "code": 200,
+  "data": [
+    {
+      "id": 553,
+      "slug": "header",
+      "title": "Value See All Title",
+      "fetch_url": "",
+      "endpoint": "",
+      "mixpanel_type": "",
+      "sub_type": "",
+      "sub_title": "",
+      "is_see_all_shown": false,
+      "type": "header",
+      "group": "",
+      "sortable_status": 0,
+      "items": {
+        "title": "Value See All Title"
+      }
+    },
+    {
+      "id": 19,
+      "slug": "values",
+      "title": "",
+      "sub_title": "",
+      "group": "value",
+      "type": "value",
+      "sub_type": "grid",
+      "endpoint": "https://api-staging.savyour.com/api/v1/values",
+      "mixpanel_type": "categoryClicked",
+      "end_date": "",
+      "is_see_all_shown": true,
+      "is_personalized": false,
+      "viewed_from": "",
+      "personalized_endpoint": "",
+      "fetch_url": "",
+      "see_all_type": "",
+      "items": [
+        {
+          "name": "Material Source",
+          "description": "This is a sample description.",
+          "sort_order": 1,
+          "updated_at": "2024-09-03T11:56:35",
+          "id": 1,
+          "slug": "material-source",
+          "image": "https://peoplemanagingpeople.com/wp-content/uploads/sites/3/2022/10/7-Company-Values-Examples-Featured-Image.png",
+          "is_active": true,
+          "created_at": "2024-09-03T11:56:35"
+        },
+        {
+          "name": "Energy efficient",
+          "description": "This is a sample description.",
+          "sort_order": 2,
+          "updated_at": "2024-09-03T11:56:35",
+          "id": 2,
+          "slug": "energy-efficient",
+          "image": "https://peoplemanagingpeople.com/wp-content/uploads/sites/3/2022/10/7-Company-Values-Examples-Featured-Image.png",
+          "is_active": true,
+          "created_at": "2024-09-03T11:56:35"
+        },
+        {
+          "name": "Recyclable",
+          "description": "This is a sample description.",
+          "sort_order": 3,
+          "updated_at": "2024-09-03T11:56:35",
+          "id": 3,
+          "slug": "recyclable",
+          "image": "https://peoplemanagingpeople.com/wp-content/uploads/sites/3/2022/10/7-Company-Values-Examples-Featured-Image.png",
+          "is_active": true,
+          "created_at": "2024-09-03T11:56:35"
+        },
+        {
+          "name": "Reusability",
+          "description": "This is a sample description.",
+          "sort_order": 4,
+          "updated_at": "2024-09-03T11:56:35",
+          "id": 4,
+          "slug": "reusablity",
+          "image": "https://peoplemanagingpeople.com/wp-content/uploads/sites/3/2022/10/7-Company-Values-Examples-Featured-Image.png",
+          "is_active": true,
+          "created_at": "2024-09-03T11:56:35"
+        },
+        {
+          "name": "Biodegradable",
+          "description": "This is a sample description.",
+          "sort_order": 5,
+          "updated_at": "2024-09-03T11:56:35",
+          "id": 5,
+          "slug": "biodegradable",
+          "image": "https://peoplemanagingpeople.com/wp-content/uploads/sites/3/2022/10/7-Company-Values-Examples-Featured-Image.png",
+          "is_active": true,
+          "created_at": "2024-09-03T11:56:35"
+        },
+        {
+          "name": "Water Efficient",
+          "description": "This is a sample description.",
+          "sort_order": 6,
+          "updated_at": "2024-09-03T11:56:35",
+          "id": 6,
+          "slug": "water-efficient",
+          "image": "https://peoplemanagingpeople.com/wp-content/uploads/sites/3/2022/10/7-Company-Values-Examples-Featured-Image.png",
+          "is_active": true,
+          "created_at": "2024-09-03T11:56:35"
+        },
+        {
+          "name": "Reduced Material Use",
+          "description": "This is a sample description.",
+          "sort_order": 7,
+          "updated_at": "2024-09-03T11:56:35",
+          "id": 7,
+          "slug": "reduced-material-use",
+          "image": "https://peoplemanagingpeople.com/wp-content/uploads/sites/3/2022/10/7-Company-Values-Examples-Featured-Image.png",
+          "is_active": true,
+          "created_at": "2024-09-03T11:56:35"
+        },
+        {
+          "name": "Compostable",
+          "description": "This is a sample description.",
+          "sort_order": 8,
+          "updated_at": "2024-09-03T11:56:35",
+          "id": 8,
+          "slug": "compostable",
+          "image": "https://peoplemanagingpeople.com/wp-content/uploads/sites/3/2022/10/7-Company-Values-Examples-Featured-Image.png",
+          "is_active": true,
+          "created_at": "2024-09-03T11:56:35"
+        },
+        {
+          "name": "Vegan",
+          "description": "This is a sample description.",
+          "sort_order": 9,
+          "updated_at": "2024-09-03T11:56:35",
+          "id": 9,
+          "slug": "vegan",
+          "image": "https://peoplemanagingpeople.com/wp-content/uploads/sites/3/2022/10/7-Company-Values-Examples-Featured-Image.png",
+          "is_active": true,
+          "created_at": "2024-09-03T11:56:35"
+        },
+        {
+          "name": "Pollution",
+          "description": "This is a sample description.",
+          "sort_order": 10,
+          "updated_at": "2024-09-03T11:56:35",
+          "id": 10,
+          "slug": "pollution",
+          "image": "https://staging-assets.savyour.com/assets/XDQGBc78BmLxggLMJkoIYym5y3VyylXIyZA7mFbR.png",
+          "is_active": true,
+          "created_at": "2024-09-03T11:56:35"
+        },
+        {
+          "name": "Organic",
+          "description": "This is a sample description.",
+          "sort_order": 11,
+          "updated_at": "2024-09-03T11:56:35",
+          "id": 11,
+          "slug": "organic",
+          "image": "https://peoplemanagingpeople.com/wp-content/uploads/sites/3/2022/10/7-Company-Values-Examples-Featured-Image.png",
+          "is_active": true,
+          "created_at": "2024-09-03T11:56:35"
+        }
+      ]
+    }
+  ],
+  "errors": {
+    
+  },
+  "meta_data": {
+    
+  }
+}
