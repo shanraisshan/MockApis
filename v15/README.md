@@ -12,6 +12,9 @@ https://shanraisshan.github.io/MockApis/v15/valuedetail.json
 ### See All Special Brands Screen
 https://shanraisshan.github.io/MockApis/v15/specialbrand.json
 
+# APIS IMPLEMENTED
+apis that are implemented
+
 ### Onboarding APIS:
 1. Validate Number https://api-staging.savyour.com/api/v1/otp/validate-number :white_check_mark:
 2. OTP Request https://staging-apigateway.savyour.com.pk/v4/otp/send :white_check_mark:
