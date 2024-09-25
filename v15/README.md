@@ -12,7 +12,7 @@ https://shanraisshan.github.io/MockApis/v15/valuedetail.json
 ### See All Special Brands Screen
 https://shanraisshan.github.io/MockApis/v15/specialbrand.json
 
-# APIS IMPLEMENTED
+# :white_check_mark: APIS IMPLEMENTED :white_check_mark:
 apis that are implemented
 
 ### Onboarding APIS:
@@ -33,3 +33,19 @@ apis that are implemented
 1. Popular Suggestion https://api-staging.savyour.com/api/v1/search/suggestion :white_check_mark:
 2. Auto Suggest https://api-staging.savyour.com/api/v1/search/auto-suggest?keyword=a :white_check_mark:
 3. Search https://api-staging.savyour.com/api/v1/search?screenName=search&redirectedSection=header&redirectedFrom=home&redirectedSectionId=-1&keyword=Apple :white_check_mark:
+
+### Profile APIS:
+
+### See All APIS:
+
+### Brand Detail APIS:
+
+### Product Detail APIS:
+
+### Wallet APIS:
+
+### Impact APIS:
+
+### Category and Sub-Category APIS:
+
+### Popups APIS:
