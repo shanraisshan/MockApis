@@ -39,7 +39,7 @@ apis that are implemented
 ### See All APIS:
 Name|Route|Old Response|New Response
 -|-|-|-
-See All Product|https://api-staging.savyour.com.pk/v6/list/products/best_seller|-|-
+See All Product|https://api-staging.savyour.com.pk/v6/list/products/best_seller|[Old](/v6/see-all-products.json)|[New](/v15/see-all-products.json)
 
 ### Brand Detail APIS:
 
