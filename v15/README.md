@@ -37,8 +37,10 @@ apis that are implemented
 ### Profile APIS:
 
 ### See All APIS:
-1. See All Product https://api-staging.savyour.com.pk/v6/list/products/best_seller
-   response = 
+Name|Route|Old Response|New Response
+-|-|-|-
+See All Product|https://api-staging.savyour.com.pk/v6/list/products/best_seller|-|-
+
 ### Brand Detail APIS:
 
 ### Product Detail APIS:
