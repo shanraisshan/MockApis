@@ -15,32 +15,29 @@ https://shanraisshan.github.io/MockApis/v15/specialbrand.json
 # :white_check_mark: APIS IMPLEMENTED :white_check_mark:
 apis that are implemented
 
-### Onboarding APIS:
-1. Validate Number https://api-staging.savyour.com/api/v1/otp/validate-number :white_check_mark:
-2. OTP Request https://staging-apigateway.savyour.com.pk/v4/otp/send :white_check_mark:
-3. OTP Verification https://api-staging.savyour.com/api/v1/otp/verify :white_check_mark:
-4. Users https://api-staging.savyour.com/api/v1/users :white_check_mark:
-5. User Register https://api-staging.savyour.com/api/v1/users/register :white_check_mark:
-6. Email Settings https://api-staging.savyour.com/api/v1/users/email-settings :white_check_mark:
-7. Email Token https://api-staging.savyour.com/api/v1/users/send-token :white_check_mark:
-8. GET Value https://api-staging.savyour.com/api/v1/values :white_check_mark:
-9. POST Value https://api-staging.savyour.com/api/v1/users/values :white_check_mark:
-
-### Home:
-1. Home https://api-staging.savyour.com/api/v1/home :white_check_mark:
-
-### Search:
-1. Popular Suggestion https://api-staging.savyour.com/api/v1/search/suggestion :white_check_mark:
-2. Auto Suggest https://api-staging.savyour.com/api/v1/search/auto-suggest?keyword=a :white_check_mark:
-3. Search https://api-staging.savyour.com/api/v1/search?screenName=search&redirectedSection=header&redirectedFrom=home&redirectedSectionId=-1&keyword=Apple :white_check_mark:
-
-### Profile:
-
 Name|Route|Old Response|New Response
 -|-|-|-
+🔗|🔗 **`ONBOARDING`** 🔗|🔗|🔗
+Validate Number|https://api-staging.savyour.com/api/v1/otp/validate-number :white_check_mark:|-|-
+OTP Request|https://staging-apigateway.savyour.com.pk/v4/otp/send :white_check_mark:|-|-
+OTP Verification|https://api-staging.savyour.com/api/v1/otp/verify :white_check_mark:|-|-
+Users|https://api-staging.savyour.com/api/v1/users :white_check_mark:|-|-
+User Register|https://api-staging.savyour.com/api/v1/users/register :white_check_mark:|-|-
+Email Settings|https://api-staging.savyour.com/api/v1/users/email-settings :white_check_mark:|-|-
+Email Token|https://api-staging.savyour.com/api/v1/users/send-token :white_check_mark:|-|-
+GET Value|https://api-staging.savyour.com/api/v1/values :white_check_mark:|-|-
+POST Value|https://api-staging.savyour.com/api/v1/users/values :white_check_mark:|-|-
+🔗|🔗 **`HOME`** 🔗|🔗|🔗
+Home|https://api-staging.savyour.com/api/v1/home :white_check_mark:|-|-
+🔗|🔗 **`SEARCH`** 🔗|🔗|🔗
+Popular Suggestion|https://api-staging.savyour.com/api/v1/search/suggestion :white_check_mark:|-|-
+Auto Suggest|https://api-staging.savyour.com/api/v1/search/auto-suggest?keyword=a :white_check_mark:|-|-
+Search|https://api-staging.savyour.com/api/v1/search?keyword=Apple :white_check_mark:|-|-
 🔗|🔗 **`CATEGORY`** 🔗|🔗|🔗
 -|-|-|-
 🔗|🔗 **`SUB-CATEGORY`** 🔗|🔗|🔗
+-|-|-|-
+🔗|🔗 **`PROFILE`** 🔗|🔗|🔗
 -|-|-|-
 🔗|🔗 **`POPUPS`** 🔗|🔗|🔗
 -|-|-|-
