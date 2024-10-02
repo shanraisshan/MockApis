@@ -26,32 +26,32 @@ apis that are implemented
 8. GET Value https://api-staging.savyour.com/api/v1/values :white_check_mark:
 9. POST Value https://api-staging.savyour.com/api/v1/users/values :white_check_mark:
 
-### Home APIS:
+### Home:
 1. Home https://api-staging.savyour.com/api/v1/home :white_check_mark:
 
-### Search APIS:
+### Search:
 1. Popular Suggestion https://api-staging.savyour.com/api/v1/search/suggestion :white_check_mark:
 2. Auto Suggest https://api-staging.savyour.com/api/v1/search/auto-suggest?keyword=a :white_check_mark:
 3. Search https://api-staging.savyour.com/api/v1/search?screenName=search&redirectedSection=header&redirectedFrom=home&redirectedSectionId=-1&keyword=Apple :white_check_mark:
 
-### Profile APIS:
+### Profile:
 
-### See All APIS:
 Name|Route|Old Response|New Response
 -|-|-|-
+🔗|🔗 **`CATEGORY`** 🔗|🔗|🔗
+-|-|-|-
+🔗|🔗 **`SUB-CATEGORY`** 🔗|🔗|🔗
+-|-|-|-
+🔗|🔗 **`POPUPS`** 🔗|🔗|🔗
+-|-|-|-
+🔗|🔗 **`SEE ALL`** 🔗|🔗|🔗
 See All Product|https://api-staging.savyour.com.pk/v6/list/products/best_seller|[Old](/v6/see-all-products.json)|[New](/v15/see-all-products.json)
-
-### Brand Detail APIS:
-
-### Product Detail APIS:
-Name|Route|Old Response|New Response
+See All Brands|-|-|-
+🔗|🔗 **`BRAND DETAIL`** 🔗|🔗|🔗
 -|-|-|-
+🔗|🔗 **`PRODUCT DETAIL`** 🔗|🔗|🔗
 Product Detail|https://api-staging.savyour.com.pk/v6/products/vodacom-7000-tzs-mobile-top-up-tz|-|-
-
-### Wallet APIS:
-
-### Impact APIS:
-
-### Category and Sub-Category APIS:
-
-### Popups APIS:
+🔗|🔗 **`WALLET`** 🔗|🔗|🔗
+-|-|-|-
+🔗|🔗 **`IMPACT`** 🔗|🔗|🔗
+-|-|-|-
