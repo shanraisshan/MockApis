@@ -44,6 +44,9 @@ See All Product|https://api-staging.savyour.com.pk/v6/list/products/best_seller|
 ### Brand Detail APIS:
 
 ### Product Detail APIS:
+Name|Route|Old Response|New Response
+-|-|-|-
+Product Detail|https://api-staging.savyour.com.pk/v6/products/vodacom-7000-tzs-mobile-top-up-tz|-|-
 
 ### Wallet APIS:
 
