@@ -1,6 +1,6 @@
 # API ROUTES
 
-Name|Route|Old Response|New Response
+Name|Routes|Old Response|New Response
 -|-|-|-
 🔗|🔗 **`ONBOARDING`** 🔗|🔗|🔗
 Validate Number|https://api-staging.savyour.com/api/v1/otp/validate-number|-|-
