@@ -50,41 +50,6 @@
       }
     },
     {
-      "id": 732,
-      "type": "product_value",
-      "title": "This product operates on these values",
-      "sub_title": "",
-      "slug": "value",
-      "is_see_all_shown": false,
-      "is_personalized": false,
-      "items": {
-        "title": "Preferred Values",
-        "values": [
-          {
-            "id": 2,
-            "name": "Carbon Neutral",
-            "slug": "carbon-neutral",
-            "image": null,
-            "description": "Carbon-neutral products are made in a way that balances out the carbon emissions created during production, helping to reduce the overall impact on the environment. Carbon-neutral products are made in a way that balances out the carbon emissions created during production, helping to reduce the overall impact on the environment.Carbon-neutral products are made in a way that balances out the carbon emissions created during production, helping to reduce the overall impact on the environment."
-          },
-          {
-            "id": 3,
-            "name": "Compostable",
-            "slug": "compostable",
-            "image": "value/3/JLIQmxSu6doAVz6bWPVWo50kvT9QbAQm83cI5OcP.png",
-            "description": "Compostable products are designed to break down naturally and return to the earth, leaving behind no harmful waste."
-          },
-          {
-            "id": 7,
-            "name": "Ethical",
-            "slug": "ethical",
-            "image": "value/7/kJsufaBjhH4abcB363Ob5nf8IExtQZ6dOshZIhy0.png",
-            "description": "Ethical products are made with fairness, transparency, and respect for people, animals, and the environment."
-          }
-        ]
-      }
-    },
-    {
       "id": 712,
       "type": "brand",
       "title": "Brand",
