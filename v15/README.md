@@ -36,7 +36,7 @@ See All Campaign|-|-|-
 🔗|🔗 **`BRAND DETAIL`** 🔗|🔗|🔗
 -|-|-|-
 🔗|🔗 **`PRODUCT DETAIL`** 🔗|🔗|🔗
-Product Detail|https://api-staging.savyour.com.pk/v6/products/vodacom-7000-tzs-mobile-top-up-tz|-|-
+Product Detail|https://api-staging.savyour.com.pk/v6/products/vodacom-7000-tzs-mobile-top-up-tz|[Old](/v6/product-detail.json)|[New](/v15/product-detail.json)
 🔗|🔗 **`SAVYOUR CAMPAIGN (SPECIAL BRAND)`** 🔗|🔗|🔗
 -|-|-|[New](/v15/specialbrand.json)
 🔗|🔗 **`BRAND CAMPAIGN (HOT DEAL)`** 🔗|🔗|🔗
