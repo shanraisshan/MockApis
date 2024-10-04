@@ -51,7 +51,7 @@
     },
     {
       "id": 732,
-      "type": "product_value",
+      "type": "value_exist",
       "title": "This product operates on these values",
       "sub_title": "",
       "slug": "value",
