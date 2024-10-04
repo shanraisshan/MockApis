@@ -1,0 +1,430 @@
+{
+  "success": true,
+  "message": "",
+  "data": [
+    {
+      "id": 3162,
+      "slug": "header",
+      "fetch_url": "",
+      "endpoint": "",
+      "mixpanel_type": "",
+      "sub_type": "grid",
+      "sub_title": "",
+      "is_see_all_shown": false,
+      "is_sortable": 1,
+      "sort_order": 5,
+      "type": "header",
+      "items": {
+        "title": "Women's Two Piece Pants Piece Advanced design Women's Two Pants Velvet Juicy s dz",
+        "slug": "women039s-two-piece-pants-piece-advanced-design-women039s-two-pants-velvet-uicy-coutoure-tracksui-sweatsuits-dz",
+        "price_range": null,
+        "categories": [
+          {
+            "id": 229,
+            "name": "Women Fashion",
+            "slug": "women-fashion-category",
+            "subcategories": [
+              {
+                "id": 838,
+                "name": "Underwear & Sleepwear",
+                "slug": "underwear-sleepwear"
+              }
+            ]
+          }
+        ],
+        "images": [
+          {
+            "url": "https://buffer.com/cdn-cgi/image/w=1000,fit=contain,q=90,f=auto/library/content/images/size/w1200/2023/10/free-images.jpg"
+          },
+          {
+            "url": "https://th.bing.com/th/id/OIG2.9O4YqGf98tiYzjKDvg7L"
+          },
+          {
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGK3diR3Zi-mnOXEaj-3ewmFyRYVxGzVzZw&s"
+          }
+        ],
+        "values": null,
+        "share" : {
+          "url": ""
+        }
+      }
+    },
+    {
+      "id": 732,
+      "type": "product_value",
+      "title": "This product operates on these values",
+      "sub_title": "",
+      "slug": "value",
+      "is_see_all_shown": false,
+      "is_personalized": false,
+      "items": {
+        "title": "Preferred Values",
+        "values": [
+          {
+            "id": 2,
+            "name": "Carbon Neutral",
+            "slug": "carbon-neutral",
+            "image": null,
+            "description": "Carbon-neutral products are made in a way that balances out the carbon emissions created during production, helping to reduce the overall impact on the environment. Carbon-neutral products are made in a way that balances out the carbon emissions created during production, helping to reduce the overall impact on the environment.Carbon-neutral products are made in a way that balances out the carbon emissions created during production, helping to reduce the overall impact on the environment."
+          },
+          {
+            "id": 3,
+            "name": "Compostable",
+            "slug": "compostable",
+            "image": "value/3/JLIQmxSu6doAVz6bWPVWo50kvT9QbAQm83cI5OcP.png",
+            "description": "Compostable products are designed to break down naturally and return to the earth, leaving behind no harmful waste."
+          },
+          {
+            "id": 7,
+            "name": "Ethical",
+            "slug": "ethical",
+            "image": "value/7/kJsufaBjhH4abcB363Ob5nf8IExtQZ6dOshZIhy0.png",
+            "description": "Ethical products are made with fairness, transparency, and respect for people, animals, and the environment."
+          }
+        ]
+      }
+    },
+    {
+      "id": 712,
+      "type": "brand",
+      "title": "Brand",
+      "sub_title": "",
+      "slug": "",
+      "is_see_all_shown": false,
+      "is_personalized": false,
+      "items": [
+        {
+          "id": 2462,
+          "slug": "the-3d-gift",
+          "name": "The 3D Gift",
+          "business_category_id": 0,
+          "description": "",
+          "long_description": "",
+          "logo": "https://dynamic.brandcrowd.com/asset/logo/ac015366-3436-4ab2-8c71-d01c8d4eed86/logo-search-grid-1x?logoTemplateVersion=1&v=638415037753070000",
+          "banner": null,
+          "kv_image": "",
+          "website_url": null,
+          "identifier": "the3dgift.com",
+          "type": null,
+          "business_category": {},
+          "categories": [],
+          "tags": "Gifts",
+          "values": [
+  {
+    "id": 2,
+    "name": "Carbon Neutral",
+    "slug": "carbon-neutral"
+  },
+  {
+    "id": 3,
+    "name": "Compostable",
+    "slug": "compostable"
+  },
+  {
+    "id": 7,
+    "name": "Ethical",
+    "slug": "ethical"
+  }
+],
+          "specialities": "",
+          "tier": "Tier 5",
+          "sort_order": 0,
+          "product": {
+              "tag": {
+                "text": "Expiring Soon"
+              },
+            "savings": [{
+              "title" : "Seller Price",
+              "description" : "Rs. 46,000"
+            }]
+          },
+          "store": {
+            "id": 2432,
+            "name": "",
+            "type": null,
+            "spending_value": 0.2,
+            "points": {
+              "text": "1pt = $0.2",
+              "value": 0.2
+            },
+            "rating": 0.0,
+            "order_count": 0,
+            "rating_count": 0,
+            "review_count": 0,
+            "rating_detail": {
+              "average": 0.0,
+              "count": null,
+              "breakdown": "{\"progress_1\":0,\"progress_2\":0,\"progress_3\":0,\"progress_4\":0,\"progress_5\":0}"
+            },
+            "categories": [
+              {
+                "category": "Default",
+                "type": "percentage",
+                "commission": 10.0
+              }
+            ],
+            "tag": null,
+            "redirect_url": null,
+            "live_date": null,
+            "terms_and_condition": "",
+            "return_policy_days": 0,
+            "share_url": "",
+            "review_deeplink": "",
+            "average_reward_days": 90,
+            "sort_order": 0,
+            "share_msg": "the3dgift.com"
+          }
+        },
+        {
+          "id": 2462,
+          "slug": "the-3d-gift",
+          "name": "The 3D Gift",
+          "business_category_id": 0,
+          "description": "",
+          "long_description": "",
+          "logo": "https://dynamic.brandcrowd.com/asset/logo/ac015366-3436-4ab2-8c71-d01c8d4eed86/logo-search-grid-1x?logoTemplateVersion=1&v=638415037753070000",
+          "banner": null,
+          "kv_image": "",
+          "website_url": null,
+          "identifier": "the3dgift.com",
+          "type": null,
+          "business_category": {},
+          "categories": [],
+          "tags": "Gifts",
+          "values": [
+  {
+    "id": 2,
+    "name": "Carbon Neutral",
+    "slug": "carbon-neutral"
+  },
+  {
+    "id": 3,
+    "name": "Compostable",
+    "slug": "compostable"
+  },
+  {
+    "id": 7,
+    "name": "Ethical",
+    "slug": "ethical"
+  }
+],
+          "specialities": "",
+          "tier": "Tier 5",
+          "sort_order": 0,
+          "product": {
+            "savings": [{
+              "title" : "Seller Price",
+              "description" : "Rs. 46,000"
+            }]
+          },
+          "store": {
+            "id": 2432,
+            "name": "",
+            "type": null,
+            "spending_value": 0.2,
+            "points": {
+              "text": "1pt = $0.2",
+              "value": 0.2
+            },
+            "rating": 0.0,
+            "order_count": 0,
+            "rating_count": 0,
+            "review_count": 0,
+            "rating_detail": {
+              "average": 0.0,
+              "count": null,
+              "breakdown": "{\"progress_1\":0,\"progress_2\":0,\"progress_3\":0,\"progress_4\":0,\"progress_5\":0}"
+            },
+            "categories": [
+              {
+                "category": "Default",
+                "type": "percentage",
+                "commission": 10.0
+              }
+            ],
+            "tag": null,
+            "redirect_url": null,
+            "live_date": null,
+            "terms_and_condition": "",
+            "return_policy_days": 0,
+            "share_url": "",
+            "review_deeplink": "",
+            "average_reward_days": 90,
+            "sort_order": 0,
+            "share_msg": "the3dgift.com"
+          }
+        },
+        {
+          "id": 2462,
+          "slug": "the-3d-gift",
+          "name": "The 3D Gift",
+          "business_category_id": 0,
+          "description": "",
+          "long_description": "",
+          "logo": "https://dynamic.brandcrowd.com/asset/logo/ac015366-3436-4ab2-8c71-d01c8d4eed86/logo-search-grid-1x?logoTemplateVersion=1&v=638415037753070000",
+          "banner": null,
+          "kv_image": "",
+          "website_url": null,
+          "identifier": "the3dgift.com",
+          "type": null,
+          "business_category": {},
+          "categories": [],
+          "tags": "Gifts",
+          "values": [
+  {
+    "id": 2,
+    "name": "Carbon Neutral",
+    "slug": "carbon-neutral"
+  },
+  {
+    "id": 3,
+    "name": "Compostable",
+    "slug": "compostable"
+  },
+  {
+    "id": 7,
+    "name": "Ethical",
+    "slug": "ethical"
+  }
+],
+          "specialities": "",
+          "tier": "Tier 5",
+          "sort_order": 0,
+          "product": {
+            "savings": [{
+              "title" : "Seller Price",
+              "description" : "Rs. 46,000"
+            }]
+          },
+          "store": {
+            "id": 2432,
+            "name": "",
+            "type": null,
+            "spending_value": 0.2,
+            "points": {
+              "text": "1pt = $0.2",
+              "value": 0.2
+            },
+            "rating": 0.0,
+            "order_count": 0,
+            "rating_count": 0,
+            "review_count": 0,
+            "rating_detail": {
+              "average": 0.0,
+              "count": null,
+              "breakdown": "{\"progress_1\":0,\"progress_2\":0,\"progress_3\":0,\"progress_4\":0,\"progress_5\":0}"
+            },
+            "categories": [
+              {
+                "category": "Default",
+                "type": "percentage",
+                "commission": 10.0
+              }
+            ],
+            "tag": null,
+            "redirect_url": null,
+            "live_date": null,
+            "terms_and_condition": "",
+            "return_policy_days": 0,
+            "share_url": "",
+            "review_deeplink": "",
+            "average_reward_days": 90,
+            "sort_order": 0,
+            "share_msg": "the3dgift.com"
+          }
+        },
+        {
+          "id": 2462,
+          "slug": "the-3d-gift",
+          "name": "The 3D Gift",
+          "business_category_id": 0,
+          "description": "",
+          "long_description": "",
+          "logo": "https://dynamic.brandcrowd.com/asset/logo/ac015366-3436-4ab2-8c71-d01c8d4eed86/logo-search-grid-1x?logoTemplateVersion=1&v=638415037753070000",
+          "banner": null,
+          "kv_image": "",
+          "website_url": null,
+          "identifier": "the3dgift.com",
+          "type": null,
+          "business_category": {},
+          "categories": [],
+          "tags": "Gifts",
+          "values": [],
+          "specialities": "",
+          "tier": "Tier 5",
+          "sort_order": 0,
+          "product": {
+            "savings": [{
+              "title" : "Seller Price",
+              "description" : "Rs. 46,000"
+            }]
+          },
+          "store": {
+            "id": 2432,
+            "name": "",
+            "type": null,
+            "spending_value": 0.2,
+            "points": {
+              "text": "1pt = $0.2",
+              "value": 0.2
+            },
+            "rating": 0.0,
+            "order_count": 0,
+            "rating_count": 0,
+            "review_count": 0,
+            "rating_detail": {
+              "average": 0.0,
+              "count": null,
+              "breakdown": "{\"progress_1\":0,\"progress_2\":0,\"progress_3\":0,\"progress_4\":0,\"progress_5\":0}"
+            },
+            "categories": [
+              {
+                "category": "Default",
+                "type": "percentage",
+                "commission": 10.0
+              }
+            ],
+            "tag": null,
+            "redirect_url": null,
+            "live_date": null,
+            "terms_and_condition": "",
+            "return_policy_days": 0,
+            "share_url": "",
+            "review_deeplink": "",
+            "average_reward_days": 90,
+            "sort_order": 0,
+            "share_msg": "the3dgift.com"
+          }
+        }
+      ]
+    },
+    {
+      "id": 712,
+      "type": "description",
+      "title": "Description",
+      "sub_title": "",
+      "slug": "description",
+      "is_see_all_shown": false,
+      "is_personalized": false,
+      "items": 
+        {
+          "text": "<html><body>\n\n<ul>\n    <li><strong>Display:</strong> 6.52” HD+ Dot Drop display, 1600 x 720 HD+</li>\n    <li><strong>Processors:</strong> MediaTek Helio G36</li>\n    <li><strong>CPU:</strong> Up to 2.2GHz</li>\n    <li><strong>Rear Camera:</strong> 8MP main camera</li>\n    <li><strong>Front Camera:</strong> 5MP</li>\n    <li><strong>Battery:</strong> 5000mAh (typ)\n        <ul>\n            <li>28 hours of calling</li>\n            <li>626 hours of standby</li>\n            <li>19 hours of video playback</li>\n        </ul>\n    </li>\n    <li><strong>Charging:</strong> 10W fast charging | 10W in-box charger | Micro USB</li>\n    <li><strong>Security:</strong> Rear fingerprint sensor</li>\n    <li><strong>Network & Connectivity:</strong> Dual SIM + microSD | 2G: 3G: 4G</li>\n    <li><strong>Wireless Networks:</strong>\n        <ul>\n            <li>Supports 2.4GHz Wi-Fi</li>\n            <li>Supports FM radio* (with headphones)</li>\n            <li>Bluetooth 5.0</li>\n        </ul>\n    </li>\n    <li><strong>Navigation & Positioning:</strong> GPS L1 | Glonass G1 | BDS B1I | Galileo E1</li>\n</ul>\n\n</body>\n</html>"
+        }
+      
+    },
+    {
+      "id": 3163,
+      "slug": "pagination",
+      "title": "More like this",
+      "fetch_url": "https://mocki.io/v1/eeaead2b-cedd-4df1-b4de-d8811f308f5d",
+      "endpoint": "",
+      "mixpanel_type": "",
+      "sub_type": "grid",
+      "sub_title": "",
+      "is_see_all_shown": false,
+      "is_sortable": 1,
+      "sort_order": 5,
+      "type": "pagination_product"
+    }
+  ]
+}
