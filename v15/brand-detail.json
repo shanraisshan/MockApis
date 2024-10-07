@@ -1,0 +1,654 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "id": 26,
+      "type": "header",
+      "title": "",
+      "sub_title": "",
+      "slug": "header",
+      "is_see_all_shown": false,
+      "is_personalized": false,
+      "group": "",
+      "endpoint": "https://api.savyour.com/api/v1/None",
+      "mixpanel_type": "header",
+      "sortable_status": 0,
+      "sub_type": "medium",
+      "fetch_url": "https://api.savyour.com/api/v1/",
+      "items": {
+        "id": 12470,
+        "slug": "maedn",
+        "name": "Maedn",
+        "business_category_id": 5,
+        "description": "",
+        "long_description": "",
+        "logo": "https://beta-vendor.savyour.com/assets/vendor/images/NoImage.png",
+        "identity_logo": "",
+        "monochrome_logo": "",
+        "banner": null,
+        "banner_home": "https://beta-vendor.savyour.com/assets/vendor/images/NoImage.png",
+        "banner_detail": "https://beta-vendor.savyour.com/assets/vendor/images/NoImage.png",
+        "kv_image": "",
+        "identifier": "maednbags.com",
+        "business_category": {
+          "id": 5,
+          "name": "Fashion"
+        },
+        "categories": [
+          {
+            "id": 11,
+            "name": "Beauty & Personal Care",
+            "slug": "beauty-personal-care-category",
+            "meta_title": "Get up to 13% Cashback on Beauty Brands with Savyour",
+            "meta_description": "Cash Kero, Aish Kero! Avail deals and discounts PLUS exclusive Cashback on beauty brands when you shop via Savyour!",
+            "share_msg": "",
+            "share_url": "https://savyour.app/kbiRg",
+            "image": "https://assets.savyour.com/brand-categories/11/medium/WyKJVMCNU8YR5g8TNZXjFrBVyFFUxKIqn2OHliYJ.png",
+            "subcategories": []
+          }
+        ],
+        "tags": "Accessories",
+        "values": [
+          {
+            "id": 22,
+            "name": "Sustainable",
+            "slug": "sustainable",
+            "image": "https://assets.savyour.com/value/22/thumbnail/gJpHlhMJtirfXtItCQBAZzuLpXUm801DByE01qqX.png"
+          },
+          {
+            "id": 17,
+            "name": "Recyclable",
+            "slug": "recyclable",
+            "image": "https://assets.savyour.com/value/17/thumbnail/yifcD9tU9p9Buzjkm8poFitt3c3GMWYApVSph6Kl.png"
+          },
+          {
+            "id": 19,
+            "name": "Renewable",
+            "slug": "renewable",
+            "image": "https://assets.savyour.com/value/19/thumbnail/vGYkOlJ4fkOvszfDTy3Fn4REK6SmxWdlgw0f0l50.png"
+          },
+          {
+            "id": 5,
+            "name": "Eco-Friendly",
+            "slug": "eco-friendly",
+            "image": "https://assets.savyour.com/value/5/thumbnail/2rcmuttxMR4zQkOaEcygbmODj3zbbPDtj1i5RKq3.png"
+          },
+          {
+            "id": 6,
+            "name": "Energy Efficient",
+            "slug": "energy-efficient",
+            "image": "https://assets.savyour.com/value/6/thumbnail/IFuooUx4SfttJ4PycWp38YLQjlIXqzqmBDLh9o3n.png"
+          }
+        ],
+        "values_names": [
+          "Sustainable",
+          "Recyclable",
+          "Renewable",
+          "Eco-Friendly",
+          "Energy Efficient"
+        ],
+        "specialities": "",
+        "tier": "Tier 5",
+        "sort_order": 0,
+        "meta_title": "",
+        "meta_description": "",
+        "is_active": true,
+        "created_at": "2024-10-01T11:26:58",
+        "updated_at": "2024-10-03T15:43:49",
+        "store": {
+          "id": 6446,
+          "name": "",
+          "type": "",
+          "spending_value": 0.17,
+          "points": {
+            "text": "1pt = $ 0.17",
+            "value": 0.17
+          },
+          "rating": 0,
+          "order_count": 0,
+          "rating_count": 0,
+          "review_count": 2500,
+          "rating_detail": {
+            "average": 0,
+            "count": null,
+            "breakdown": "{\"progress_1\":0,\"progress_2\":0,\"progress_3\":0,\"progress_4\":0,\"progress_5\":0}"
+          },
+          "categories": [
+            {
+              "category": "Default",
+              "type": "percentage",
+              "commission": 12
+            }
+          ],
+          "tag": {
+            "text": ""
+          },
+          "redirect_url": "https://www.linkbux.com/track?pid=LB00004906&mid=59266&url=https%3A%2F%2Fwww.maednbags.com",
+          "live_date": null,
+          "terms_and_condition": "\u003Chtml\u003E\n\u003Cbody\u003E\n    \u003Ch2\u003EExample of unordered list in circle\u003C/h2\u003E\n    \u003Cul style=\"list-style-type:circle;\"\u003E\n        \u003Cli\u003Esachin\u003C/li\u003E\n        \u003Cli\u003Emanoj\u003C/li\u003E\n    \u003C/ul\u003E\n    \u003Ch2\u003EExample of unordered list in disk\u003C/h2\u003E\n    \u003Cul style=\"list-style-type:disk;\"\u003E\n        \u003Cli\u003EPriya\u003C/li\u003E\n        \u003Cli\u003EMohit\u003C/li\u003E\n    \u003C/ul\u003E\n    \u003Ch2\u003EExample of unordered list in square\u003C/h2\u003E\n    \u003Cul style=\"list-style-type:square;\"\u003E\n        \u003Cli\u003EPinky\u003C/li\u003E\n        \u003Cli\u003EPunam\u003C/li\u003E\n    \u003C/ul\u003E\n    \u003Ch2\u003EExample of unordered list in none\u003C/h2\u003E\n    \u003Cul style=\"list-style-type:none;\"\u003E\n        \u003Cli\u003EMukti\u003C/li\u003E\n        \u003Cli\u003EDhama\u003C/li\u003E\n    \u003C/ul\u003E\n\u003C/body\u003E\n\u003C/html\u003E",
+          "return_policy_days": 0,
+          "share_url": "",
+          "review_deeplink": "",
+          "average_reward_days": 90,
+          "sort_order": 0,
+          "share_msg": "maednbags.com",
+          "is_active": true
+        }
+      }
+    },
+    {
+      "id": 732,
+      "type": "value_exist",
+      "title": "This product operates on these values",
+      "sub_title": "",
+      "slug": "value",
+      "is_see_all_shown": false,
+      "is_personalized": false,
+      "items": {
+        "title": "Preferred Values",
+        "values": [
+          {
+            "id": 2,
+            "name": "Carbon Neutral",
+            "slug": "carbon-neutral",
+            "image": null,
+            "description": "Carbon-neutral products are made in a way that balances out the carbon emissions created during production, helping to reduce the overall impact on the environment. Carbon-neutral products are made in a way that balances out the carbon emissions created during production, helping to reduce the overall impact on the environment.Carbon-neutral products are made in a way that balances out the carbon emissions created during production, helping to reduce the overall impact on the environment."
+          },
+          {
+            "id": 3,
+            "name": "Compostable",
+            "slug": "compostable",
+            "image": "value/3/JLIQmxSu6doAVz6bWPVWo50kvT9QbAQm83cI5OcP.png",
+            "description": "Compostable products are designed to break down naturally and return to the earth, leaving behind no harmful waste."
+          },
+          {
+            "id": 7,
+            "name": "Ethical",
+            "slug": "ethical",
+            "image": "value/7/kJsufaBjhH4abcB363Ob5nf8IExtQZ6dOshZIhy0.png",
+            "description": "Ethical products are made with fairness, transparency, and respect for people, animals, and the environment."
+          }
+        ]
+      }
+    },
+    {
+      "id": 732,
+      "type": "brand_eta",
+      "title": "How to get Reward Points?",
+      "sub_title": "",
+      "slug": "value",
+      "is_see_all_shown": false,
+      "is_personalized": false,
+      "items": {
+        "order_placed": "Today",
+        "notified_in": "24 hours",
+        "point_days": "30 days"
+      }
+    },
+    {
+      "id": 79,
+      "type": "description",
+      "title": "Terms and Conditions",
+      "sub_title": "",
+      "slug": "description",
+      "is_see_all_shown": false,
+      "is_personalized": false,
+      "group": "",
+      "endpoint": "",
+      "mixpanel_type": "",
+      "sortable_status": 3,
+      "sub_type": "",
+      "items": {
+        "text": "Samsung provides you information about Sun & Sand Sports LLC (“SSS”, “we”, “our” and/or “us”), and the terms and conditions (the \"Terms\") on which we se helping to reduce the overall impact on the environment.Carbon-neutral products are made in a way that balances out the carbon emissions created during production, helping to reduce the overall impact on the environment."
+      }
+    },
+    {
+      "id": 75,
+      "type": "description",
+      "title": "Brand Description",
+      "sub_title": "",
+      "slug": "description",
+      "is_see_all_shown": false,
+      "is_personalized": false,
+      "group": "",
+      "endpoint": "",
+      "mixpanel_type": "",
+      "sortable_status": 3,
+      "sub_type": "",
+      "items": {
+        "text": "Samsung is a global leader in technology and innovation, known for its diverse range of products including smartphones, TVs, home appliances, and semiconductors. With a commitment to quality and helping to reduce the overall impact on the environment.Carbon-neutral products are made in a way that balances out the carbon emissions created during production, helping to reduce the overall impact on the environment."
+      }
+    },
+    {
+      "id": 80,
+      "type": "category",
+      "title": "Found In",
+      "sub_title": "",
+      "slug": "category",
+      "is_see_all_shown": false,
+      "is_personalized": false,
+      "group": "",
+      "endpoint": "",
+      "mixpanel_type": "categoryClicked",
+      "sortable_status": 4,
+      "sub_type": "medium",
+      "items": [
+        {
+          "id": 11,
+          "name": "Beauty & Personal Care",
+          "image": "https://assets.savyour.com/brand-categories/11/medium/WyKJVMCNU8YR5g8TNZXjFrBVyFFUxKIqn2OHliYJ.png",
+          "slug": "beauty-personal-care-category",
+          "background_color": "#e4f2f2"
+        }
+      ]
+    },
+    {
+      "endpoint": "",
+      "group": "",
+      "id": 84,
+      "is_personalized": false,
+      "is_see_all_shown": false,
+      "items": [
+        {
+          "id": 6047,
+          "slug": "botanic-choice",
+          "name": "Botanic Choice",
+          "business_category_id": 0,
+          "description": "",
+          "long_description": "",
+          "logo": "https://beta-vendor.savyour.com/assets/vendor/images/NoImage.png",
+          "banner": null,
+          "kv_image": "",
+          "website_url": null,
+          "identifier": "botanicchoice.com",
+          "type": null,
+          "business_category": {
+
+          },
+          "categories": [],
+          "tags": "",
+          "values": [
+            {
+              "id": 5,
+              "name": "Eco-Friendly",
+              "slug": "eco-friendly",
+              "image": "https://beta-vendor.savyour.com/assets/vendor/images/NoImage.png"
+            },
+            {
+              "id": 6,
+              "name": "Energy Efficient",
+              "slug": "energy-efficient",
+              "image": "https://beta-vendor.savyour.com/assets/vendor/images/NoImage.png"
+            },
+            {
+              "id": 17,
+              "name": "Recyclable",
+              "slug": "recyclable",
+              "image": "https://beta-vendor.savyour.com/assets/vendor/images/NoImage.png"
+            },
+            {
+              "id": 19,
+              "name": "Renewable",
+              "slug": "renewable",
+              "image": "https://beta-vendor.savyour.com/assets/vendor/images/NoImage.png"
+            },
+            {
+              "id": 22,
+              "name": "Sustainable",
+              "slug": "sustainable",
+              "image": "https://beta-vendor.savyour.com/assets/vendor/images/NoImage.png"
+            }
+          ],
+          "specialities": "",
+          "tier": "Tier 5",
+          "sort_order": 0,
+          "store": {
+            "id": 25,
+            "name": "",
+            "type": null,
+            "spending_value": 0.25,
+            "points": {
+              "text": "1pt = $0.25",
+              "value": 0.25
+            },
+            "rating": 0,
+            "order_count": 0,
+            "rating_count": 0,
+            "review_count": 0,
+            "rating_detail": {
+              "average": 0,
+              "count": null,
+              "breakdown": "{\"progress_1\":0,\"progress_2\":0,\"progress_3\":0,\"progress_4\":0,\"progress_5\":0}"
+            },
+            "categories": [
+              {
+                "category": "Sale",
+                "type": "percentage",
+                "commission": 8
+              }
+            ],
+            "tag": {
+              "text": ""
+            },
+            "redirect_url": "https://www.anrdoezrs.net/click-100829987-13566323",
+            "live_date": null,
+            "terms_and_condition": "\u003Chtml\u003E\n\u003Chead\u003E\n     \u003Ctitle\u003Eunordered list\u003C/title\u003E\n\u003C/head\u003E\n\u003Cbody\u003E\n    \u003Ch2\u003EExample of unordered list in circle\u003C/h2\u003E\n    \u003Cul style=\"list-style-type:circle;\"\u003E\n        \u003Cli\u003Esachin\u003C/li\u003E\n        \u003Cli\u003Emanoj\u003C/li\u003E\n    \u003C/ul\u003E\n    \u003Ch2\u003EExample of unordered list in disk\u003C/h2\u003E\n    \u003Cul style=\"list-style-type:disk;\"\u003E\n        \u003Cli\u003EPriya\u003C/li\u003E\n        \u003Cli\u003EMohit\u003C/li\u003E\n    \u003C/ul\u003E\n    \u003Ch2\u003EExample of unordered list in square\u003C/h2\u003E\n    \u003Cul style=\"list-style-type:square;\"\u003E\n        \u003Cli\u003EPinky\u003C/li\u003E\n        \u003Cli\u003EPunam\u003C/li\u003E\n    \u003C/ul\u003E\n    \u003Ch2\u003EExample of unordered list in none\u003C/h2\u003E\n    \u003Cul style=\"list-style-type:none;\"\u003E\n        \u003Cli\u003EMukti\u003C/li\u003E\n        \u003Cli\u003EDhama\u003C/li\u003E\n    \u003C/ul\u003E\n\u003C/body\u003E\n\u003C/html\u003E",
+            "return_policy_days": 0,
+            "share_url": "",
+            "review_deeplink": "",
+            "average_reward_days": 90,
+            "sort_order": 0,
+            "share_msg": "botanicchoice.com"
+          }
+        },
+        {
+          "id": 9576,
+          "slug": "winnie-and-crew",
+          "name": "Winnie and Crew",
+          "business_category_id": 0,
+          "description": "",
+          "long_description": "",
+          "logo": "https://beta-vendor.savyour.com/assets/vendor/images/NoImage.png",
+          "banner": null,
+          "kv_image": "",
+          "website_url": null,
+          "identifier": "winnieandcrew.com",
+          "type": null,
+          "business_category": {
+
+          },
+          "categories": [],
+          "tags": "Clothing",
+          "values": [
+            {
+              "id": 5,
+              "name": "Eco-Friendly",
+              "slug": "eco-friendly",
+              "image": "https://beta-vendor.savyour.com/assets/vendor/images/NoImage.png"
+            },
+            {
+              "id": 6,
+              "name": "Energy Efficient",
+              "slug": "energy-efficient",
+              "image": "https://beta-vendor.savyour.com/assets/vendor/images/NoImage.png"
+            },
+            {
+              "id": 17,
+              "name": "Recyclable",
+              "slug": "recyclable",
+              "image": "https://beta-vendor.savyour.com/assets/vendor/images/NoImage.png"
+            },
+            {
+              "id": 19,
+              "name": "Renewable",
+              "slug": "renewable",
+              "image": "https://beta-vendor.savyour.com/assets/vendor/images/NoImage.png"
+            },
+            {
+              "id": 22,
+              "name": "Sustainable",
+              "slug": "sustainable",
+              "image": "https://beta-vendor.savyour.com/assets/vendor/images/NoImage.png"
+            }
+          ],
+          "specialities": "",
+          "tier": "Tier 5",
+          "sort_order": 0,
+          "store": {
+            "id": 3552,
+            "name": "",
+            "type": null,
+            "spending_value": 0.2,
+            "points": {
+              "text": "1pt = $0.2",
+              "value": 0.2
+            },
+            "rating": 0,
+            "order_count": 0,
+            "rating_count": 0,
+            "review_count": 0,
+            "rating_detail": {
+              "average": 0,
+              "count": null,
+              "breakdown": "{\"progress_1\":0,\"progress_2\":0,\"progress_3\":0,\"progress_4\":0,\"progress_5\":0}"
+            },
+            "categories": [
+              {
+                "category": "Default",
+                "type": "percentage",
+                "commission": 10
+              }
+            ],
+            "tag": {
+              "text": ""
+            },
+            "redirect_url": "https://www.linkbux.com/track?pid=LB00004906&mid=23343&url=https%3A%2F%2Fwinnieandcrew.com",
+            "live_date": null,
+            "terms_and_condition": "",
+            "return_policy_days": 0,
+            "share_url": "",
+            "review_deeplink": "",
+            "average_reward_days": 90,
+            "sort_order": 0,
+            "share_msg": "winnieandcrew.com"
+          }
+        },
+        {
+          "id": 10283,
+          "slug": "lbeauxtique",
+          "name": "L'Beauxtique",
+          "business_category_id": 0,
+          "description": "",
+          "long_description": "",
+          "logo": "https://beta-vendor.savyour.com/assets/vendor/images/NoImage.png",
+          "banner": null,
+          "kv_image": "",
+          "website_url": null,
+          "identifier": "lbeauxtique.com",
+          "type": null,
+          "business_category": {
+
+          },
+          "categories": [],
+          "tags": "Accessories",
+          "values": [
+            {
+              "id": 5,
+              "name": "Eco-Friendly",
+              "slug": "eco-friendly",
+              "image": "https://beta-vendor.savyour.com/assets/vendor/images/NoImage.png"
+            },
+            {
+              "id": 6,
+              "name": "Energy Efficient",
+              "slug": "energy-efficient",
+              "image": "https://beta-vendor.savyour.com/assets/vendor/images/NoImage.png"
+            },
+            {
+              "id": 17,
+              "name": "Recyclable",
+              "slug": "recyclable",
+              "image": "https://beta-vendor.savyour.com/assets/vendor/images/NoImage.png"
+            },
+            {
+              "id": 19,
+              "name": "Renewable",
+              "slug": "renewable",
+              "image": "https://beta-vendor.savyour.com/assets/vendor/images/NoImage.png"
+            },
+            {
+              "id": 22,
+              "name": "Sustainable",
+              "slug": "sustainable",
+              "image": "https://beta-vendor.savyour.com/assets/vendor/images/NoImage.png"
+            }
+          ],
+          "specialities": "",
+          "tier": "Tier 5",
+          "sort_order": 0,
+          "store": {
+            "id": 4259,
+            "name": "",
+            "type": null,
+            "spending_value": 0.13,
+            "points": {
+              "text": "1pt = $0.13",
+              "value": 0.13
+            },
+            "rating": 0,
+            "order_count": 0,
+            "rating_count": 0,
+            "review_count": 0,
+            "rating_detail": {
+              "average": 0,
+              "count": null,
+              "breakdown": "{\"progress_1\":0,\"progress_2\":0,\"progress_3\":0,\"progress_4\":0,\"progress_5\":0}"
+            },
+            "categories": [
+              {
+                "category": "Default",
+                "type": "percentage",
+                "commission": 15
+              }
+            ],
+            "tag": {
+              "text": ""
+            },
+            "redirect_url": "https://www.linkbux.com/track?pid=LB00004906&mid=24396&url=https%3A%2F%2Flbeauxtique.com%2F",
+            "live_date": null,
+            "terms_and_condition": "",
+            "return_policy_days": 0,
+            "share_url": "",
+            "review_deeplink": "",
+            "average_reward_days": 90,
+            "sort_order": 0,
+            "share_msg": "lbeauxtique.com"
+          }
+        },
+        {
+          "id": 6388,
+          "slug": "sunsky-online-ww",
+          "name": "Sunsky-online WW",
+          "business_category_id": 0,
+          "description": "",
+          "long_description": "",
+          "logo": "https://beta-vendor.savyour.com/assets/vendor/images/NoImage.png",
+          "banner": null,
+          "kv_image": "",
+          "website_url": null,
+          "identifier": "sunsky-online.com",
+          "type": null,
+          "business_category": {
+
+          },
+          "categories": [],
+          "tags": "",
+          "values": [
+            {
+              "id": 5,
+              "name": "Eco-Friendly",
+              "slug": "eco-friendly",
+              "image": "https://beta-vendor.savyour.com/assets/vendor/images/NoImage.png"
+            },
+            {
+              "id": 6,
+              "name": "Energy Efficient",
+              "slug": "energy-efficient",
+              "image": "https://beta-vendor.savyour.com/assets/vendor/images/NoImage.png"
+            },
+            {
+              "id": 17,
+              "name": "Recyclable",
+              "slug": "recyclable",
+              "image": "https://beta-vendor.savyour.com/assets/vendor/images/NoImage.png"
+            },
+            {
+              "id": 19,
+              "name": "Renewable",
+              "slug": "renewable",
+              "image": "https://beta-vendor.savyour.com/assets/vendor/images/NoImage.png"
+            },
+            {
+              "id": 22,
+              "name": "Sustainable",
+              "slug": "sustainable",
+              "image": "https://beta-vendor.savyour.com/assets/vendor/images/NoImage.png"
+            }
+          ],
+          "specialities": "",
+          "tier": "Tier 5",
+          "sort_order": 0,
+          "store": {
+            "id": 366,
+            "name": "",
+            "type": null,
+            "spending_value": 0.25,
+            "points": {
+              "text": "1pt = $0.25",
+              "value": 0.25
+            },
+            "rating": 0,
+            "order_count": 0,
+            "rating_count": 0,
+            "review_count": 0,
+            "rating_detail": {
+              "average": 0,
+              "count": null,
+              "breakdown": "{\"progress_1\":0,\"progress_2\":0,\"progress_3\":0,\"progress_4\":0,\"progress_5\":0}"
+            },
+            "categories": [
+              {
+                "category": "Paid order",
+                "type": "percentage",
+                "commission": 8
+              }
+            ],
+            "tag": {
+              "text": ""
+            },
+            "redirect_url": "https://www.linkbux.com/track?pid=LB00004906&mid=6994&url=https%3A%2F%2Fwww.sunsky-online.com%2F",
+            "live_date": null,
+            "terms_and_condition": "",
+            "return_policy_days": 0,
+            "share_url": "",
+            "review_deeplink": "",
+            "average_reward_days": 90,
+            "sort_order": 0,
+            "share_msg": "sunsky-online.com"
+          }
+        }
+      ],
+      "mixpanel_type": "",
+      "slug": "trending_stores",
+      "sortable_status": 1,
+      "sub_title": "",
+      "sub_type": "small",
+      "title": "Trending Stores",
+      "type": "brand"
+    },
+    {
+      "id": 40,
+      "slug": "review",
+      "title": "",
+      "fetch_url": "https://secure.savyour.com.pk/v6/brand-outlets/900/ratings-reviews",
+      "endpoint": "",
+      "mixpanel_type": "review",
+      "sub_type": "",
+      "sub_title": "",
+      "is_see_all_shown": false,
+      "is_personalized": false,
+      "type": "review",
+      "group": "",
+      "sortable_status": 9,
+      "items": []
+    }
+  ],
+  "errors": {
+
+  },
+  "message": "",
+  "meta_data": {
+
+  },
+  "success": true
+}
