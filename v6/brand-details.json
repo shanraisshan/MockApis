@@ -1,0 +1,1442 @@
+{
+  "success": true,
+  "message": "",
+  "data": [
+    {
+      "id": 33,
+      "slug": "header",
+      "title": "",
+      "fetch_url": "",
+      "endpoint": "",
+      "mixpanel_type": "header",
+      "sub_type": "medium",
+      "sub_title": "",
+      "is_see_all_shown": false,
+      "is_personalized": false,
+      "type": "header",
+      "group": "",
+      "sortable_status": 2,
+      "items": {
+        "id": 3298,
+        "tags": "mart, kfc, McDonalds, pandamart, tandoori chicken, tandoori, seekh kabab, seafood, sea food, snacks, subway, coffee, Burger, bakery, beauty, fast food, pakistani, lassi, dessert, beef, karahi, peshawari, bakers, desi, sandwiches, naan, Broadway, shawarma, faluda, restaurant, tandoor, BBQ, bazaar, Grocery, optp, lalqila, lava cake, Ridan - House of Mandi, olper, restaurants, mutton, fruits and vegetables, beauty products, baby products, desserts, fresh, deserts, cooking, sauces, cosmetics, chiken, platter, coffe, cosmetic, Nestle, hair oil, baby essentials, hair, imtiaz store, frozen foods, baking, Dayfresh, day fresh, Pepsi, malt, baby food, grocery items, Bakespy, Saucy Chick, B&B, bar b q, burgers, chicken, cake, cakes, chinese, Chocolat, Chocolate, dettol, donuts, drinks, greeno, Grocer, Grocery store, harpic, honey, Imtiaz, kabab, limelight, mc donald, mandi, McDonald, MCD, Mcdonal, meat, Mon Salwa, olpers, Pizza, pita, rice, Ro, roll, rolls, Sabzi, sandwich, Spicy Chicken, sugar, supermarket, Tap, Tapa, Tapal, Tomato, vegetable, vegetables, baker, bazar, beauty product, Beverage, bowl, Breakfast, bucket, bun, burg, burge, Burger OClock, Cheese, chick, choco, Chocolates, chop chop wok, cooking o, Dairy, Deli, donald, Donut, food pand, Foods, gro, groc, groce, groceri, Groceries, insect, K F C, k foods, k&n, karachi food, Kitchen, kn&s, kn, knor, lim, lime, magi, mc don, mcdo, mcdolan, mcdona, mini pizz, mini pizza, pakistani food, pepperoni, peshawar, pet food, pi, piz, pizz, pizza po, pizza s, Sauce, seekh, shake, Shakes, Shan, Snack, su, food panda delivery, foodpanda promo, food panda promo, foodpanda deals, foodpanda mart, foodpanda discount, foodpanda website, foodpanda order, foodpanda online order, foodpanda promotion, pandamart promo, food panda discount, foodpanda offer, foodpanda shop, food panda order, food panda offer, foodpanda pizza, foodpanda bank discount, foodpanda card discount, foodpanda pizza deals, pandamart discount, foodpanda biryani, Domino's, dominos, kababjees, airlift, air lift, 13th street pizza, Jackson Fried House, foods inn, macdonald, 8950, 10893, 10894, 8580, 10899, 10900, 10901, 10902, 10903, Beverages, mithai",
+        "specialities": "Pizza, Fast food, Grocery, Pandamart, Mart, Lunch, Dinner, Food",
+        "slug": "foodpanda",
+        "order_count": 503848,
+        "highest_current_cashback": 3.6,
+        "highest_cashback_instore": 0,
+        "highest_cashback_outlet": "online",
+        "name": "foodpanda",
+        "fb_category_level_1": null,
+        "fb_category_level_2": null,
+        "fb_category_level_3": null,
+        "business_category_id": 4,
+        "description": "",
+        "long_description": "<p dir=\"ltr\">Foodpanda is a global pioneer in the realm of online food ordering and delivery, revolutionizing the way individuals worldwide savor culinary convenience. Established in 2012, the company serves as the bridge between food enthusiasts and its esteemed partners, all facilitated by its dedicated team of riders.</p>\r\n<p dir=\"ltr\">At its core, Foodpanda aspires to transform the very essence of how food, people, culture, and technology harmoniously intersect. The tireless efforts of the panda family, composed of ingenious problem solvers, innovative designers, and visionary thinkers, are ceaselessly dedicated to elevating Foodpanda into the ultimate online destination for unmatched gastronomic convenience on a global scale.</p>\r\n<h2 dir=\"ltr\">Transforming the Global Food Delivery Sector</h2>\r\n<p dir=\"ltr\">As a prominent figure in the food-tech landscape, Foodpanda remains dedicated to delivering an accessible, effortless, and delightful food ordering and delivery experience to its cherished customers.</p>\r\n<p dir=\"ltr\">With a seamless payment system and real-time order tracking, the platform guarantees swift and trouble-free food delivery right to customers' doorsteps. Foodpanda's relentless commitment to cutting-edge technology and groundbreaking innovation has solidified its standing as a pioneering force within the industry.</p>\r\n<h2 dir=\"ltr\">Online Food Delivery: A Easy Method of Purchasing Food</h2>\r\n<p dir=\"ltr\">Foodpanda provides an extensive array of dining options to customers, accessible through its website or mobile app. This user-friendly interface allows customers to effortlessly peruse restaurant menus, choose their desired dishes, and finalize their orders with ease.</p>\r\n<p dir=\"ltr\">This convenience ensures that customers can indulge in their favorite restaurant delicacies from the comfort of their own homes, enhancing their overall dining experience.</p>\r\n<p dir=\"ltr\">The Foodpanda website and mobile app are thoughtfully crafted to offer a user-friendly and inclusive experience. The interface is designed with simplicity and intuitiveness in mind, enabling customers to effortlessly locate their desired items and complete their orders promptly.</p>\r\n<p dir=\"ltr\">Furthermore, the app caters to a broad user base by being compatible with both iOS and Android platforms, ensuring widespread accessibility to a diverse audience.</p>\r\n<h2 dir=\"ltr\">Efficient Payment Gateway and Quick Delivery</h2>\r\n<p dir=\"ltr\">Foodpanda boasts a reliable and secure payment gateway that grants customers the flexibility to settle their orders through various convenient methods. These encompass credit/debit cards, net banking, e-wallets, and the traditional cash on delivery option. The payment gateway is engineered for expeditious and dependable transactions, ensuring a seamless and secure process.</p>\r\n<p dir=\"ltr\">A hallmark of the company is its commitment to swift deliveries. With an expansive fleet of dedicated delivery partners, Foodpanda ensures that orders reach their destinations promptly and efficiently. Anticipate receiving your delectable meal within 30-45 minutes of order placement, contingent upon your location and the chosen restaurant.</p>\r\n<h2 dir=\"ltr\">Live tracking, excellent services, and customer-friendly costs</h2>\r\n<p dir=\"ltr\">Foodpanda's live tracking functionality empowers customers to monitor their orders in real-time, following the journey from pickup to doorstep delivery. This feature instills confidence and provides continuous visibility into order status.</p>\r\n<p dir=\"ltr\">Foodpanda's sustained triumph can be attributed to its commitment to delivering top-notch services and products at budget-friendly rates. The company has adopted a value-driven pricing strategy that ensures its services and products are competitively priced compared to other food delivery providers. In Pakistan, delivery fees are typically modest, and the app frequently extends incentives like discounts, exclusive offers, and promotions to offset these charges.</p>\r\n<h2 dir=\"ltr\">24/7 Availability and Client Loyalty: Ensuring Satisfied Customers</h2>\r\n<p dir=\"ltr\">Foodpanda's round-the-clock availability stands as a cornerstone of its enduring prosperity. Leveraging cutting-edge technologies like websites and mobile apps, the company has redefined food delivery, rendering online food ordering effortless. Foodpanda extends gratifying offers and incentives to reward its dedicated clientele.</p>\r\n<p dir=\"ltr\">In addition, the company has harnessed the power of social media and digital marketing to launch expansive global marketing campaigns. The Foodpanda app, tailored for smartphone users, simplifies food ordering with just a few taps or clicks.</p>\r\n<h2 dir=\"ltr\">Order Food with Foodpanda via Savyour</h2>\r\n<p dir=\"ltr\">Savyour, the pioneering cashback brand in Pakistan, introduces a seamless path to savings while savoring delectable meals. Foodpanda patrons can embrace this opportunity and relish exclusive cashback rewards on their orders.</p>\r\n<h2 dir=\"ltr\">Streamlined Sign-Up</h2>\r\n<p dir=\"ltr\">Getting started with Savyour is a breeze. Customers can swiftly register for this service via the app or website, following a few straightforward steps. Once registered, customers are primed to reap the benefits of cashback offers on their orders.</p>\r\n<h2 dir=\"ltr\">User-Friendly Experience</h2>\r\n<p dir=\"ltr\">Savyour's app and website are thoughtfully crafted for user-friendliness. Customers can effortlessly pursue partner restaurants and stores, handpicking their preferred cashback deals. Post-purchase, the cashback is automatically deposited into the customer's account.</p>\r\n<h2 dir=\"ltr\">Exclusive Cashback Bonanzas</h2>\r\n<p dir=\"ltr\">Savyour extends a trove of exclusive cashback opportunities solely accessible to its cherished clientele. Customers can relish cashback rewards not only from Foodpanda but also from an array of partnered brands.</p>\r\n<h2 dir=\"ltr\">Commence Cashback Earnings Today</h2>\r\n<p dir=\"ltr\">Embark on your cashback journey with Savyour and start amassing rewards with each purchase. It's an exceptional way to extract additional value from your expenses, all while indulging in delightful meals!</p>\r\n<h2 dir=\"ltr\">FAQs</h2>\r\n<p dir=\"ltr\"><strong>1. How can I contact foodpanda in Pakistan?</strong><br>If you wish to contact, please send an email to support@foodpanda.pk or connect via the inbuilt help center.</p>\r\n<p dir=\"ltr\"><strong>2. What are the payment options for foodpanda?</strong><br>Nevertheless, they offer multiple payment options including online banking, credit/debit card, cash on delivery, Boost, and Touch n Go e-wallet. To streamline your checkout experience, it is encouraged to save your card details.&nbsp;</p>\r\n<p dir=\"ltr\"><strong>3. Does foodpanda operate 24 hours?</strong></p>\r\n<p dir=\"ltr\">Yes, foodpanda in Pakistan delivers 24/7.</p>\r\n<p dir=\"ltr\"><strong>4. Will I get a refund if I cancel an order on foodpanda?</strong></p>\r\n<p dir=\"ltr\">You have the right to cancel your order provided a vendor has not yet accepted your Order. You have the right to a refund for a canceled order only if a vendor has not yet accepted your order.</p>\r\n<p dir=\"ltr\"><strong>5. How do I report a wrong order on foodpanda?</strong></p>\r\n<p dir=\"ltr\">For customer support, you may reach out via email at support@foodpanda.ph or through in-app customer support chat feature. You may initiate a chat for your order by selecting the Help Centre.</p>\r\n<p>&nbsp;</p>",
+        "website_url": "",
+        "original_logo": "https://assets.savyour.com/brands/3298/cdJ4d0AU4ca2AYmy94vBeIudpZJ17GylGwiBKsBU.png",
+        "banner": "https://assets.savyour.com/brands/3298/L61Jw0KMhnYNcNe4bQCkq9jv5tPyZB7xUfw4Un5j.png",
+        "banner_home": "https://assets.savyour.com/brands/3298/small/L61Jw0KMhnYNcNe4bQCkq9jv5tPyZB7xUfw4Un5j.png",
+        "identity_logo": "https://assets.savyour.com/brands/3298/identity_logo_1685009150.png",
+        "logo": "https://assets.savyour.com/brands/3298/1687007976.png",
+        "kv_image": "https://assets.savyour.com/brands/3298/1685403380.png",
+        "banner_detail": "https://assets.savyour.com/brands/3298/medium/L61Jw0KMhnYNcNe4bQCkq9jv5tPyZB7xUfw4Un5j.png",
+        "meta_title": "Unlock Savings on foodpanda pk offering Cashback Upto 7.75%. Act Fast, Save more!",
+        "meta_description": "Explore the diverse offerings from foodpanda pk. Place your orders now and earn enticing cashback Upto 7.75%",
+        "video_url": "https://assets.savyour.com/",
+        "identifier": "foodpanda.pk",
+        "type": "primary",
+        "share_url": "https://savyour.app/u5ibW",
+        "share_msg": "Savyour k through order karain and foodpanda par 5% ka cashback avail karain.\nShop through the link below:",
+        "is_active": true,
+        "created_at": "2021-10-15 15:00:38",
+        "updated_at": "2024-10-04 03:00:15",
+        "business_category": {
+          "id": 4,
+          "name": "Food & Restaurants"
+        },
+        "categories": [
+          {
+            "id": 6,
+            "name": "Restaurants & Eateries",
+            "slug": "restaurants-eateries-category",
+            "meta_title": "Sustainable Restaurants [COUNTRY] at Savyour",
+            "meta_description": "Craving a delicious meal? Savyour helps you find the perfect restaurant in [COUNTRY]. Explore a wide range of cuisines and discover new favorites near you.",
+            "share_msg": "",
+            "share_url": "https://savyour.app/a7yJ3",
+            "image": "https://assets.savyour.com/brand-categories/6/medium/8ULqXFi2zfxMccqyF8kcuYPTGojBrUpSFigf9Gwn.png",
+            "subcategories": [
+              {
+                "id": 34,
+                "name": "Cakes & Bakery",
+                "slug": "cakes-bakery",
+                "meta_title": "Gluten Free Cakes & Bakery Products in [COUNTRY] by Savyour",
+                "meta_description": "Celebrate any occasion or simply treat yourself with delectable cakes and pastries from Savyour's ([COUNTRY]) bakeries.",
+                "share_msg": null,
+                "share_url": "https://savyour.app/bIFiR",
+                "image": "https://assets.savyour.com/brand-subcategories/34/medium/U4Y4qF1vRb2f3UhhxGCjyijhvbmIvlIS0hi8SBxg.png"
+              },
+              {
+                "id": 35,
+                "name": "Desi",
+                "slug": "desi",
+                "meta_title": "Sustainable Desi Food in [COUNTRY] at Savyour",
+                "meta_description": "Craving a taste of home? Savyour ([COUNTRY]) brings you delicious desi food options. Find restaurants serving your favorite [COUNTRY]i dishes.",
+                "share_msg": null,
+                "share_url": "https://savyour.app/Knr3o",
+                "image": "https://assets.savyour.com/brand-subcategories/35/medium/tNBN2QdKNz3f0IrEXpJeF9NNDmSKWo0Ihbqe87VG.png"
+              },
+              {
+                "id": 36,
+                "name": "Pizza",
+                "slug": "pizza",
+                "meta_title": "Sustainable Pizza Choices in [COUNTRY] at Savyour",
+                "meta_description": "Who doesn't love pizza? Savyour ([COUNTRY]) connects you with popular pizza restaurants offering mouthwatering varieties to satisfy your cravings.",
+                "share_msg": null,
+                "share_url": "https://savyour.app/BlWSP",
+                "image": "https://assets.savyour.com/brand-subcategories/36/medium/ln7skrpqTrDJzPmVM6jfU9uEaXL4shYyg9KLwawj.png"
+              },
+              {
+                "id": 37,
+                "name": "Burger",
+                "slug": "burger",
+                "meta_title": "Eco-Friendly Burgers in [COUNTRY] at Savyour",
+                "meta_description": "Savor a juicy burger from Savyour's ([COUNTRY]) extensive selection of burger restaurants. Find the perfect patty and toppings to satisfy your cravings.",
+                "share_msg": null,
+                "share_url": "https://savyour.app/1yzba",
+                "image": "https://assets.savyour.com/brand-subcategories/37/medium/2hoSYrG1pNCB6ApCCWET8ZStcPiD2kpIVvY8L3aP.png"
+              },
+              {
+                "id": 38,
+                "name": "Beverages",
+                "slug": "beverages",
+                "meta_title": null,
+                "meta_description": "Quench your thirst with Savyour's beverage selection. Find hot and cold drinks, including juices, sodas, and bottled water.",
+                "share_msg": null,
+                "share_url": "https://savyour.app/EQoLT",
+                "image": "https://assets.savyour.com/brand-subcategories/38/medium/TyHQ8v73Cs7pVk5JeiR1K8zqx6GRdwIHgGgUtXH1.png"
+              },
+              {
+                "id": 39,
+                "name": "Mithai",
+                "slug": "mithai",
+                "meta_title": "Sustainable Sweets in [COUNTRY] at Savyour",
+                "meta_description": "Indulge in the delightful world of mithai with Savyour ([COUNTRY]). Find traditional [COUNTRY]i sweets from the finest sweet shops near you.",
+                "share_msg": null,
+                "share_url": "https://savyour.app/bJxqo",
+                "image": "https://assets.savyour.com/brand-subcategories/39/medium/SL47HthMUYgiH1uICUkHlmn6K9UmGnkrY5773llN.png"
+              }
+            ]
+          },
+          {
+            "id": 87,
+            "name": "Stores & Grocery",
+            "slug": "stores-grocery-category",
+            "meta_title": "Organic Grocery Supplies in [COUNTRY] at Savyour",
+            "meta_description": "Get your groceries delivered conveniently with Savyour in the [COUNTRY]. Find a wide selection of grocery stores and essential items to stock up your pantry.",
+            "share_msg": "",
+            "share_url": "https://savyour.app/vx6VH",
+            "image": "https://assets.savyour.com/brand-categories/87/medium/FcbQVAgU6L1Q6H9xUiDflzS8qaFZW5Qe0Qyos1Y7.png",
+            "subcategories": [
+              {
+                "id": 28,
+                "name": "Grocery essentials",
+                "slug": "grocery-essentials",
+                "meta_title": "Organic Grocery Essentials in [COUNTRY] at Savyour",
+                "meta_description": "Stock up on household staples with Savyour's grocery essentials. Find cleaning supplies and pantry must-haves.",
+                "share_msg": null,
+                "share_url": "https://savyour.app/SaKym",
+                "image": "https://assets.savyour.com/brand-subcategories/28/medium/ZQKdHjJmAt1kJYKmA6ngjnpTUdrB4drW4Cx4dpky.png"
+              },
+              {
+                "id": 30,
+                "name": "Frozen Foods",
+                "slug": "frozen-foods",
+                "meta_title": "Organic Frozen Foods in [COUNTRY] at Savyour",
+                "meta_description": "Stock up on convenient and delicious frozen food options on Savyour ([COUNTRY]). Find meals, snacks, and vegetables to save time in the kitchen.",
+                "share_msg": null,
+                "share_url": "https://savyour.app/ybo61",
+                "image": "https://assets.savyour.com/brand-subcategories/30/medium/wJsoi8MJD2U4tCTeV6VIwNugabTZl4VM5vYjXUbf.png"
+              },
+              {
+                "id": 31,
+                "name": "Household supplies",
+                "slug": "household-supplies",
+                "meta_title": "Organic Household Supplies in [COUNTRY] at Savyour",
+                "meta_description": "Stock up on household supplies with Savyour. Find cleaning products, laundry detergents, and more.",
+                "share_msg": null,
+                "share_url": "https://savyour.app/Vf8ep",
+                "image": "https://assets.savyour.com/brand-subcategories/31/medium/aJly9ehdCB9zf8FiRicRvfPqyljBN5gFshVKH5Va.png"
+              },
+              {
+                "id": 32,
+                "name": "Sauces & Spices",
+                "slug": "sauces-spices",
+                "meta_title": "Organic Sauces & Spices in [COUNTRY] at Savyour",
+                "meta_description": "Elevate your cooking with Savyour's sauces and spices ([COUNTRY]). Discover new flavors to excite your taste buds.",
+                "share_msg": null,
+                "share_url": "https://savyour.app/DWwi4",
+                "image": "https://assets.savyour.com/brand-subcategories/32/medium/x986BKZnLUqhHMSYzZ4vLPlTd91Eq1levqWHIWLa.png"
+              },
+              {
+                "id": 33,
+                "name": "Breakfast & Dairy",
+                "slug": "breakfast-dairy",
+                "meta_title": "Organic Breakfast & Dairy in [COUNTRY] at Savyour",
+                "meta_description": "Kickstart your day with Savyour's breakfast and dairy selection. Find fresh milk, yogurt, cereals, and more.",
+                "share_msg": null,
+                "share_url": "https://savyour.app/LYZbR",
+                "image": "https://assets.savyour.com/brand-subcategories/33/medium/K1aArDbJXhwYndf4VUX0q66prfnNV6SZrLeqtrz5.png"
+              },
+              {
+                "id": 52,
+                "name": "Dry Fruits & Honey",
+                "slug": "dry-fruits-honey",
+                "meta_title": "Sustainable Dry Fruits & Honey in [COUNTRY] at Savyour",
+                "meta_description": "Add sweetness to your diet with Savyour's dried fruits and honey. Find healthy and delicious options for snacking.",
+                "share_msg": null,
+                "share_url": "https://savyour.app/7NJEW",
+                "image": "https://assets.savyour.com/brand-subcategories/52/medium/ADiOtLHidVVS3W5INEB7JfcWTtkkz4BML8UzmsdJ.png"
+              },
+              {
+                "id": 53,
+                "name": "Beverage",
+                "slug": "beverage",
+                "meta_title": "Sustainable Beverages Options in [COUNTRY] at Savyour",
+                "meta_description": null,
+                "share_msg": null,
+                "share_url": "https://savyour.app/eFPF0",
+                "image": "https://assets.savyour.com/brand-subcategories/53/medium/6QVFwZ0lJFrjyhuJF9tEk2uVKPBZBsIq1B6Z8swS.png"
+              },
+              {
+                "id": 54,
+                "name": "Snacks",
+                "slug": "snacks",
+                "meta_title": "Eco-Friendly Snack Options in [COUNTRY] at Savyour",
+                "meta_description": "Stock your pantry with a variety of delicious snacks on Savyour in [COUNTRY]. Find sweet and savory snacks from top brands to satisfy your hunger.",
+                "share_msg": null,
+                "share_url": "https://savyour.app/rEXHb",
+                "image": "https://assets.savyour.com/brand-subcategories/54/medium/x0V1G2y5TfW0dekuFgOZKt2nleqsGLM2Pz52YbVG.png"
+              }
+            ]
+          }
+        ],
+        "sort_order": 0,
+        "tier": "Tier 1",
+        "brand_view_fifteen_days": 15909,
+        "brand_view_seven_days": 6792,
+        "order_completed_fifteen_days": 4,
+        "order_completed_seven_days": 3,
+        "order_placed_fifteen_days": 9358,
+        "order_placed_seven_days": 2978,
+        "values": [
+          {
+            "name": "personal",
+            "value": "CEO values leading example, ambition, and clear management expectations.",
+            "status": "yes"
+          },
+          {
+            "name": "social",
+            "value": "CEO values hiring the right kind of people and building a team.",
+            "status": "yes"
+          },
+          {
+            "name": "emotional",
+            "value": "CEO values embracing struggle and anticipating growth.",
+            "status": "yes"
+          },
+          {
+            "name": "eco-friendly",
+            "value": "Foodpanda is committed to reducing emissions, eliminating unnecessary plastic usage, and promoting circular economy practices.",
+            "status": "yes"
+          },
+          {
+            "name": "sustainable",
+            "value": "Foodpanda is transitioning to electric delivery vehicles and adopting sustainable packaging.",
+            "status": "yes"
+          },
+          {
+            "name": "recyclable",
+            "value": "Foodpanda is using recyclable materials and reducing plastic pollution.",
+            "status": "yes"
+          },
+          {
+            "name": "sustainable-packaging",
+            "value": "Foodpanda is optimizing delivery routes, minimizing fuel consumption, and using compostable packaging.",
+            "status": "yes"
+          },
+          {
+            "name": "energy-efficient",
+            "value": "Foodpanda is electrifying its delivery fleet and optimizing delivery routes to minimize fuel consumption.",
+            "status": "yes"
+          },
+          {
+            "name": "renewable",
+            "value": "Foodpanda is using electric delivery vehicles and transitioning to renewable energy sources.",
+            "status": "yes"
+          },
+          {
+            "name": "free-delivery",
+            "value": "Yes, Foodpanda offers free delivery.",
+            "status": "yes"
+          }
+        ],
+        "monochrome_logo": "https://assets.savyour.com/brands/3298/1687007976.png",
+        "outlet": {
+          "id": 900,
+          "brand_id": 3298,
+          "slug": "foodpanda-online",
+          "name": "Online",
+          "average_cashback_days": 15,
+          "return_policy_days": 0,
+          "phone_number": "",
+          "terms_and_condition": "<p>- Applicable on Foodpanda, Pandamart &amp; shops as well</p>\r\n<p>- Applicable on Delivery &amp; Pick-up</p>\r\n<p>- Go to foodpanda app through savyour app for every order. Multiple orders per session are not allowed.</p>",
+          "type": "online",
+          "website_url": "",
+          "long_description": "<p dir=\"ltr\">Foodpanda is a global pioneer in the realm of online food ordering and delivery, revolutionizing the way individuals worldwide savor culinary convenience. Established in 2012, the company serves as the bridge between food enthusiasts and its esteemed partners, all facilitated by its dedicated team of riders.</p>\r\n<p dir=\"ltr\">At its core, Foodpanda aspires to transform the very essence of how food, people, culture, and technology harmoniously intersect. The tireless efforts of the panda family, composed of ingenious problem solvers, innovative designers, and visionary thinkers, are ceaselessly dedicated to elevating Foodpanda into the ultimate online destination for unmatched gastronomic convenience on a global scale.</p>\r\n<h2 dir=\"ltr\">Transforming the Global Food Delivery Sector</h2>\r\n<p dir=\"ltr\">As a prominent figure in the food-tech landscape, Foodpanda remains dedicated to delivering an accessible, effortless, and delightful food ordering and delivery experience to its cherished customers.</p>\r\n<p dir=\"ltr\">With a seamless payment system and real-time order tracking, the platform guarantees swift and trouble-free food delivery right to customers' doorsteps. Foodpanda's relentless commitment to cutting-edge technology and groundbreaking innovation has solidified its standing as a pioneering force within the industry.</p>\r\n<h2 dir=\"ltr\">Online Food Delivery: A Easy Method of Purchasing Food</h2>\r\n<p dir=\"ltr\">Foodpanda provides an extensive array of dining options to customers, accessible through its website or mobile app. This user-friendly interface allows customers to effortlessly peruse restaurant menus, choose their desired dishes, and finalize their orders with ease.</p>\r\n<p dir=\"ltr\">This convenience ensures that customers can indulge in their favorite restaurant delicacies from the comfort of their own homes, enhancing their overall dining experience.</p>\r\n<p dir=\"ltr\">The Foodpanda website and mobile app are thoughtfully crafted to offer a user-friendly and inclusive experience. The interface is designed with simplicity and intuitiveness in mind, enabling customers to effortlessly locate their desired items and complete their orders promptly.</p>\r\n<p dir=\"ltr\">Furthermore, the app caters to a broad user base by being compatible with both iOS and Android platforms, ensuring widespread accessibility to a diverse audience.</p>\r\n<h2 dir=\"ltr\">Efficient Payment Gateway and Quick Delivery</h2>\r\n<p dir=\"ltr\">Foodpanda boasts a reliable and secure payment gateway that grants customers the flexibility to settle their orders through various convenient methods. These encompass credit/debit cards, net banking, e-wallets, and the traditional cash on delivery option. The payment gateway is engineered for expeditious and dependable transactions, ensuring a seamless and secure process.</p>\r\n<p dir=\"ltr\">A hallmark of the company is its commitment to swift deliveries. With an expansive fleet of dedicated delivery partners, Foodpanda ensures that orders reach their destinations promptly and efficiently. Anticipate receiving your delectable meal within 30-45 minutes of order placement, contingent upon your location and the chosen restaurant.</p>\r\n<h2 dir=\"ltr\">Live tracking, excellent services, and customer-friendly costs</h2>\r\n<p dir=\"ltr\">Foodpanda's live tracking functionality empowers customers to monitor their orders in real-time, following the journey from pickup to doorstep delivery. This feature instills confidence and provides continuous visibility into order status.</p>\r\n<p dir=\"ltr\">Foodpanda's sustained triumph can be attributed to its commitment to delivering top-notch services and products at budget-friendly rates. The company has adopted a value-driven pricing strategy that ensures its services and products are competitively priced compared to other food delivery providers. In Pakistan, delivery fees are typically modest, and the app frequently extends incentives like discounts, exclusive offers, and promotions to offset these charges.</p>\r\n<h2 dir=\"ltr\">24/7 Availability and Client Loyalty: Ensuring Satisfied Customers</h2>\r\n<p dir=\"ltr\">Foodpanda's round-the-clock availability stands as a cornerstone of its enduring prosperity. Leveraging cutting-edge technologies like websites and mobile apps, the company has redefined food delivery, rendering online food ordering effortless. Foodpanda extends gratifying offers and incentives to reward its dedicated clientele.</p>\r\n<p dir=\"ltr\">In addition, the company has harnessed the power of social media and digital marketing to launch expansive global marketing campaigns. The Foodpanda app, tailored for smartphone users, simplifies food ordering with just a few taps or clicks.</p>\r\n<h2 dir=\"ltr\">Order Food with Foodpanda via Savyour</h2>\r\n<p dir=\"ltr\">Savyour, the pioneering cashback brand in Pakistan, introduces a seamless path to savings while savoring delectable meals. Foodpanda patrons can embrace this opportunity and relish exclusive cashback rewards on their orders.</p>\r\n<h2 dir=\"ltr\">Streamlined Sign-Up</h2>\r\n<p dir=\"ltr\">Getting started with Savyour is a breeze. Customers can swiftly register for this service via the app or website, following a few straightforward steps. Once registered, customers are primed to reap the benefits of cashback offers on their orders.</p>\r\n<h2 dir=\"ltr\">User-Friendly Experience</h2>\r\n<p dir=\"ltr\">Savyour's app and website are thoughtfully crafted for user-friendliness. Customers can effortlessly pursue partner restaurants and stores, handpicking their preferred cashback deals. Post-purchase, the cashback is automatically deposited into the customer's account.</p>\r\n<h2 dir=\"ltr\">Exclusive Cashback Bonanzas</h2>\r\n<p dir=\"ltr\">Savyour extends a trove of exclusive cashback opportunities solely accessible to its cherished clientele. Customers can relish cashback rewards not only from Foodpanda but also from an array of partnered brands.</p>\r\n<h2 dir=\"ltr\">Commence Cashback Earnings Today</h2>\r\n<p dir=\"ltr\">Embark on your cashback journey with Savyour and start amassing rewards with each purchase. It's an exceptional way to extract additional value from your expenses, all while indulging in delightful meals!</p>\r\n<h2 dir=\"ltr\">FAQs</h2>\r\n<p dir=\"ltr\"><strong>1. How can I contact foodpanda in Pakistan?</strong><br>If you wish to contact, please send an email to support@foodpanda.pk or connect via the inbuilt help center.</p>\r\n<p dir=\"ltr\"><strong>2. What are the payment options for foodpanda?</strong><br>Nevertheless, they offer multiple payment options including online banking, credit/debit card, cash on delivery, Boost, and Touch n Go e-wallet. To streamline your checkout experience, it is encouraged to save your card details.&nbsp;</p>\r\n<p dir=\"ltr\"><strong>3. Does foodpanda operate 24 hours?</strong></p>\r\n<p dir=\"ltr\">Yes, foodpanda in Pakistan delivers 24/7.</p>\r\n<p dir=\"ltr\"><strong>4. Will I get a refund if I cancel an order on foodpanda?</strong></p>\r\n<p dir=\"ltr\">You have the right to cancel your order provided a vendor has not yet accepted your Order. You have the right to a refund for a canceled order only if a vendor has not yet accepted your order.</p>\r\n<p dir=\"ltr\"><strong>5. How do I report a wrong order on foodpanda?</strong></p>\r\n<p dir=\"ltr\">For customer support, you may reach out via email at support@foodpanda.ph or through in-app customer support chat feature. You may initiate a chat for your order by selecting the Help Centre.</p>\r\n<p>&nbsp;</p>",
+          "share_url": "https://savyour.app/qLuFC",
+          "review_deeplink": "https://savyour.app/uwNTW",
+          "rating": 4.5,
+          "rating_count": 22684,
+          "review_count": 10553,
+          "order_count": 10019,
+          "sort_order": 0,
+          "is_active": true,
+          "is_market_update": false,
+          "conversion_percentage": 58.74867444326617,
+          "live_date": "2023-04-28 00:00:00",
+          "share_msg": "Order now & save more with upto 3.6% on foodpanda. Shop through the link below",
+          "card_tag": "",
+          "cashback": {
+            "categories": [
+              {
+                "category": "New foodpanda user",
+                "discount_type": "percentage",
+                "current_cashback": 3.6,
+                "previous_cashback": 0,
+                "previous_discount_type": "percentage"
+              },
+              {
+                "category": "Old foodpanda user",
+                "discount_type": "percentage",
+                "current_cashback": 0.28,
+                "previous_cashback": 0,
+                "previous_discount_type": "percentage"
+              }
+            ],
+            "redirect_url": "https://prf.hn/click/camref:1100ljXa7/pubref:savyour-2f444132304b51326e495057393673465056784770773d3d-1728026377-pk",
+            "terms_and_condition": "<p>- Applicable on Foodpanda, Pandamart &amp; shops as well</p>\r\n<p>- Applicable on Delivery &amp; Pick-up</p>\r\n<p>- Go to foodpanda app through savyour app for every order. Multiple orders per session are not allowed.</p>",
+            "description": "",
+            "domain": "foodpanda",
+            "current_cashback": 3.6,
+            "discount_type": "percentage",
+            "previous_cashback": 0,
+            "previous_discount_type": "percentage",
+            "upto": true,
+            "valid_till": "",
+            "scheme_url": "",
+            "banner_image": null,
+            "sort_order": 1,
+            "is_active": true,
+            "is_parent": 1,
+            "redirection_type": "external",
+            "live_date": "2023-04-28 00:00:00",
+            "max_user_commission": "Max : No limit",
+            "max_order_cap": 0,
+            "average_cashback_days": "Avg. Cashback time: 15 days",
+            "order_on": "Order on prf.hn",
+            "cashback_days": "15 days",
+            "is_showing": true,
+            "special_brands_detail": {},
+            "affiliate": {
+              "id": 3,
+              "name": "Partnerize",
+              "slug": "partnerize"
+            },
+            "order_placed": "Today",
+            "notified_in": "3 Hrs",
+            "animation_info": {
+              "title": "foodpanda",
+              "sub_title": "Activated",
+              "description": "Cashback is available in the following categories only",
+              "fulfilled_by_text": ""
+            }
+          },
+          "cities": [
+            {
+              "id": 1,
+              "name": "Karachi",
+              "short_name": "KHI"
+            },
+            {
+              "id": 2,
+              "name": "Lahore",
+              "short_name": "LHR"
+            },
+            {
+              "id": 3,
+              "name": "Islamabad",
+              "short_name": "ISL"
+            },
+            {
+              "id": 4,
+              "name": "Faisalabad",
+              "short_name": "FSLB"
+            },
+            {
+              "id": 5,
+              "name": "Hyderabad",
+              "short_name": "HYD"
+            },
+            {
+              "id": 6,
+              "name": "Peshawar",
+              "short_name": "PEW"
+            },
+            {
+              "id": 7,
+              "name": "Quetta",
+              "short_name": "UET"
+            },
+            {
+              "id": 8,
+              "name": "Sukkur",
+              "short_name": "SKZ"
+            },
+            {
+              "id": 9,
+              "name": "Multan",
+              "short_name": "MUL"
+            },
+            {
+              "id": 10,
+              "name": "Abbottabad",
+              "short_name": "ABBT"
+            },
+            {
+              "id": 11,
+              "name": "Arifwala",
+              "short_name": "ARIFW"
+            },
+            {
+              "id": 12,
+              "name": "Attock",
+              "short_name": "ATTO"
+            },
+            {
+              "id": 13,
+              "name": "Badin",
+              "short_name": "BAD"
+            },
+            {
+              "id": 14,
+              "name": "Bahawalnagar",
+              "short_name": "BHWL"
+            },
+            {
+              "id": 15,
+              "name": "Bahawalpur",
+              "short_name": "BAHW"
+            },
+            {
+              "id": 16,
+              "name": "Bhalwal",
+              "short_name": "BHAL"
+            },
+            {
+              "id": 17,
+              "name": "Burewala",
+              "short_name": "BURW"
+            },
+            {
+              "id": 18,
+              "name": "Chakwal",
+              "short_name": "CHAK"
+            },
+            {
+              "id": 19,
+              "name": "Chichawatni",
+              "short_name": "CHICH"
+            },
+            {
+              "id": 20,
+              "name": "Chiniot",
+              "short_name": "CHIN"
+            },
+            {
+              "id": 21,
+              "name": "Dadu",
+              "short_name": "DAD"
+            },
+            {
+              "id": 22,
+              "name": "Dera Ghazi Khan",
+              "short_name": "DG"
+            },
+            {
+              "id": 23,
+              "name": "Dera Ismail Khan",
+              "short_name": "DIK"
+            },
+            {
+              "id": 24,
+              "name": "Dharki",
+              "short_name": "DHAR"
+            },
+            {
+              "id": 25,
+              "name": "Digri",
+              "short_name": "DIG"
+            },
+            {
+              "id": 26,
+              "name": "Kasur",
+              "short_name": "KAS"
+            },
+            {
+              "id": 27,
+              "name": "Gaggo Mandi",
+              "short_name": "GAGO"
+            },
+            {
+              "id": 28,
+              "name": "Gambat",
+              "short_name": "GAMB"
+            },
+            {
+              "id": 29,
+              "name": "Ghotki",
+              "short_name": "GHO"
+            },
+            {
+              "id": 30,
+              "name": "Gilgit",
+              "short_name": "GILG"
+            },
+            {
+              "id": 31,
+              "name": "Gujranwala",
+              "short_name": "GUJ"
+            },
+            {
+              "id": 32,
+              "name": "Gujrat",
+              "short_name": "GUJR"
+            },
+            {
+              "id": 33,
+              "name": "Gwadar",
+              "short_name": "GAW"
+            },
+            {
+              "id": 34,
+              "name": "Hafizabad",
+              "short_name": "HAF"
+            },
+            {
+              "id": 35,
+              "name": "Hala",
+              "short_name": "HAL"
+            },
+            {
+              "id": 36,
+              "name": "Haripur",
+              "short_name": "HAR"
+            },
+            {
+              "id": 37,
+              "name": "Hassan Abdal",
+              "short_name": "HASB"
+            },
+            {
+              "id": 38,
+              "name": "Haveli Lakha",
+              "short_name": "HAVL"
+            },
+            {
+              "id": 40,
+              "name": "Rahim Yar Khan",
+              "short_name": "RYK"
+            },
+            {
+              "id": 42,
+              "name": "Sargodha",
+              "short_name": "SARG"
+            },
+            {
+              "id": 44,
+              "name": "Sialkot",
+              "short_name": "SLK"
+            },
+            {
+              "id": 45,
+              "name": "Sahiwal",
+              "short_name": "SHL"
+            },
+            {
+              "id": 46,
+              "name": "Rawalpindi",
+              "short_name": "RWL"
+            },
+            {
+              "id": 47,
+              "name": "Kashmore",
+              "short_name": "KSH"
+            },
+            {
+              "id": 48,
+              "name": "Wah Cantt",
+              "short_name": "WAH"
+            },
+            {
+              "id": 49,
+              "name": "Azad kashmir",
+              "short_name": "AJK"
+            },
+            {
+              "id": 51,
+              "name": "Jhelum",
+              "short_name": "JHLM"
+            },
+            {
+              "id": 52,
+              "name": "Kala Shah Kaku",
+              "short_name": "KSK"
+            },
+            {
+              "id": 53,
+              "name": "Kamoke",
+              "short_name": "KMK"
+            },
+            {
+              "id": 54,
+              "name": "Kharian",
+              "short_name": "KHR"
+            },
+            {
+              "id": 55,
+              "name": "Mangla Cantt",
+              "short_name": "MNG"
+            },
+            {
+              "id": 56,
+              "name": "Mardan",
+              "short_name": "MRD"
+            },
+            {
+              "id": 57,
+              "name": "Murree",
+              "short_name": "MUR"
+            },
+            {
+              "id": 58,
+              "name": "Rahwali",
+              "short_name": "RHWL"
+            },
+            {
+              "id": 59,
+              "name": "Thokar niaz baig",
+              "short_name": "TNB"
+            },
+            {
+              "id": 60,
+              "name": "Larkana",
+              "short_name": "LRK"
+            },
+            {
+              "id": 61,
+              "name": "Okara",
+              "short_name": "OKR"
+            },
+            {
+              "id": 62,
+              "name": "Sheikhupura",
+              "short_name": "SKP"
+            },
+            {
+              "id": 63,
+              "name": "Pano Aqil",
+              "short_name": "PNQ"
+            },
+            {
+              "id": 64,
+              "name": "Sadiqabad",
+              "short_name": "SDQ"
+            },
+            {
+              "id": 66,
+              "name": "Bhakkar",
+              "short_name": "BHK"
+            },
+            {
+              "id": 67,
+              "name": "Chaman",
+              "short_name": "CMN"
+            },
+            {
+              "id": 68,
+              "name": "Dalbadin",
+              "short_name": "DAL"
+            },
+            {
+              "id": 69,
+              "name": "Daska",
+              "short_name": "DAS"
+            },
+            {
+              "id": 70,
+              "name": "Dhamtal",
+              "short_name": "DMT"
+            },
+            {
+              "id": 71,
+              "name": "Dinga",
+              "short_name": "DIN"
+            },
+            {
+              "id": 72,
+              "name": "Kotli",
+              "short_name": "KOT"
+            },
+            {
+              "id": 73,
+              "name": "Ferozwatwan",
+              "short_name": "FWT"
+            },
+            {
+              "id": 74,
+              "name": "Gudu",
+              "short_name": "GUD"
+            },
+            {
+              "id": 75,
+              "name": "Hazro",
+              "short_name": "HZR"
+            },
+            {
+              "id": 76,
+              "name": "Jacobabad",
+              "short_name": "JCB"
+            },
+            {
+              "id": 77,
+              "name": "Jamshoro",
+              "short_name": "JMS"
+            },
+            {
+              "id": 78,
+              "name": "Jauharabad",
+              "short_name": "JHB"
+            },
+            {
+              "id": 79,
+              "name": "Jhang",
+              "short_name": "JHN"
+            },
+            {
+              "id": 80,
+              "name": "Jhol",
+              "short_name": "JHL"
+            },
+            {
+              "id": 81,
+              "name": "Kalat",
+              "short_name": "KLT"
+            },
+            {
+              "id": 82,
+              "name": "Khairpur",
+              "short_name": "KHP"
+            },
+            {
+              "id": 83,
+              "name": "Khanozai",
+              "short_name": "KNZ"
+            },
+            {
+              "id": 84,
+              "name": "Kharan",
+              "short_name": "KRN"
+            },
+            {
+              "id": 85,
+              "name": "Khuzdar",
+              "short_name": "KZD"
+            },
+            {
+              "id": 86,
+              "name": "Killa Saifullah",
+              "short_name": "KSF"
+            },
+            {
+              "id": 87,
+              "name": "Kohlu",
+              "short_name": "KHU"
+            },
+            {
+              "id": 88,
+              "name": "Kuchlak",
+              "short_name": "KUC"
+            },
+            {
+              "id": 89,
+              "name": "Lalamusa",
+              "short_name": "LMS"
+            },
+            {
+              "id": 90,
+              "name": "Loralai",
+              "short_name": "LLI"
+            },
+            {
+              "id": 91,
+              "name": "Makhdoom Pur",
+              "short_name": "MPR"
+            },
+            {
+              "id": 92,
+              "name": "Mamu Kanjan",
+              "short_name": "MKN"
+            },
+            {
+              "id": 93,
+              "name": "Manawala",
+              "short_name": "MWL"
+            },
+            {
+              "id": 94,
+              "name": "Mansehra",
+              "short_name": "MSH"
+            },
+            {
+              "id": 95,
+              "name": "Mastung",
+              "short_name": "MST"
+            },
+            {
+              "id": 96,
+              "name": "Mianwali",
+              "short_name": "MNW"
+            },
+            {
+              "id": 97,
+              "name": "Mirpur Khas",
+              "short_name": "MPK"
+            },
+            {
+              "id": 98,
+              "name": "Muslim Bagh",
+              "short_name": "MBG"
+            },
+            {
+              "id": 99,
+              "name": "Nankana Sahib",
+              "short_name": "NKS"
+            },
+            {
+              "id": 100,
+              "name": "Narowal",
+              "short_name": "NRW"
+            },
+            {
+              "id": 101,
+              "name": "Noshki",
+              "short_name": "NOS"
+            },
+            {
+              "id": 102,
+              "name": "Pattoki",
+              "short_name": "PTK"
+            },
+            {
+              "id": 103,
+              "name": "Pishin",
+              "short_name": "PSH"
+            },
+            {
+              "id": 104,
+              "name": "Sharaqpur",
+              "short_name": "SHP"
+            },
+            {
+              "id": 105,
+              "name": "Shorkot",
+              "short_name": "SOT"
+            },
+            {
+              "id": 106,
+              "name": "Sibi",
+              "short_name": "SBI"
+            },
+            {
+              "id": 107,
+              "name": "Sumandri",
+              "short_name": "SMD"
+            },
+            {
+              "id": 108,
+              "name": "Swat",
+              "short_name": "SWT"
+            },
+            {
+              "id": 109,
+              "name": "Tibba Sultan",
+              "short_name": "TSL"
+            },
+            {
+              "id": 110,
+              "name": "Toba Tek Singh",
+              "short_name": "TTS"
+            },
+            {
+              "id": 111,
+              "name": "Wazirabad",
+              "short_name": "WZB"
+            },
+            {
+              "id": 112,
+              "name": "Zhob",
+              "short_name": "ZHB"
+            },
+            {
+              "id": 113,
+              "name": "Ziarat",
+              "short_name": "ZRT"
+            },
+            {
+              "id": 114,
+              "name": "Halani",
+              "short_name": "HLN"
+            },
+            {
+              "id": 115,
+              "name": "Much",
+              "short_name": "MCH"
+            },
+            {
+              "id": 116,
+              "name": "SAMA SATHA",
+              "short_name": "SAMA SATHA"
+            },
+            {
+              "id": 118,
+              "name": "Ahmadpur East",
+              "short_name": "AHMEST"
+            },
+            {
+              "id": 119,
+              "name": "Bannu",
+              "short_name": "BNU"
+            },
+            {
+              "id": 120,
+              "name": "Nawabshah",
+              "short_name": "NWB"
+            },
+            {
+              "id": 121,
+              "name": "Basirpur",
+              "short_name": "BSP"
+            },
+            {
+              "id": 122,
+              "name": "Bat Khela",
+              "short_name": "BKL"
+            },
+            {
+              "id": 123,
+              "name": "Battagram",
+              "short_name": "BGM"
+            },
+            {
+              "id": 124,
+              "name": "Charsadda",
+              "short_name": "CSD"
+            },
+            {
+              "id": 125,
+              "name": "Chenab Nagar",
+              "short_name": "CBN"
+            },
+            {
+              "id": 126,
+              "name": "Chishtian",
+              "short_name": "CSN"
+            },
+            {
+              "id": 127,
+              "name": "Chuchar-kana Mandi",
+              "short_name": "CHM"
+            },
+            {
+              "id": 128,
+              "name": "Chunian",
+              "short_name": "CHN"
+            },
+            {
+              "id": 129,
+              "name": "Daska Kalan",
+              "short_name": "DSK"
+            },
+            {
+              "id": 130,
+              "name": "Dipalpur",
+              "short_name": "DPR"
+            },
+            {
+              "id": 131,
+              "name": "Dullewala",
+              "short_name": "DLA"
+            },
+            {
+              "id": 132,
+              "name": "Gojra",
+              "short_name": "GJA"
+            },
+            {
+              "id": 133,
+              "name": "Gujar Khan",
+              "short_name": "GKN"
+            },
+            {
+              "id": 134,
+              "name": "Hadali",
+              "short_name": "HDL"
+            },
+            {
+              "id": 135,
+              "name": "Harunabad",
+              "short_name": "HNB"
+            },
+            {
+              "id": 136,
+              "name": "Hasilpur",
+              "short_name": "HLP"
+            },
+            {
+              "id": 137,
+              "name": "Hujra Shah Muqim",
+              "short_name": "HSM"
+            },
+            {
+              "id": 138,
+              "name": "Jalalpur Jattan",
+              "short_name": "JJT"
+            },
+            {
+              "id": 139,
+              "name": "Jampur",
+              "short_name": "JPR"
+            },
+            {
+              "id": 140,
+              "name": "Jaranwala",
+              "short_name": "JWL"
+            },
+            {
+              "id": 141,
+              "name": "Kabirwala",
+              "short_name": "KWL"
+            },
+            {
+              "id": 142,
+              "name": "Kahna Nau",
+              "short_name": "KNU"
+            },
+            {
+              "id": 143,
+              "name": "Kahror Pakka",
+              "short_name": "KPA"
+            },
+            {
+              "id": 144,
+              "name": "Kamalia",
+              "short_name": "KML"
+            },
+            {
+              "id": 145,
+              "name": "Kambar",
+              "short_name": "KMB"
+            },
+            {
+              "id": 146,
+              "name": "Kamra",
+              "short_name": "KMR"
+            },
+            {
+              "id": 147,
+              "name": "Kandhkot",
+              "short_name": "KDK"
+            },
+            {
+              "id": 148,
+              "name": "Khanpur",
+              "short_name": "KPR"
+            },
+            {
+              "id": 149,
+              "name": "Khushab",
+              "short_name": "KHB"
+            },
+            {
+              "id": 150,
+              "name": "Kohat",
+              "short_name": "KHT"
+            },
+            {
+              "id": 151,
+              "name": "Kot Addu",
+              "short_name": "KDU"
+            },
+            {
+              "id": 152,
+              "name": "Kot Radha Kishan",
+              "short_name": "KRK"
+            },
+            {
+              "id": 153,
+              "name": "Kotri",
+              "short_name": "KTI"
+            },
+            {
+              "id": 154,
+              "name": "Layyah",
+              "short_name": "LYH"
+            },
+            {
+              "id": 155,
+              "name": "Lodhran",
+              "short_name": "LDH"
+            },
+            {
+              "id": 156,
+              "name": "Mailsi",
+              "short_name": "MLS"
+            },
+            {
+              "id": 157,
+              "name": "Mandi Bahauddin",
+              "short_name": "MBN"
+            },
+            {
+              "id": 158,
+              "name": "Matli",
+              "short_name": "MLI"
+            },
+            {
+              "id": 159,
+              "name": "Mian Channun",
+              "short_name": "MCN"
+            },
+            {
+              "id": 160,
+              "name": "Mingora",
+              "short_name": "MGR"
+            },
+            {
+              "id": 161,
+              "name": "Mirpur Mathelo",
+              "short_name": "MMO"
+            },
+            {
+              "id": 162,
+              "name": "Moro",
+              "short_name": "MRO"
+            },
+            {
+              "id": 163,
+              "name": "Muridke",
+              "short_name": "MDK"
+            },
+            {
+              "id": 164,
+              "name": "Mustafabad",
+              "short_name": "MSB"
+            },
+            {
+              "id": 165,
+              "name": "Muzaffarabad",
+              "short_name": "MFB"
+            },
+            {
+              "id": 166,
+              "name": "Muzaffargarh",
+              "short_name": "MGH"
+            },
+            {
+              "id": 167,
+              "name": "Nawabshah",
+              "short_name": "NWS"
+            },
+            {
+              "id": 168,
+              "name": "Nowshera",
+              "short_name": "NSH"
+            },
+            {
+              "id": 169,
+              "name": "Pakpattan",
+              "short_name": "PPN"
+            },
+            {
+              "id": 170,
+              "name": "Pasrur",
+              "short_name": "PSR"
+            },
+            {
+              "id": 171,
+              "name": "Rajanpur",
+              "short_name": "RNP"
+            },
+            {
+              "id": 172,
+              "name": "Ratodero",
+              "short_name": "RDO"
+            },
+            {
+              "id": 173,
+              "name": "Rawala Kot",
+              "short_name": "RKT"
+            },
+            {
+              "id": 174,
+              "name": "Rohri",
+              "short_name": "RHI"
+            },
+            {
+              "id": 175,
+              "name": "Sambrial",
+              "short_name": "SMB"
+            },
+            {
+              "id": 176,
+              "name": "Sanghar",
+              "short_name": "SGR"
+            },
+            {
+              "id": 177,
+              "name": "Sangla Hill",
+              "short_name": "SGH"
+            },
+            {
+              "id": 178,
+              "name": "Sarai Alamgir",
+              "short_name": "SIA"
+            },
+            {
+              "id": 179,
+              "name": "Sehwan",
+              "short_name": "SWN"
+            },
+            {
+              "id": 180,
+              "name": "Shabqadar",
+              "short_name": "SQR"
+            },
+            {
+              "id": 181,
+              "name": "Shahdad Kot",
+              "short_name": "SDK"
+            },
+            {
+              "id": 182,
+              "name": "Shahdadpur",
+              "short_name": "SPR"
+            },
+            {
+              "id": 183,
+              "name": "Shahkot",
+              "short_name": "SHT"
+            },
+            {
+              "id": 184,
+              "name": "Shakargarh",
+              "short_name": "SKG"
+            },
+            {
+              "id": 185,
+              "name": "Shikarpur",
+              "short_name": "SHK"
+            },
+            {
+              "id": 186,
+              "name": "Shujaabad",
+              "short_name": "SJD"
+            },
+            {
+              "id": 187,
+              "name": "Swabi",
+              "short_name": "SWB"
+            },
+            {
+              "id": 188,
+              "name": "Talagang",
+              "short_name": "TGN"
+            },
+            {
+              "id": 189,
+              "name": "Tando Adam",
+              "short_name": "TND"
+            },
+            {
+              "id": 190,
+              "name": "Tando Allahyar",
+              "short_name": "TYR"
+            },
+            {
+              "id": 191,
+              "name": "Tando Muhammad Khan",
+              "short_name": "TMK"
+            },
+            {
+              "id": 192,
+              "name": "Taunsa",
+              "short_name": "TNA"
+            },
+            {
+              "id": 193,
+              "name": "Thatta",
+              "short_name": "TTA"
+            },
+            {
+              "id": 194,
+              "name": "Turbat",
+              "short_name": "TBT"
+            },
+            {
+              "id": 195,
+              "name": "Umarkot",
+              "short_name": "UMT"
+            },
+            {
+              "id": 196,
+              "name": "Usta Muhammad",
+              "short_name": "UMD"
+            },
+            {
+              "id": 197,
+              "name": "Vihari",
+              "short_name": "VRI"
+            },
+            {
+              "id": 198,
+              "name": "Jatoi Shimali",
+              "short_name": "JSL"
+            },
+            {
+              "id": 199,
+              "name": "bhimbar",
+              "short_name": "BHB"
+            },
+            {
+              "id": 200,
+              "name": "Khanewal",
+              "short_name": "KNL"
+            },
+            {
+              "id": 201,
+              "name": "Dera Bugti",
+              "short_name": "DBT"
+            },
+            {
+              "id": 202,
+              "name": "Taxila",
+              "short_name": "TXL"
+            },
+            {
+              "id": 203,
+              "name": "Phalia",
+              "short_name": "PLA"
+            },
+            {
+              "id": 204,
+              "name": "Mir Pur",
+              "short_name": "MRPR"
+            }
+          ],
+          "is_bookmarked": true,
+          "city_context_message": ""
+        },
+        "is_current_city": true
+      }
+    },
+    {
+      "id": 37,
+      "slug": "cashback_description",
+      "title": "Cashback Terms",
+      "fetch_url": "",
+      "endpoint": "",
+      "mixpanel_type": "",
+      "sub_type": "",
+      "sub_title": "",
+      "is_see_all_shown": false,
+      "is_personalized": false,
+      "type": "cashback_description",
+      "group": "",
+      "sortable_status": 6,
+      "items": {
+        "text": "<p>- Applicable on Foodpanda, Pandamart &amp; shops as well</p>\r\n<p>- Applicable on Delivery &amp; Pick-up</p>\r\n<p>- Go to foodpanda app through savyour app for every order. Multiple orders per session are not allowed.</p>"
+      }
+    },
+    {
+      "id": 38,
+      "slug": "similar_cashback_brands",
+      "title": "You May Also Like",
+      "fetch_url": "https://secure.savyour.com.pk/v6/brand-outlets/900/similar-cashback-brands-gcp/38",
+      "endpoint": "",
+      "mixpanel_type": "outletClicked",
+      "sub_type": "small",
+      "sub_title": "",
+      "is_see_all_shown": false,
+      "is_personalized": true,
+      "type": "brand",
+      "group": "",
+      "sortable_status": 7,
+      "items": []
+    },
+    {
+      "id": 39,
+      "slug": "category",
+      "title": "Found In",
+      "fetch_url": "",
+      "endpoint": "",
+      "mixpanel_type": "categoryClicked",
+      "sub_type": "medium",
+      "sub_title": "",
+      "is_see_all_shown": false,
+      "is_personalized": false,
+      "type": "category",
+      "group": "",
+      "sortable_status": 8,
+      "items": [
+        {
+          "id": 6,
+          "name": "Restaurants & Eateries",
+          "image": "https://assets.savyour.com/brand-categories/6/medium/8ULqXFi2zfxMccqyF8kcuYPTGojBrUpSFigf9Gwn.png",
+          "slug": "restaurants-eateries-category"
+        },
+        {
+          "id": 87,
+          "name": "Stores & Grocery",
+          "image": "https://assets.savyour.com/brand-categories/87/medium/FcbQVAgU6L1Q6H9xUiDflzS8qaFZW5Qe0Qyos1Y7.png",
+          "slug": "stores-grocery-category"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "slug": "review",
+      "title": "",
+      "fetch_url": "https://secure.savyour.com.pk/v6/brand-outlets/900/ratings-reviews",
+      "endpoint": "",
+      "mixpanel_type": "review",
+      "sub_type": "",
+      "sub_title": "",
+      "is_see_all_shown": false,
+      "is_personalized": false,
+      "type": "review",
+      "group": "",
+      "sortable_status": 9,
+      "items": []
+    }
+  ]
+}
