@@ -48,7 +48,7 @@ See All Brand|https://api-staging.savyour.com.pk/v6/brands/sections/promotional?
 ↑ Pagination|https://api-staging.savyour.com.pk/v6/brands/types/promotional|-|-
 See All Product|-|-|-
 ↑ Pagination|https://api-staging.savyour.com.pk/v6/list/products/best_seller|[Old](/v6/see-all-product.json)|[New](/v15/see-all-product.json)
-See All Value|https://api-staging.savyour.com/api/v1/values/see-all|✖️|-
+See All Value|https://api-staging.savyour.com/api/v1/values/see-all|✖️|✅
 See All Special Brand|⚠️ not a part of beta release|-|[New](/v15/special-brand.json)
 See All Campaign|⚠️ not a part of beta release|-|-
 🔗|🔗 **`SAVYOUR CAMPAIGN (SPECIAL BRAND)`** 🔗|🔗|🔗
