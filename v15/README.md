@@ -27,7 +27,7 @@ Profile|https://api-staging.savyour.com/api/v6/users|-|-
 🔗|🔗 **`POPUPS`** 🔗|🔗|🔗
 Popups|-|-|-
 🔗|🔗 **`BRAND DETAIL`** 🔗|🔗|🔗
-Brand Detail|-|-|-
+Brand Detail|-|[Old](/v6/brand-detail.json)|[New](/v15/brand-detail.json)
 🔗|🔗 **`PRODUCT DETAIL`** 🔗|🔗|🔗
 Product Detail|https://api-staging.savyour.com.pk/v6/products/vodacom-7000-tzs-mobile-top-up-tz|[Old](/v6/product-detail.json)|[New](/v15/product-detail.json)
 🔗|🔗 **`VALUE DETAIL`** 🔗|🔗|🔗
