@@ -33,7 +33,10 @@ Product Detail|https://api-staging.savyour.com.pk/v6/products/vodacom-7000-tzs-m
 🔗|🔗 **`VALUE DETAIL`** 🔗|🔗|🔗
 Value Detail|https://api-staging.savyour.com/api/v1/values/reusability|✖️|[New](/v15/valuedetail.json) ✅
 🔗|🔗 **`WALLET`** 🔗|🔗|🔗
-Wallet|-|-|-
+Wallet|https://api-staging.savyour.com/api/v6/wallet|-|-
+Pending|https://api-staging.savyour.com/api/v6/wallet/pending?limit=10|-|-
+Approved|https://api-staging.savyour.com/api/v6/wallet/approved?limit=10|-|-
+Declined|https://api-staging.savyour.com/api/v6/wallet/declined?limit=10|-|-
 🔗|🔗 **`SEE ALL`** 🔗|🔗|🔗
 See All Product|https://api-staging.savyour.com.pk/v6/list/products/best_seller|[Old](/v6/see-all-products.json)|[New](/v15/see-all-products.json)
 See All Brands|-|-|[New](/v15/see-all-brand.json)
