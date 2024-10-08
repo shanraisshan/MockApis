@@ -50,7 +50,7 @@ See All Product|-|-|-
 ↑ Pagination|https://api-staging.savyour.com.pk/v6/list/products/best_seller|[Old](/v6/see-all-product.json)|[New](/v15/see-all-product.json)
 See All Value|https://api-staging.savyour.com/api/v1/values/see-all|✖️|✅
 See All Special Brand|⚠️ not a part of beta release|-|[New](/v15/special-brand.json)
-See All Campaign|⚠️ not a part of beta release|-|-
+See All Campaign|⚠️ not a part of beta release|[Old](/v6/see-all-campaign.json)|[New](/v15/see-all-campaign.json)
 🔗|🔗 **`SAVYOUR CAMPAIGN (SPECIAL BRAND)`** 🔗|🔗|🔗
 -|⚠️ not a part of beta release|-|[New](/v15/specialbrand.json)
 🔗|🔗 **`BRAND CAMPAIGN (HOT DEAL)`** 🔗|🔗|🔗
