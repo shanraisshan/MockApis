@@ -34,6 +34,8 @@ Profile|https://api-staging.savyour.com/api/v6/users|-|-
 Popups|https://api-staging.savyour.com/api/v6/users/popup|-|-
 🔗|🔗 **`BRAND DETAIL`** 🔗|🔗|🔗
 Brand Detail|https://api-staging.savyour.com/api/v6/brand-outlets/67|[Old](/v6/brand-detail.json)|[New](/v15/brand-detail.json)
+🔗|🔗 **`ACTIVATION`** 🔗|🔗|🔗
+Activation|https://api-staging.savyour.com/api/v6/brand-outlets/67/cashback|-|-
 🔗|🔗 **`PRODUCT DETAIL`** 🔗|🔗|🔗
 Product Detail|https://api-staging.savyour.com.pk/v6/products/vodacom-7000-tzs-mobile-top-up-tz|[Old](/v6/product-detail.json)|[New](/v15/product-detail.json)
 🔗|🔗 **`VALUE DETAIL`** 🔗|🔗|🔗
