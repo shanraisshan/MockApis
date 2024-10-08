@@ -1,0 +1,392 @@
+{
+    "success": true,
+    "message": "",
+    "data": {
+        "brand": {
+            "id": 3782,
+            "slug": "aliexpress-brand",
+            "order_count": 648959,
+            "highest_current_cashback": 3.6,
+            "highest_cashback_instore": 0,
+            "highest_cashback_outlet": "online",
+            "name": "AliExpress",
+            "fb_category_level_1": null,
+            "fb_category_level_2": null,
+            "fb_category_level_3": null,
+            "original_logo": "https://assets.savyour.com/brands/3782/lnVtb5kfb7JjfAnsxFFUee4xxPXTnLn3Id4bx0gb.png",
+            "banner": "https://assets.savyour.com/brands/3782/51JiLddvSKHMV8IjHVHVVcDsUi8HbmKtChyJTXPD.jpg",
+            "identity_logo": "https://assets.savyour.com/brands/3782/wxpWYcT8Q5CptvQCs6qYr2PgEJO7iRsXUy2Ay5SD.png",
+            "logo": "https://assets.savyour.com/brands/3782/1687007771.png",
+            "kv_image": "https://assets.savyour.com/brands/3782/1689675832.png",
+            "meta_title": "Unlock Savings on AliExpress pk offering Cashback Upto 3.6%. Act Fast, Save more!",
+            "meta_description": "Explore the diverse offerings from AliExpress pk. Place your orders now and earn enticing cashback Upto 3.6%",
+            "identifier": "aliexpress.com",
+            "type": "primary",
+            "business_category": {
+                "id": 7,
+                "name": "Market Place"
+            },
+            "categories": [
+                {
+                    "id": 7,
+                    "name": "Fashion",
+                    "slug": "fashion-category",
+                    "meta_title": "Vegan Safe Fashion Products in [COUNTRY] by Savyour",
+                    "meta_description": "Savyour is your one-stop shop for trendy and stylish fashion in [COUNTRY]. Discover clothing, shoes, and accessories for men, women, and kids.",
+                    "share_msg": "",
+                    "share_url": "https://savyour.app/bXdDq",
+                    "image": "https://assets.savyour.com/brand-categories/7/medium/6hmoOLLdI6GGe17d1qomBVbjTIgQLCkDb9mzgRwv.png",
+                    "subcategories": [
+                        {
+                            "id": 14,
+                            "name": "Men",
+                            "slug": "men",
+                            "meta_title": "Vegan Safe Men’s Fashion Products in [COUNTRY] at Savyour",
+                            "meta_description": "Level up your style with Savyour's ([COUNTRY]) wide collection of men's fashion. Find trendy clothing, shoes, and accessories to suit your taste.",
+                            "share_msg": null,
+                            "share_url": "https://savyour.app/P5fQE",
+                            "image": "https://assets.savyour.com/brand-subcategories/14/medium/72d7yGbIrGBLhImnhQjokA2ObgcLwBpiKyHdjB8X.png"
+                        },
+                        {
+                            "id": 15,
+                            "name": "Women",
+                            "slug": "women",
+                            "meta_title": "Vegan Safe Women’s Fashion Products in [COUNTRY] at Savyour",
+                            "meta_description": "Dress to impress with Savyour's trendy women's fashion collection. Find clothing, shoes, and accessories to create your perfect look.",
+                            "share_msg": null,
+                            "share_url": "https://savyour.app/JjRgC",
+                            "image": "https://assets.savyour.com/brand-subcategories/15/medium/8Qg77cCunPWGcU7lqV1NYTB6U8bqsjIjn9qApZRl.png"
+                        },
+                        {
+                            "id": 16,
+                            "name": "Kids",
+                            "slug": "kids",
+                            "meta_title": "Vegan Safe Kids' Fashion Products in [COUNTRY] at Savyour",
+                            "meta_description": "Dress your little ones in adorable and comfortable outfits from Savyour's ([COUNTRY]) kids' fashion collection. Find trendy clothes for all ages.",
+                            "share_msg": null,
+                            "share_url": "https://savyour.app/MjElq",
+                            "image": "https://assets.savyour.com/brand-subcategories/16/medium/IXAA4G2Qdug1b3H74zTfLp9LICBT4tXPBQS8217j.png"
+                        },
+                        {
+                            "id": 17,
+                            "name": "Home",
+                            "slug": "kids-shoes",
+                            "meta_title": "Vegan Safe Kids Shoes in [COUNTRY] at Savyour",
+                            "meta_description": "Outfit your little ones in stylish and comfortable shoes from Savyour ([COUNTRY]). Explore a variety of brands and styles to suit their needs.",
+                            "share_msg": null,
+                            "share_url": "https://savyour.app/znb4D",
+                            "image": "https://assets.savyour.com/brand-subcategories/17/medium/1wYdDTxjzfoFqIacL3jth3PqQ8SSSQbm6thCqdsR.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 94,
+                    "name": "Mobile Phones & Electronics",
+                    "slug": "mobile-phones-electronics-category",
+                    "meta_title": "Premium Mobile Phones & Electronics in [COUNTRY] at Savyour",
+                    "meta_description": "Looking for the latest smartphones, laptops, or other gadgets in [COUNTRY]? Savyour offers a wide selection of electronics at competitive prices.",
+                    "share_msg": "",
+                    "share_url": "https://savyour.app/qV6O6",
+                    "image": "https://assets.savyour.com/brand-categories/94/medium/ulBOMqzidvoPsxwNrvusGeP5qrVsxbdQC6jnRZGb.jpg",
+                    "subcategories": [
+                        {
+                            "id": 1,
+                            "name": "Television",
+                            "slug": "television",
+                            "meta_title": "Premium LED's and Television in [COUNTRY] at Savyour",
+                            "meta_description": "Upgrade your entertainment with a new TV from Savyour. Explore a wide range of sizes, features, and brands.",
+                            "share_msg": null,
+                            "share_url": "https://savyour.app/mWbcg",
+                            "image": "https://savyour.com/assets/vendor/images/NoImage.png"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Other Gadgets",
+                            "slug": "other-gadgets",
+                            "meta_title": "Premium Electronic Gadgets in [COUNTRY] at Savyour",
+                            "meta_description": "Explore gadgets beyond smartphones and laptops on Savyour ([COUNTRY]). Find headphones, smart speakers, and more.",
+                            "share_msg": null,
+                            "share_url": "https://savyour.app/GvWXh",
+                            "image": "https://savyour.com/assets/vendor/images/NoImage.png"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Laptops & Tablets",
+                            "slug": "laptops-tablets",
+                            "meta_title": "Premium Laptops & Tablets in [COUNTRY] at Savyour",
+                            "meta_description": "Find the perfect laptop or tablet on Savyour. Explore a variety of brands and features to meet your needs.",
+                            "share_msg": null,
+                            "share_url": "https://savyour.app/rrY7M",
+                            "image": "https://savyour.com/assets/vendor/images/NoImage.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "name": "Beauty & Personal Care",
+                    "slug": "beauty-personal-care-category",
+                    "meta_title": "Organic Beauty & Personal Care Products in [COUNTRY] at Savyour",
+                    "meta_description": "Discover beauty essentials and personal care products in the [COUNTRY]. From makeup to skincare, find all your favorite brands at unbeatable prices on Savyour.",
+                    "share_msg": "",
+                    "share_url": "https://savyour.app/Gan4b",
+                    "image": "https://assets.savyour.com/brand-categories/11/medium/WyKJVMCNU8YR5g8TNZXjFrBVyFFUxKIqn2OHliYJ.png",
+                    "subcategories": [
+                        {
+                            "id": 10,
+                            "name": "Personal Care",
+                            "slug": "personal-care",
+                            "meta_title": "Organic Personal Care Products in [COUNTRY] at Savyour",
+                            "meta_description": "Pamper yourself with top-rated personal care products in [COUNTRY] on Savyour. Find essential hygiene and wellness items at attractive prices.",
+                            "share_msg": null,
+                            "share_url": "https://savyour.app/BAi38",
+                            "image": "https://assets.savyour.com/brand-subcategories/10/medium/SI3HyNrNYbjQZkzGet5hkuHnQPgSvnNzc8LkbWqI.png"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Makeup",
+                            "slug": "makeup",
+                            "meta_title": "Organic Makeup Products in [COUNTRY] by Savyour",
+                            "meta_description": "Unleash your inner makeup artist with Savyour ([COUNTRY]). Explore a vast selection of makeup products from top brands to create stunning looks.",
+                            "share_msg": null,
+                            "share_url": "https://savyour.app/FIdaN",
+                            "image": "https://assets.savyour.com/brand-subcategories/12/medium/4lXtFtyWYstflLRaBIjbnhK4SPoKvoDmsiw0OaAx.png"
+                        },
+                        {
+                            "id": 13,
+                            "name": "Men's Care",
+                            "slug": "mens-care",
+                            "meta_title": "Organic Men’s Care Products in [COUNTRY] at Savyour",
+                            "meta_description": "Discover a range of men's care products on Savyour. Find shaving essentials, skincare products, and more.",
+                            "share_msg": null,
+                            "share_url": "https://savyour.app/UUJk8",
+                            "image": "https://savyour.com/assets/vendor/images/NoImage.png"
+                        },
+                        {
+                            "id": 18,
+                            "name": "Skin Care",
+                            "slug": "skin-care",
+                            "meta_title": "Organic Skin Care Products in [COUNTRY] at Savyour",
+                            "meta_description": "Achieve radiant skin with Savyour's curated skincare selection. Find cleansers, moisturizers, serums, and more for healthy, glowing skin.",
+                            "share_msg": null,
+                            "share_url": "https://savyour.app/AqCyk",
+                            "image": "https://assets.savyour.com/brand-subcategories/18/medium/7IbSVxqWGf6E5egOoy1yXvNvyF8wtojxyURhKbmS.png"
+                        },
+                        {
+                            "id": 19,
+                            "name": "Hair Care",
+                            "slug": "hair-care",
+                            "meta_title": "Organic Hair Care Products in [COUNTRY] at Savyour",
+                            "meta_description": "Nourish your locks with Savyour's hair care selection. Find shampoos, conditioners, and styling products for all hair types.",
+                            "share_msg": null,
+                            "share_url": "https://savyour.app/BcwN0",
+                            "image": "https://assets.savyour.com/brand-subcategories/19/medium/oGUFIfJJZlLq3pKkPerNkHQiA9mBjAhz8Vp5ktdI.png"
+                        },
+                        {
+                            "id": 20,
+                            "name": "Fragrances",
+                            "slug": "fragrances",
+                            "meta_title": "Organic Fragrances in [COUNTRY] at Savyour",
+                            "meta_description": "Find your signature scent or the perfect gift with Savyour's fragrance collection. Explore perfumes, colognes, and body mists.",
+                            "share_msg": null,
+                            "share_url": "https://savyour.app/OKKMT",
+                            "image": "https://assets.savyour.com/brand-subcategories/20/medium/e0EPEgOEJWIktXgNNYKMt4qj9GGtfb2Pf6DbtZRT.png"
+                        },
+                        {
+                            "id": 21,
+                            "name": "Beauty tools",
+                            "slug": "beauty-tools",
+                            "meta_title": "Organic Beauty Tools in [COUNTRY] at Savyour",
+                            "meta_description": "Elevate your beauty routine with essential tools from Savyour ([COUNTRY]). Find brushes, applicators, and other tools to achieve flawless makeup looks.",
+                            "share_msg": null,
+                            "share_url": "https://savyour.app/mr2jL",
+                            "image": "https://assets.savyour.com/brand-subcategories/21/medium/grlxeeU51z1rg0jTzW1PTkhaYX6qJ3JfULQyw85C.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 102,
+                    "name": "International Stores",
+                    "slug": "international-stores-category",
+                    "meta_title": "Get Amazing Cashbacks on International Brands with Savyour.",
+                    "meta_description": "Avail deals and discounts PLUS exclusive Cashback on brands when you shop via Savyour!",
+                    "share_msg": "",
+                    "share_url": "https://savyour.app/g21Lp",
+                    "image": "https://assets.savyour.com/brand-categories/102/medium/iJImXAR45ITSgPWL5iy4up9DbcOkL94Wjtx7qBdQ.png",
+                    "subcategories": []
+                }
+            ],
+            "tier": "Tier 1",
+            "brand_view_fifteen_days": 1510,
+            "brand_view_seven_days": 696,
+            "order_completed_fifteen_days": 0,
+            "order_completed_seven_days": 0,
+            "order_placed_fifteen_days": 330,
+            "order_placed_seven_days": 208,
+            "values": [
+                {
+                    "name": "personal",
+                    "value": "AliExpress is a global e-commerce retail platform that makes it easy for sellers to start an online store and reach millions of buyers around the world.",
+                    "status": "neutral"
+                },
+                {
+                    "name": "social",
+                    "value": "AliExpress's mission is to help SMEs succeed and make business easier anywhere.",
+                    "status": "yes"
+                },
+                {
+                    "name": "emotional",
+                    "value": "AliExpress offers a platform for buyers and sellers to connect and complete transactions, providing a sense of satisfaction and convenience.",
+                    "status": "yes"
+                },
+                {
+                    "name": "eco-friendly",
+                    "value": "AliExpress does not provide specific information about eco-friendly practices, but they do offer a Compliance Guide for law enforcement and regulatory compliance.",
+                    "status": "neutral"
+                },
+                {
+                    "name": "sustainable",
+                    "value": "AliExpress does not provide specific information about sustainable practices, but they do support local currencies in 51 countries and offer a range of payment channels.",
+                    "status": "neutral"
+                },
+                {
+                    "name": "recyclable",
+                    "value": "AliExpress does not provide specific information about recycling practices, but they do offer reduced material use and recyclability in their sustainable packaging.",
+                    "status": "yes"
+                },
+                {
+                    "name": "sustainable-packaging",
+                    "value": "AliExpress offers sustainable packaging options, including reduced material use, recyclability, and reusability.",
+                    "status": "yes"
+                },
+                {
+                    "name": "energy-efficient",
+                    "value": "AliExpress does not provide specific information about energy efficiency practices.",
+                    "status": "neutral"
+                },
+                {
+                    "name": "renewable",
+                    "value": "AliExpress does not provide specific information about renewable materials or practices.",
+                    "status": "neutral"
+                },
+                {
+                    "name": "free-delivery",
+                    "value": "AliExpress offers free opening of stores for sellers and fast, stable payments for transactions.",
+                    "status": "yes"
+                }
+            ],
+            "outlet": {
+                "id": 2054,
+                "slug": "aliexpress-online",
+                "name": "Online",
+                "terms_and_condition": "",
+                "type": "online",
+                "share_url": "https://savyour.app/BPjy7",
+                "rating": 4.6,
+                "rating_count": 904,
+                "review_count": 453,
+                "share_msg": "Order now & save more with upto 3.6% on AliExpress. Shop through the link below",
+                "cashback": {
+                    "categories": [
+                        {
+                            "category": "Women's clothing",
+                            "discount_type": "percentage",
+                            "current_cashback": 3.6,
+                            "previous_cashback": 0,
+                            "previous_discount_type": "percentage"
+                        },
+                        {
+                            "category": "Men's clothing",
+                            "discount_type": "percentage",
+                            "current_cashback": 3.6,
+                            "previous_cashback": 0,
+                            "previous_discount_type": "percentage"
+                        },
+                        {
+                            "category": "Mother & kids",
+                            "discount_type": "percentage",
+                            "current_cashback": 3.6,
+                            "previous_cashback": 0,
+                            "previous_discount_type": "percentage"
+                        },
+                        {
+                            "category": "Automobiles, parts & accessories",
+                            "discount_type": "percentage",
+                            "current_cashback": 3.6,
+                            "previous_cashback": 0,
+                            "previous_discount_type": "percentage"
+                        },
+                        {
+                            "category": "Home & garden",
+                            "discount_type": "percentage",
+                            "current_cashback": 3.6,
+                            "previous_cashback": 0,
+                            "previous_discount_type": "percentage"
+                        },
+                        {
+                            "category": "Computer & office",
+                            "discount_type": "percentage",
+                            "current_cashback": 1.2,
+                            "previous_cashback": 0,
+                            "previous_discount_type": "percentage"
+                        },
+                        {
+                            "category": "Consumer electronics",
+                            "discount_type": "percentage",
+                            "current_cashback": 1.2,
+                            "previous_cashback": 0,
+                            "previous_discount_type": "percentage"
+                        },
+                        {
+                            "category": "Phones & telecommunications",
+                            "discount_type": "percentage",
+                            "current_cashback": 1.2,
+                            "previous_cashback": 0,
+                            "previous_discount_type": "percentage"
+                        }
+                    ],
+                    "redirect_url": "https://s.click.aliexpress.com/e/_DkKTAzH?af=savyour&dp=savyour-5a6f6661706b466979386b387079695468366c5373773d3d-1728386082-pk&utm_source=savyour&utm_medium=referral&utm_campaign=affiliate_program",
+                    "description": "",
+                    "current_cashback": 3.6,
+                    "discount_type": "percentage",
+                    "previous_cashback": 0,
+                    "previous_discount_type": "percentage",
+                    "upto": true,
+                    "scheme_url": "",
+                    "banner_image": null,
+                    "redirection_type": "external",
+                    "max_user_commission": "Max : No limit",
+                    "max_order_cap": 0,
+                    "average_cashback_days": "Avg. Cashback time: 70 days",
+                    "cashback_days": "70 days",
+                    "is_showing": true,
+                    "special_brands_detail": {},
+                    "affiliate": {
+                        "id": 12,
+                        "name": "Aliexpress",
+                        "slug": "aliexpress"
+                    },
+                    "order_placed": "Today",
+                    "notified_in": "3 Hrs",
+                    "animation_info": {
+                        "title": "AliExpress",
+                        "sub_title": "Activated",
+                        "description": "Cashback is available in the following categories only",
+                        "fulfilled_by_text": ""
+                    }
+                },
+                "is_bookmarked": false
+            },
+            "monochrome_logo": "https://assets.savyour.com/brands/3782/1687007771.png",
+            "user": {}
+        },
+        "popup_redirectional_disclaimer": {
+            "title": "Disclaimer",
+            "option": "Don't ask again",
+            "btn_ctas": [
+                "OK, I Understand"
+            ],
+            "message": "We are redirecting you to AliExpress's app/website, shop as usual and your cashback will automatically be transferred in your savyour wallet."
+        },
+        "savyour_logo": "https://assets.savyour.com/assets/images/logo/savyour.svg"
+    }
+}
