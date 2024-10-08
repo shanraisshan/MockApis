@@ -20,27 +20,26 @@ Popular Suggestion|https://api-staging.savyour.com/api/v1/search/suggestion|-|�
 Auto Suggest|https://api-staging.savyour.com/api/v1/search/auto-suggest?keyword=a|-|✅
 Search|https://api-staging.savyour.com/api/v1/search?keyword=Apple|-|✅
 🔗|🔗 **`CATEGORY`** 🔗|🔗|🔗
--|-|-|-
-🔗|🔗 **`SUB-CATEGORY`** 🔗|🔗|🔗
--|-|-|-
+Category|-|-|-
+Sub-Category|-|-|-
 🔗|🔗 **`PROFILE`** 🔗|🔗|🔗
--|-|-|-
+Profile|https://api-staging.savyour.com/api/v6/users|-|-
 🔗|🔗 **`POPUPS`** 🔗|🔗|🔗
--|-|-|-
-🔗|🔗 **`SEE ALL`** 🔗|🔗|🔗
-See All Product|https://api-staging.savyour.com.pk/v6/list/products/best_seller|[Old](/v6/see-all-products.json)|[New](/v15/see-all-products.json)
-See All Brands|-|-|[New](/v15/see-all-brand.json)
-See All Values|-|-|-
-See All Special Brands|⚠️ not a part of beta release|-|[New](/v15/specialbrand.json)
-See All Campaign|⚠️ not a part of beta release|-|-
+Popups|-|-|-
 🔗|🔗 **`BRAND DETAIL`** 🔗|🔗|🔗
--|-|-|-
+Brand Detail|-|-|-
 🔗|🔗 **`PRODUCT DETAIL`** 🔗|🔗|🔗
 Product Detail|https://api-staging.savyour.com.pk/v6/products/vodacom-7000-tzs-mobile-top-up-tz|[Old](/v6/product-detail.json)|[New](/v15/product-detail.json)
 🔗|🔗 **`VALUE DETAIL`** 🔗|🔗|🔗
--|-|-|[New](/v15/valuedetail.json)
+Value Detail|https://api-staging.savyour.com/api/v1/values/reusability|✖️|[New](/v15/valuedetail.json) ✅
 🔗|🔗 **`WALLET`** 🔗|🔗|🔗
--|-|-|-
+Wallet|-|-|-
+🔗|🔗 **`SEE ALL`** 🔗|🔗|🔗
+See All Product|https://api-staging.savyour.com.pk/v6/list/products/best_seller|[Old](/v6/see-all-products.json)|[New](/v15/see-all-products.json)
+See All Brands|-|-|[New](/v15/see-all-brand.json)
+See All Values|-|✖️|-
+See All Special Brands|⚠️ not a part of beta release|-|[New](/v15/specialbrand.json)
+See All Campaign|⚠️ not a part of beta release|-|-
 🔗|🔗 **`SAVYOUR CAMPAIGN (SPECIAL BRAND)`** 🔗|🔗|🔗
 -|⚠️ not a part of beta release|-|[New](/v15/specialbrand.json)
 🔗|🔗 **`BRAND CAMPAIGN (HOT DEAL)`** 🔗|🔗|🔗
