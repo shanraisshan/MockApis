@@ -48,7 +48,7 @@ Declined|https://api-staging.savyour.com/api/v6/wallet/declined?limit=10|-|-
 🔗|🔗 **`SEE ALL`** 🔗|🔗|🔗
 See All Brand|https://api-staging.savyour.com.pk/v6/brands/sections/promotional?title=top+20|-|[New](/v15/see-all-brand.json)
 ↑ Pagination|https://api-staging.savyour.com.pk/v6/brands/types/promotional|-|-
-See All Product|-|-|-
+See All Product|https://api-staging.savyour.com.pk/v6/product/section/see-all|-|-
 ↑ Pagination|https://api-staging.savyour.com.pk/v6/list/products/best_seller|[Old](/v6/see-all-product.json)|[New](/v15/see-all-product.json)
 See All Value|https://api-staging.savyour.com/api/v1/values/see-all|✖️|✅
 See All Special Brand|⚠️ not a part of beta release|-|[New](/v15/special-brand.json)
