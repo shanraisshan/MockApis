@@ -1,5 +1,7 @@
 # API ROUTES
 
+### Changes: [Global Document](https://docs.google.com/document/d/11RWNM88lzEha-3A6Sn53ZDI__AyrqG6eo1NoF9Ezl-M/edit#heading=h.z6ne0og04bp5)
+
 Name|Routes|Old Response|New Response
 -|-|-|-
 🔗|🔗 **`OTHERS`** 🔗|🔗|🔗
