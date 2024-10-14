@@ -70,7 +70,24 @@
       "end_date": "",
       "fetch_url": "",
       "see_all_type": "",
-      "items": []
+                  "items": {
+                "id": 6,
+                "title": "<p>Join Our <span style=\"color:#b6de79;\">Sustainable Community</span></p>",
+                "background_image": "https://staging-assets.savyour.com/assets/eWd7fTpdnresUmRLqLrlHYQYn93qu4iNlUctdwOM.png",
+                "sub_title": "5k+ Members of Community",
+                "goal": {
+                    "target": {
+                        "label": "2 Tree",
+                        "value": 2
+                    },
+                    "achieved": {
+                        "label": "2 Planted",
+                        "value": 0
+                    },
+                    "image": "https://savyour-staging.s3-ap-south-1.amazonaws.com/causes/1/Zs5EdBr4tZausrY43dn4cMRKXUvY2cw3VTPvfsHE.png"
+                },
+                "btn_cta": "Join us Today"
+            }
     },
     {
       "id": 454,
