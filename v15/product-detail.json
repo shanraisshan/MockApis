@@ -57,9 +57,7 @@
       "slug": "value",
       "is_see_all_shown": false,
       "is_personalized": false,
-      "items": {
-        "title": "Preferred Values",
-        "values": [
+      "items":  [
           {
             "id": 2,
             "name": "Carbon Neutral",
@@ -82,7 +80,7 @@
             "description": "Ethical products are made with fairness, transparency, and respect for people, animals, and the environment."
           }
         ]
-      }
+      
     },
     {
       "id": 712,
