@@ -37,7 +37,7 @@ Popups|https://api-staging.name.com/api/v6/users/popup|-|-
 🔗|🔗 **`BRAND DETAIL`** 🔗|🔗|🔗
 Brand Detail|https://api-staging.name.com/api/v6/brand-outlets/67|[Old](/v6/brand-detail.json)|[New](/v15/brand-detail.json)
 🔗|🔗 **`ACTIVATION`** 🔗|🔗|🔗
-Activation|https://api-staging.name.com/api/v6/brand-outlets/67/cashback|-|-
+Activation|https://api-staging.name.com/api/v6/brand-outlets/67/cashback|[Old](/v6/activation.json)|[New](/v15/activation.json)
 🔗|🔗 **`PRODUCT DETAIL`** 🔗|🔗|🔗
 Product Detail|https://api-staging.name.com.pk/v6/products/vodacom-7000-tzs-mobile-top-up-tz|[Old](/v6/product-detail.json)|[New](/v15/product-detail.json)
 🔗|🔗 **`VALUE DETAIL`** 🔗|🔗|🔗
