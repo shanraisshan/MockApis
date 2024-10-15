@@ -625,8 +625,8 @@
     },
     {
       "id": 732,
-      "type": "value_exist",
-      "title": "This product operates on these values",
+      "type": "product",
+      "title": "Top Selling Products",
       "sub_title": "",
       "slug": "value",
       "is_see_all_shown": false,
