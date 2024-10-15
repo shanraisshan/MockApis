@@ -625,8 +625,8 @@
     },
     {
       "id": 732,
-      "type": "product",
-      "title": "Top Selling Products",
+      "type": "value_exist",
+      "title": "This product operates on these values",
       "sub_title": "",
       "slug": "value",
       "is_see_all_shown": false,
@@ -635,7 +635,7 @@
         {
         "title": "Women's Two Piece Pants Piece Advanced design Women's Two Pants Velvet Juicy s dz",
         "slug": "women039s-two-piece-pants-piece-advanced-design-women039s-two-pants-velvet-uicy-coutoure-tracksui-sweatsuits-dz",
-        "price_range": null,
+        "price_range": "Rs.143,000 - Rs.579,000",
         "categories": [
           {
             "id": 229,
@@ -661,7 +661,32 @@
             "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGK3diR3Zi-mnOXEaj-3ewmFyRYVxGzVzZw&s"
           }
         ],
-        "values": null,
+        "values": [
+          {
+            "id": 17,
+            "name": "Recyclable",
+            "slug": "recyclable",
+            "image": "https://assets.savyour.com/value/17/thumbnail/yifcD9tU9p9Buzjkm8poFitt3c3GMWYApVSph6Kl.png"
+          },
+          {
+            "id": 19,
+            "name": "Renewable",
+            "slug": "renewable",
+            "image": "https://assets.savyour.com/value/19/thumbnail/vGYkOlJ4fkOvszfDTy3Fn4REK6SmxWdlgw0f0l50.png"
+          },
+          {
+            "id": 5,
+            "name": "Eco-Friendly",
+            "slug": "eco-friendly",
+            "image": "https://assets.savyour.com/value/5/thumbnail/2rcmuttxMR4zQkOaEcygbmODj3zbbPDtj1i5RKq3.png"
+          },
+          {
+            "id": 6,
+            "name": "Energy Efficient",
+            "slug": "energy-efficient",
+            "image": "https://assets.savyour.com/value/6/thumbnail/IFuooUx4SfttJ4PycWp38YLQjlIXqzqmBDLh9o3n.png"
+          }
+        ],
         "share" : {
           "url": ""
         }
@@ -669,7 +694,7 @@
         {
         "title": "Two Piece Pants Piece Advanced design Women's Two Pants Velvet Juicy s dz",
         "slug": "women039s-two-piece-pants-piece-advanced-design-women039s-two-pants-velvet-uicy-coutoure-tracksui-sweatsuits-dz",
-        "price_range": null,
+        "price_range": "Rs.146,000 - Rs.579,000",
         "categories": [
           {
             "id": 229,
@@ -695,7 +720,38 @@
             "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGK3diR3Zi-mnOXEaj-3ewmFyRYVxGzVzZw&s"
           }
         ],
-        "values": null,
+        "values": [
+          {
+            "id": 22,
+            "name": "Sustainable",
+            "slug": "sustainable",
+            "image": "https://assets.savyour.com/value/22/thumbnail/gJpHlhMJtirfXtItCQBAZzuLpXUm801DByE01qqX.png"
+          },
+          {
+            "id": 17,
+            "name": "Recyclable",
+            "slug": "recyclable",
+            "image": "https://assets.savyour.com/value/17/thumbnail/yifcD9tU9p9Buzjkm8poFitt3c3GMWYApVSph6Kl.png"
+          },
+          {
+            "id": 19,
+            "name": "Renewable",
+            "slug": "renewable",
+            "image": "https://assets.savyour.com/value/19/thumbnail/vGYkOlJ4fkOvszfDTy3Fn4REK6SmxWdlgw0f0l50.png"
+          },
+          {
+            "id": 5,
+            "name": "Eco-Friendly",
+            "slug": "eco-friendly",
+            "image": "https://assets.savyour.com/value/5/thumbnail/2rcmuttxMR4zQkOaEcygbmODj3zbbPDtj1i5RKq3.png"
+          },
+          {
+            "id": 6,
+            "name": "Energy Efficient",
+            "slug": "energy-efficient",
+            "image": "https://assets.savyour.com/value/6/thumbnail/IFuooUx4SfttJ4PycWp38YLQjlIXqzqmBDLh9o3n.png"
+          }
+        ],
         "share" : {
           "url": ""
         }
@@ -703,7 +759,7 @@
         {
         "title": "Advanced design Women's Two Pants Velvet Juicy s dz",
         "slug": "women039s-two-piece-pants-piece-advanced-design-women039s-two-pants-velvet-uicy-coutoure-tracksui-sweatsuits-dz",
-        "price_range": null,
+        "price_range": "Rs.200,000 - Rs.579,000",
         "categories": [
           {
             "id": 229,
@@ -729,7 +785,26 @@
             "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGK3diR3Zi-mnOXEaj-3ewmFyRYVxGzVzZw&s"
           }
         ],
-        "values": null,
+        "values": [
+          {
+            "id": 19,
+            "name": "Renewable",
+            "slug": "renewable",
+            "image": "https://assets.savyour.com/value/19/thumbnail/vGYkOlJ4fkOvszfDTy3Fn4REK6SmxWdlgw0f0l50.png"
+          },
+          {
+            "id": 5,
+            "name": "Eco-Friendly",
+            "slug": "eco-friendly",
+            "image": "https://assets.savyour.com/value/5/thumbnail/2rcmuttxMR4zQkOaEcygbmODj3zbbPDtj1i5RKq3.png"
+          },
+          {
+            "id": 6,
+            "name": "Energy Efficient",
+            "slug": "energy-efficient",
+            "image": "https://assets.savyour.com/value/6/thumbnail/IFuooUx4SfttJ4PycWp38YLQjlIXqzqmBDLh9o3n.png"
+          }
+        ],
         "share" : {
           "url": ""
         }
