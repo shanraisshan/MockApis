@@ -624,6 +624,119 @@
       "type": "brand"
     },
     {
+      "id": 732,
+      "type": "value_exist",
+      "title": "This product operates on these values",
+      "sub_title": "",
+      "slug": "value",
+      "is_see_all_shown": false,
+      "is_personalized": false,
+      "items": [
+        {
+        "title": "Women's Two Piece Pants Piece Advanced design Women's Two Pants Velvet Juicy s dz",
+        "slug": "women039s-two-piece-pants-piece-advanced-design-women039s-two-pants-velvet-uicy-coutoure-tracksui-sweatsuits-dz",
+        "price_range": null,
+        "categories": [
+          {
+            "id": 229,
+            "name": "Women Fashion",
+            "slug": "women-fashion-category",
+            "subcategories": [
+              {
+                "id": 838,
+                "name": "Underwear & Sleepwear",
+                "slug": "underwear-sleepwear"
+              }
+            ]
+          }
+        ],
+        "images": [
+          {
+            "url": "https://buffer.com/cdn-cgi/image/w=1000,fit=contain,q=90,f=auto/library/content/images/size/w1200/2023/10/free-images.jpg"
+          },
+          {
+            "url": "https://th.bing.com/th/id/OIG2.9O4YqGf98tiYzjKDvg7L"
+          },
+          {
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGK3diR3Zi-mnOXEaj-3ewmFyRYVxGzVzZw&s"
+          }
+        ],
+        "values": null,
+        "share" : {
+          "url": ""
+        }
+      },
+        {
+        "title": "Two Piece Pants Piece Advanced design Women's Two Pants Velvet Juicy s dz",
+        "slug": "women039s-two-piece-pants-piece-advanced-design-women039s-two-pants-velvet-uicy-coutoure-tracksui-sweatsuits-dz",
+        "price_range": null,
+        "categories": [
+          {
+            "id": 229,
+            "name": "Women Fashion",
+            "slug": "women-fashion-category",
+            "subcategories": [
+              {
+                "id": 838,
+                "name": "Underwear & Sleepwear",
+                "slug": "underwear-sleepwear"
+              }
+            ]
+          }
+        ],
+        "images": [
+          {
+            "url": "https://buffer.com/cdn-cgi/image/w=1000,fit=contain,q=90,f=auto/library/content/images/size/w1200/2023/10/free-images.jpg"
+          },
+          {
+            "url": "https://th.bing.com/th/id/OIG2.9O4YqGf98tiYzjKDvg7L"
+          },
+          {
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGK3diR3Zi-mnOXEaj-3ewmFyRYVxGzVzZw&s"
+          }
+        ],
+        "values": null,
+        "share" : {
+          "url": ""
+        }
+      },
+        {
+        "title": "Advanced design Women's Two Pants Velvet Juicy s dz",
+        "slug": "women039s-two-piece-pants-piece-advanced-design-women039s-two-pants-velvet-uicy-coutoure-tracksui-sweatsuits-dz",
+        "price_range": null,
+        "categories": [
+          {
+            "id": 229,
+            "name": "Women Fashion",
+            "slug": "women-fashion-category",
+            "subcategories": [
+              {
+                "id": 838,
+                "name": "Underwear & Sleepwear",
+                "slug": "underwear-sleepwear"
+              }
+            ]
+          }
+        ],
+        "images": [
+          {
+            "url": "https://buffer.com/cdn-cgi/image/w=1000,fit=contain,q=90,f=auto/library/content/images/size/w1200/2023/10/free-images.jpg"
+          },
+          {
+            "url": "https://th.bing.com/th/id/OIG2.9O4YqGf98tiYzjKDvg7L"
+          },
+          {
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGK3diR3Zi-mnOXEaj-3ewmFyRYVxGzVzZw&s"
+          }
+        ],
+        "values": null,
+        "share" : {
+          "url": ""
+        }
+      }
+      ]
+    },
+    {
       "id": 40,
       "slug": "review",
       "title": "",
