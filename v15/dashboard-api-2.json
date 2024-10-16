@@ -10,7 +10,7 @@
       "group": "value",
       "type": "value",
       "sub_type": "",
-      "endpoint": "",
+      "endpoint": "https://api-staging.savyour.com/api/v1/values/see-all",
       "mixpanel_type": "",
       "valid_till": null,
       "is_see_all_shown": true,
