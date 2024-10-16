@@ -900,7 +900,7 @@
       "items": [
         {
           "id": 308,
-          "image": "https://staging-assets.savyour.com/section-media/large/MxEj0YRHXIhYeH11aA0IFIEIUTNmxFTktqVwMdAn.jpg",
+          "image": "https://assets.savyour.com/assets/web/NewSliderWebHome.jpg",
           "redirect_type": "webview",
           "redirect_slug": "https://webview.example.com/webview/cashback"
         }
