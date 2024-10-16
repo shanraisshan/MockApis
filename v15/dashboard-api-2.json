@@ -883,12 +883,12 @@
     },
     {
       "id": 3134,
-      "slug": "banner_slider",
+      "slug": "banner",
       "title": "",
       "sub_title": "",
-      "group": "banner_slider",
-      "type": "banner_slider",
-      "sub_type": "",
+      "group": "banner",
+      "type": "banner",
+      "sub_type": "generic",
       "endpoint": "category-campaign/89",
       "mixpanel_type": "",
       "valid_till": null,
@@ -901,8 +901,8 @@
         {
           "id": 308,
           "image": "https://staging-assets.savyour.com/section-media/large/MxEj0YRHXIhYeH11aA0IFIEIUTNmxFTktqVwMdAn.jpg",
-          "redirect_type": "list_category_campaign",
-          "redirect_slug": "89"
+          "redirect_type": "webview",
+          "redirect_slug": "https://webview.example.com/webview/cashback"
         }
       ]
     },
