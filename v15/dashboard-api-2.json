@@ -70,24 +70,24 @@
       "end_date": "",
       "fetch_url": "",
       "see_all_type": "",
-                  "items": {
-                "id": 6,
-                "title": "<p>Join Our <span style=\"color:#b6de79;\">Sustainable Community</span></p>",
-                "background_image": "https://staging-assets.savyour.com/assets/eWd7fTpdnresUmRLqLrlHYQYn93qu4iNlUctdwOM.png",
-                "sub_title": "5k+ Members of Community",
-                "goal": {
-                    "target": {
-                        "label": "2 Tree",
-                        "value": 2
-                    },
-                    "achieved": {
-                        "label": "2 Planted",
-                        "value": 0
-                    },
-                    "image": "https://savyour-staging.s3-ap-south-1.amazonaws.com/causes/1/Zs5EdBr4tZausrY43dn4cMRKXUvY2cw3VTPvfsHE.png"
-                },
-                "btn_cta": "Join us Today"
-            }
+      "items": {
+        "id": 6,
+        "title": "<p>Join Our <span style=\"color:#b6de79;\">Sustainable Community</span></p>",
+        "background_image": "https://staging-assets.savyour.com/assets/eWd7fTpdnresUmRLqLrlHYQYn93qu4iNlUctdwOM.png",
+        "sub_title": "5k+ Members of Community",
+        "goal": {
+          "target": {
+            "label": "2 Tree",
+            "value": 2
+          },
+          "achieved": {
+            "label": "2 Planted",
+            "value": 0
+          },
+          "image": "https://savyour-staging.s3-ap-south-1.amazonaws.com/causes/1/Zs5EdBr4tZausrY43dn4cMRKXUvY2cw3VTPvfsHE.png"
+        },
+        "btn_cta": "Join us Today"
+      }
     },
     {
       "id": 454,
@@ -887,7 +887,7 @@
       "title": "",
       "sub_title": "",
       "group": "banner",
-      "type": "banner",
+      "type": "brand_banner_slider",
       "sub_type": "generic",
       "endpoint": "category-campaign/89",
       "mixpanel_type": "",
@@ -899,10 +899,39 @@
       "end_date": "",
       "items": [
         {
-          "id": 308,
-          "image": "https://assets.savyour.com/assets/web/NewSliderWebHome.jpg",
-          "redirect_type": "webview",
-          "redirect_slug": "https://webview.example.com/webview/cashback"
+          "logo": "https://assets.savyour.com/brands/10127/IBAkXMgracuRSCMWY5cfMkJVyGRUBLpCbgXVNV26.png",
+          "image": "https://assets.savyour.com/brands/10127/IBAkXMgracuRSCMWY5cfMkJVyGRUBLpCbgXVNV26.png",
+          "title": "Huawei",
+          "brand_slug": "huawei-ae-offline-codes-links",
+          "brand_banner": "https://assets.savyour.com/",
+          "brand_identifier": "consumer.huawei.com",
+          "brand_values": [
+            {
+              "id": 17,
+              "name": "Recyclable",
+              "slug": "recyclable",
+              "image": "https://assets.savyour.com/value/17/thumbnail/yifcD9tU9p9Buzjkm8poFitt3c3GMWYApVSph6Kl.png"
+            },
+            {
+              "id": 19,
+              "name": "Renewable",
+              "slug": "renewable",
+              "image": "https://assets.savyour.com/value/19/thumbnail/vGYkOlJ4fkOvszfDTy3Fn4REK6SmxWdlgw0f0l50.png"
+            },
+            {
+              "id": 5,
+              "name": "Eco-Friendly",
+              "slug": "eco-friendly",
+              "image": "https://assets.savyour.com/value/5/thumbnail/2rcmuttxMR4zQkOaEcygbmODj3zbbPDtj1i5RKq3.png"
+            },
+            {
+              "id": 6,
+              "name": "Energy Efficient",
+              "slug": "energy-efficient",
+              "image": "https://assets.savyour.com/value/6/thumbnail/IFuooUx4SfttJ4PycWp38YLQjlIXqzqmBDLh9o3n.png"
+            }
+          ],
+          "btn_cta": "Learn More"
         }
       ]
     },
