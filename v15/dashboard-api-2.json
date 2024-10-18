@@ -933,6 +933,78 @@
             }
           ],
           "btn_cta": "Learn More"
+        },
+        {
+          "id": 23
+          "logo": "https://assets.savyour.com/brands/10127/IBAkXMgracuRSCMWY5cfMkJVyGRUBLpCbgXVNV26.png",
+          "image": "https://assets.savyour.com/brands/10127/IBAkXMgracuRSCMWY5cfMkJVyGRUBLpCbgXVNV26.png",
+          "title": "Huawei",
+          "brand_slug": "huawei-ae-offline-codes-links",
+          "brand_banner": "https://assets.savyour.com/",
+          "brand_identifier": "consumer.huawei.com",
+          "brand_values": [
+            {
+              "id": 17,
+              "name": "Recyclable",
+              "slug": "recyclable",
+              "image": "https://assets.savyour.com/value/17/thumbnail/yifcD9tU9p9Buzjkm8poFitt3c3GMWYApVSph6Kl.png"
+            },
+            {
+              "id": 19,
+              "name": "Renewable",
+              "slug": "renewable",
+              "image": "https://assets.savyour.com/value/19/thumbnail/vGYkOlJ4fkOvszfDTy3Fn4REK6SmxWdlgw0f0l50.png"
+            },
+            {
+              "id": 5,
+              "name": "Eco-Friendly",
+              "slug": "eco-friendly",
+              "image": "https://assets.savyour.com/value/5/thumbnail/2rcmuttxMR4zQkOaEcygbmODj3zbbPDtj1i5RKq3.png"
+            },
+            {
+              "id": 6,
+              "name": "Energy Efficient",
+              "slug": "energy-efficient",
+              "image": "https://assets.savyour.com/value/6/thumbnail/IFuooUx4SfttJ4PycWp38YLQjlIXqzqmBDLh9o3n.png"
+            }
+          ],
+          "btn_cta": "Learn More"
+        },
+        {
+          "id": 24
+          "logo": "https://assets.savyour.com/brands/10127/IBAkXMgracuRSCMWY5cfMkJVyGRUBLpCbgXVNV26.png",
+          "image": "https://assets.savyour.com/brands/10127/IBAkXMgracuRSCMWY5cfMkJVyGRUBLpCbgXVNV26.png",
+          "title": "Huawei",
+          "brand_slug": "huawei-ae-offline-codes-links",
+          "brand_banner": "https://assets.savyour.com/",
+          "brand_identifier": "consumer.huawei.com",
+          "brand_values": [
+            {
+              "id": 17,
+              "name": "Recyclable",
+              "slug": "recyclable",
+              "image": "https://assets.savyour.com/value/17/thumbnail/yifcD9tU9p9Buzjkm8poFitt3c3GMWYApVSph6Kl.png"
+            },
+            {
+              "id": 19,
+              "name": "Renewable",
+              "slug": "renewable",
+              "image": "https://assets.savyour.com/value/19/thumbnail/vGYkOlJ4fkOvszfDTy3Fn4REK6SmxWdlgw0f0l50.png"
+            },
+            {
+              "id": 5,
+              "name": "Eco-Friendly",
+              "slug": "eco-friendly",
+              "image": "https://assets.savyour.com/value/5/thumbnail/2rcmuttxMR4zQkOaEcygbmODj3zbbPDtj1i5RKq3.png"
+            },
+            {
+              "id": 6,
+              "name": "Energy Efficient",
+              "slug": "energy-efficient",
+              "image": "https://assets.savyour.com/value/6/thumbnail/IFuooUx4SfttJ4PycWp38YLQjlIXqzqmBDLh9o3n.png"
+            }
+          ],
+          "btn_cta": "Learn More"
         }
       ]
     },
