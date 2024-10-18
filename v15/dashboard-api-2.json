@@ -906,7 +906,7 @@
           "brand_slug": "huawei-ae-offline-codes-links",
           "brand_banner": "https://assets.savyour.com/",
           "brand_identifier": "consumer.huawei.com",
-          "brand_values": [
+          "values": [
             {
               "id": 17,
               "name": "Recyclable",
@@ -942,7 +942,7 @@
           "brand_slug": "huawei-ae-offline-codes-links",
           "brand_banner": "https://assets.savyour.com/",
           "brand_identifier": "consumer.huawei.com",
-          "brand_values": [
+          "values": [
             {
               "id": 17,
               "name": "Recyclable",
@@ -978,7 +978,7 @@
           "brand_slug": "huawei-ae-offline-codes-links",
           "brand_banner": "https://assets.savyour.com/",
           "brand_identifier": "consumer.huawei.com",
-          "brand_values": [
+          "values": [
             {
               "id": 17,
               "name": "Recyclable",
