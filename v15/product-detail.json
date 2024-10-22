@@ -33,15 +33,9 @@
           }
         ],
         "images": [
-          {
-            "url": "https://buffer.com/cdn-cgi/image/w=1000,fit=contain,q=90,f=auto/library/content/images/size/w1200/2023/10/free-images.jpg"
-          },
-          {
-            "url": "https://th.bing.com/th/id/OIG2.9O4YqGf98tiYzjKDvg7L"
-          },
-          {
-            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGK3diR3Zi-mnOXEaj-3ewmFyRYVxGzVzZw&s"
-          }
+           "https://buffer.com/cdn-cgi/image/w=1000,fit=contain,q=90,f=auto/library/content/images/size/w1200/2023/10/free-images.jpg",
+           "https://th.bing.com/th/id/OIG2.9O4YqGf98tiYzjKDvg7L",
+           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGK3diR3Zi-mnOXEaj-3ewmFyRYVxGzVzZw&s"
         ],
         "values": null,
         "share" : {
