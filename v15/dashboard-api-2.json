@@ -42,57 +42,57 @@
             "items": [
                 {
                     "id": 16,
-                    "name": "TV & Home Entertainment",
-                    "image": "",
+                    "name": "Mobile Phones & Tablets",
+                    "image": "https://i.ibb.co/XJG3Lpk/Mobile-Phones-Tablets.png",
                     "slug": "tv-home-entertainment-category",
                     "background_color": "#e6f3f3"
                 },
                 {
                     "id": 12,
-                    "name": "Home Decor & Furniture",
-                    "image": "",
+                    "name": "Computer, Laptop & Accessories",
+                    "image": "https://i.ibb.co/BPw9xrq/Computer-Laptop-Accessories.png",
                     "slug": "home-decor-furniture-category",
                     "background_color": "#e6f3f3"
                 },
                 {
                     "id": 3,
-                    "name": "Auto & Tyres",
-                    "image": "",
+                    "name": "Women Fashion",
+                    "image": "https://i.ibb.co/CzKQDhh/Women-Fashion.png",
                     "slug": "auto-tyres-category",
                     "background_color": "#e6f3f3"
                 },
                 {
                     "id": 9,
-                    "name": "Mobile Phones & Electronics",
-                    "image": "https://savyour-staging.s3-ap-south-1.amazonaws.com/brand-categories/9/k7ZOpUMlzL4Sh6YnbZX2LOMbWdcv6XfirJOmX5Jn.png",
+                    "name": "Home Decor & Garden",
+                    "image": "https://i.ibb.co/s2bxCGt/Home-Decor-Garden.png",
                     "slug": "mobile-phones-electronics-category",
                     "background_color": "#e6f3f3"
                 },
                 {
                     "id": 10,
-                    "name": "Beauty & Personal Care",
-                    "image": "https://savyour-staging.s3-ap-south-1.amazonaws.com/brand-categories/10/NcOSEaYLLi54Z5fiUMjR4Iyae13C1QLD07WlfDHQ.png",
+                    "name": "Mom, Babies & Toys",
+                    "image": "https://i.ibb.co/pxBPSSb/Mom-Babies-Toys.png",
                     "slug": "beauty-personal-care-category",
                     "background_color": "#e6f3f3"
                 },
                 {
                     "id": 4,
-                    "name": "Fashion",
-                    "image": "https://savyour-staging.s3-ap-south-1.amazonaws.com/brand-categories/4/d9jQgDS3HS6M7iAGOm5faSgySV4Ru98vtyiBCZEU.png",
+                    "name": "Sports & Entertainment",
+                    "image": "https://i.ibb.co/rwTdQqL/Sports-Entertainment.png",
                     "slug": "fashion-category",
                     "background_color": "#e6f3f3"
                 },
                 {
                     "id": 1,
-                    "name": "Restaurant & Eateries",
-                    "image": "",
+                    "name": "Men Fashion",
+                    "image": "https://i.ibb.co/jGdvG2N/Men-Fashion.png",
                     "slug": "restaurant-eateriess-category",
                     "background_color": "#e6f3f3"
                 },
                 {
                     "id": 7,
-                    "name": "Baby Clothes & Gear",
-                    "image": "https://savyour-staging.s3-ap-south-1.amazonaws.com/brand-categories/7/1Ae4hbVacSA03bjtRzWC7DHUOuQX60G3Ia63zOnZ.png",
+                    "name": "Photography",
+                    "image": "https://i.ibb.co/WvB3Gnt/Photography-Videography.png",
                     "slug": "baby-clothes-gear-category",
                     "background_color": "#e6f3f3"
                 },
