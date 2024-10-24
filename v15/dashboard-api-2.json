@@ -33,7 +33,7 @@
             "endpoint": "https://api-staging.savyour.com/api/v1/brand-categories",
             "mixpanel_type": "categoryClicked",
             "end_date": "",
-            "is_see_all_shown": true,
+            "is_see_all_shown": false,
             "is_personalized": false,
             "viewed_from": "",
             "personalized_endpoint": "",
