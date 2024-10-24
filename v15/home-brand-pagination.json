@@ -250,17 +250,7 @@
           }
         ]
       }
-    ],
-    "pagination": {
-      "total": 6,
-      "per_page": 6,
-      "current_page": "",
-      "last_page": 1,
-      "next_page_url": "",
-      "prev_page_url": "",
-      "from": 1,
-      "to": 6
-    }
+    ]
   },
   "errors": {},
   "meta_data": {}
