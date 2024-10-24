@@ -1,692 +1,220 @@
 {
-  "success": true,
-  "message": "",
-  "code": 200,
-  "data": {
-    "items": [
-      {
-        "id": 16078,
-        "tags": "Health",
-        "specialities": "",
-        "slug": "herbaly-marketplace-inc",
-        "rating_count": 0,
-        "review_count": 0,
-        "name": "Burger Lab",
-        "business_category_id": 1,
-        "description": "",
-        "long_description": "<p>Herbaly Marketplace Inc. is an online platform that connects consumers with a wide range of eco-friendly and sustainable products. The brand is dedicated to promoting a healthier and more environmentally conscious lifestyle, making it easy for customers to make a positive impact on the planet.</p>\n\n<h2>Foundation of Excellence</h2>\n\n<p>Herbaly Marketplace Inc. is built on a foundation of excellence, with a strong commitment to sustainability, renewable energy, and eco-friendliness. The brand's core values are centered around creating a better world for future generations, and it achieves this by partnering with suppliers who share the same vision.</p>\n\n<p>The brand's dedication to excellence is reflected in its rigorous quality control process, which ensures that all products meet the highest standards of quality, safety, and sustainability. This commitment to excellence has earned Herbaly Marketplace Inc. a reputation as a trusted and reliable online marketplace.</p>\n\n<h2>Products Offered</h2>\n\n<p>Herbaly Marketplace Inc. offers a diverse range of products that cater to various aspects of daily life, from personal care and wellness to home and garden. The brand's product categories include:</p>\n\n<p>Health and Wellness: This category includes products that promote healthy living, such as natural supplements, organic foods, and fitness equipment.</p>\n<ul>\n<li>Natural Supplements: Herbaly offers a range of natural supplements that promote overall health and wellness, including vitamins, minerals, and herbal remedies.</li>\n<li>Organic Foods: The brand offers a selection of organic foods, including fruits, vegetables, and grains, that are free from pesticides and artificial additives.</li>\n<li>Fitness Equipment: Herbaly's fitness equipment range includes eco-friendly and sustainable products, such as yoga mats and exercise balls, that promote physical well-being.</li>\n</ul>\n\n<p>Home and Garden: This category includes products that help create a sustainable and eco-friendly home, such as energy-efficient appliances, natural cleaning products, and gardening tools.</p>\n<ul>\n<li>Energy-Efficient Appliances: Herbaly offers a range of energy-efficient appliances, including LED bulbs and solar-powered chargers, that reduce carbon footprint.</li>\n<li>Natural Cleaning Products: The brand's natural cleaning products range includes eco-friendly cleaning solutions, laundry detergents, and paper products.</li>\n<li>Gardening Tools: Herbaly's gardening tools range includes sustainable and eco-friendly products, such as compost bins and gardening gloves, that promote sustainable gardening practices.</li>\n</ul>\n\n<p>Beauty and Personal Care: This category includes products that promote natural beauty and personal care, such as skincare, haircare, and makeup.</p>\n<ul>\n<li>Skin Care: Herbaly offers a range of natural skincare products, including face creams, body lotions, and soaps, that are free from harsh chemicals.</li>\n<li>Hair Care: The brand's hair care range includes natural shampoos, conditioners, and hair masks that promote healthy and sustainable hair growth.</li>\n<li>Makeup: Herbaly's makeup range includes natural and eco-friendly products, such as foundation, eyeshadow, and lipstick, that are free from harsh chemicals and animal testing.</li>\n</ul>\n\n<h2>The Best Aspects to Consider</h2>\n\n<p>Herbaly Marketplace Inc. offers several best aspects that set it apart from other online marketplaces. These include:</p>\n\n<p>A wide range of eco-friendly and sustainable products that cater to various aspects of daily life.</p>\n<p>A strong commitment to quality control, ensuring that all products meet the highest standards of quality, safety, and sustainability.</p>\n<p>A user-friendly online platform that makes it easy for customers to browse and purchase products.</p>\n<p>A dedicated customer service team that provides support and assistance to customers.</p>\n\n<h2>Exceptional Selling Advantage</h2>\n\n<p>Herbaly Marketplace Inc. has an exceptional selling advantage due to its unique value proposition. The brand's commitment to sustainability, renewable energy, and eco-friendliness sets it apart from other online marketplaces, making it a preferred choice for customers who care about the environment.</p>\n\n<p>The brand's exceptional selling advantage is further enhanced by its rigorous quality control process, which ensures that all products meet the highest standards of quality, safety, and sustainability.</p>\n\n<h2>Leading Qualities</h2>\n\n<p>Herbaly Marketplace Inc. is a leading online marketplace due to its commitment to sustainability, renewable energy, and eco-friendliness. The brand's leading qualities include:</p>\n\n<p>A strong commitment to sustainability, reflected in its product range and business practices.</p>\n<p>A dedication to quality control, ensuring that all products meet the highest standards of quality, safety, and sustainability.</p>\n<p>A user-friendly online platform that makes it easy for customers to browse and purchase products.</p>\n<p>A dedicated customer service team that provides support and assistance to customers.</p>\n\n<p>Savyour is not directly partnered with Herbaly Marketplace Inc., but it creates value for Herbaly Marketplace Inc. end users by promoting eco-friendly and sustainable practices. This includes planting trees and spearheading community-driven causes, contributing to a greener, better world.</p>",
-        "banner": null,
-        "banner_home": "https://assets.savyour.com/assets/NoImage.png",
-        "identity_logo": "https://assets.savyour.com/assets/NoImage.png",
-        "monochrome_logo": "https://assets.savyour.com/brands/16078/LQknfLruTFu0P1SjdlFr8FId5OxfeqyIRdVQ10Br.png",
-        "logo": "https://i.ibb.co/pKkPfgz/Burger-Lab-Icon.png",
-        "kv_image": "https://assets.savyour.com/assets/NoImage.png",
-        "banner_detail": "https://assets.savyour.com/assets/NoImage.png",
-        "meta_title": "[BRAND NAME] – Shop & Get [CASHBACK] Cashback with Savyour",
-        "meta_description": "Shop on [BRAND NAME] through Savyour and get guaranteed cashbacks on top of deals and discounts",
-        "identifier": "herbaly.com",
-        "is_active": true,
-        "created_at": "2024-10-01T12:46:50",
-        "updated_at": "2024-10-23T08:34:17",
-        "valueIds": [
-          22,
-          19,
-          5,
-          17
-        ],
-        "valueNames": [
-          "Sustainable",
-          "Renewable",
-          "Eco-Friendly",
-          "Recyclable"
-        ],
-        "values": [
-          {
-            "id": 22,
-            "name": "Sustainable",
-            "slug": "sustainable",
-            "image": "https://assets.savyour.com/value/22/thumbnail/gJpHlhMJtirfXtItCQBAZzuLpXUm801DByE01qqX.png",
-            "background_color": "#f4faf3",
-            "short_description": "Made with methods and materials that protect the planet.",
-            "description": "Sustainable products are made with the planet in mind, using methods and materials that protect natural resources and reduce environmental impact. When you choose sustainable items, you're supporting practices that prioritize long-term environmental health. These products are designed to last, minimize waste, and promote a more balanced relationship with nature. Shopping sustainably is a powerful way to contribute to a healthier planet with every purchase!"
-          },
-          {
+    "success": true,
+    "message": "",
+    "code": 200,
+    "data": [
+        {
             "id": 19,
-            "name": "Renewable",
-            "slug": "renewable",
-            "image": "https://assets.savyour.com/value/19/thumbnail/vGYkOlJ4fkOvszfDTy3Fn4REK6SmxWdlgw0f0l50.png",
-            "background_color": "#f4faf3",
-            "short_description": "Made from resources that naturally replenish, these products help preserve the environment",
-            "description": "Renewable products are made from resources that can naturally replenish themselves, making them a smart and eco-friendly choice. By choosing renewable items, you’re supporting materials that don't deplete the earth’s resources, helping to preserve the environment for future generations. These products offer a sustainable way to enjoy what you need while minimizing environmental impact. Shop renewable and take a step toward a greener, more sustainable future!"
-          },
-          {
-            "id": 5,
-            "name": "Eco-Friendly",
-            "slug": "eco-friendly",
-            "image": "https://assets.savyour.com/value/5/thumbnail/2rcmuttxMR4zQkOaEcygbmODj3zbbPDtj1i5RKq3.png",
-            "background_color": "#f4faf3",
-            "short_description": "Made with sustainable materials and practices to minimize harm.",
-            "description": "Eco-friendly products are designed with the environment in mind, using sustainable materials and practices that reduce harm to the planet. By choosing eco-friendly items, you’re making a positive impact by supporting products that minimize waste, conserve resources, and lower pollution. These products are a simple way to make greener choices in your daily life. Shop eco-friendly to protect the Earth and contribute to a healthier, more sustainable future!"
-          },
-          {
-            "id": 17,
-            "name": "Recyclable",
-            "slug": "recyclable",
-            "image": "https://assets.savyour.com/value/17/thumbnail/yifcD9tU9p9Buzjkm8poFitt3c3GMWYApVSph6Kl.png",
-            "background_color": "#f4faf3",
-            "short_description": "Designed for reuse, these products help reduce waste by keeping materials out of landfills.",
-            "description": "Recyclable products are designed to be reused and repurposed, helping to reduce waste and conserve natural resources. When you choose recyclable items, you're making an eco-friendly choice that supports a cleaner planet. These products can be given a new life after use, keeping them out of landfills. Shopping for recyclable goods is a simple way to do your part for the environment and promote a sustainable future!"
-          }
-        ],
-        "business_category": {
-          "id": 1,
-          "name": "Health, Beauty & Gifts"
+            "slug": "values",
+            "title": "Shop By Values",
+            "sub_title": "",
+            "group": "value",
+            "type": "value",
+            "sub_type": "small",
+            "endpoint": "https://api-staging.savyour.com/api/v1/values/see-all",
+            "mixpanel_type": "categoryClicked",
+            "end_date": "",
+            "is_see_all_shown": true,
+            "is_personalized": false,
+            "viewed_from": "",
+            "personalized_endpoint": "",
+            "fetch_url": "https://api-staging.savyour.com/api/v1/home/values",
+            "see_all_type": "values",
+            "items": []
         },
-        "categories": [
-          {
-            "id": 11,
-            "name": "Beauty & Personal Care",
-            "slug": "beauty-personal-care-category",
-            "meta_title": "[CATEGORYNAME] Brands and Products at Savyour",
-            "meta_description": "Explore sustainable products and brands in [CATEGORYNAME] on Savyour. Shop eco-conscious, high-quality items that blend style and sustainability for a smarter, greener lifestyle",
-            "share_msg": "",
-            "share_url": "https://savyour.app/kbiRg",
-            "image": "https://assets.savyour.com/brand-categories/11/medium/WyKJVMCNU8YR5g8TNZXjFrBVyFFUxKIqn2OHliYJ.png",
-            "subcategories": [
-              {
-                "id": 10,
-                "name": "Personal Care",
-                "slug": "personal-care",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/BAi38",
-                "image": "https://assets.savyour.com/brand-subcategories/10/medium/SI3HyNrNYbjQZkzGet5hkuHnQPgSvnNzc8LkbWqI.png"
-              }
+        {
+            "id": 15,
+            "slug": "category",
+            "title": "Categories",
+            "sub_title": "",
+            "group": "category",
+            "type": "category",
+            "sub_type": "small",
+            "endpoint": "https://api-staging.savyour.com/api/v1/brand-categories",
+            "mixpanel_type": "categoryClicked",
+            "end_date": "",
+            "is_see_all_shown": true,
+            "is_personalized": false,
+            "viewed_from": "",
+            "personalized_endpoint": "",
+            "fetch_url": "",
+            "see_all_type": "",
+            "items": [
+                {
+                    "id": 16,
+                    "name": "TV & Home Entertainment",
+                    "image": "",
+                    "slug": "tv-home-entertainment-category",
+                    "background_color": "#d3e0e1"
+                },
+                {
+                    "id": 12,
+                    "name": "Home Decor & Furniture",
+                    "image": "",
+                    "slug": "home-decor-furniture-category",
+                    "background_color": "#d3e0e1"
+                },
+                {
+                    "id": 3,
+                    "name": "Auto & Tyres",
+                    "image": "",
+                    "slug": "auto-tyres-category",
+                    "background_color": "#d3e0e1"
+                },
+                {
+                    "id": 9,
+                    "name": "Mobile Phones & Electronics",
+                    "image": "https://savyour-staging.s3-ap-south-1.amazonaws.com/brand-categories/9/k7ZOpUMlzL4Sh6YnbZX2LOMbWdcv6XfirJOmX5Jn.png",
+                    "slug": "mobile-phones-electronics-category",
+                    "background_color": "#d3e0e1"
+                },
+                {
+                    "id": 10,
+                    "name": "Beauty & Personal Care",
+                    "image": "https://savyour-staging.s3-ap-south-1.amazonaws.com/brand-categories/10/NcOSEaYLLi54Z5fiUMjR4Iyae13C1QLD07WlfDHQ.png",
+                    "slug": "beauty-personal-care-category",
+                    "background_color": "#d3e0e1"
+                },
+                {
+                    "id": 4,
+                    "name": "Fashion",
+                    "image": "https://savyour-staging.s3-ap-south-1.amazonaws.com/brand-categories/4/d9jQgDS3HS6M7iAGOm5faSgySV4Ru98vtyiBCZEU.png",
+                    "slug": "fashion-category",
+                    "background_color": "#d3e0e1"
+                },
+                {
+                    "id": 1,
+                    "name": "Restaurant & Eateries",
+                    "image": "",
+                    "slug": "restaurant-eateriess-category",
+                    "background_color": "#d3e0e1"
+                },
+                {
+                    "id": 7,
+                    "name": "Baby Clothes & Gear",
+                    "image": "https://savyour-staging.s3-ap-south-1.amazonaws.com/brand-categories/7/1Ae4hbVacSA03bjtRzWC7DHUOuQX60G3Ia63zOnZ.png",
+                    "slug": "baby-clothes-gear-category",
+                    "background_color": "#d3e0e1"
+                },
+                {
+                    "id": 6,
+                    "name": "Toys & Games",
+                    "image": "",
+                    "slug": "toys-games-category",
+                    "background_color": "#d3e0e1"
+                },
+                {
+                    "id": 5,
+                    "name": "Books & Stationary",
+                    "image": "",
+                    "slug": "books-stationary-category",
+                    "background_color": "#d3e0e1"
+                }
             ]
-          },
-          {
-            "id": 14,
-            "name": "Health & Fitness",
-            "slug": "health-fitness-category",
-            "meta_title": "[CATEGORYNAME] Brands and Products at Savyour",
-            "meta_description": "Explore sustainable products and brands in [CATEGORYNAME] on Savyour. Shop eco-conscious, high-quality items that blend style and sustainability for a smarter, greener lifestyle",
-            "share_msg": "",
-            "share_url": "https://savyour.app/pd73a",
-            "image": "https://assets.savyour.com/brand-categories/14/medium/xOHrZnWj3WOra7PGLyPUb6USldLfgNjCfl7Ase4R.png",
-            "subcategories": [
-              {
-                "id": 187,
-                "name": "Vitamins & Supplements",
-                "slug": "vitamins-supplements",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/ura2Z",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              },
-              {
-                "id": 188,
-                "name": "Health Monitoring Devices",
-                "slug": "health-monitoring-devices",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/WeuWn",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              },
-              {
-                "id": 189,
-                "name": "Medical Supplies & Equipment",
-                "slug": "medical-supplies-equipment",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/tn4Fh",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              },
-              {
-                "id": 190,
-                "name": "Weight Management",
-                "slug": "weight-management",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/lAWVF",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              },
-              {
-                "id": 191,
-                "name": "Sports Nutrition",
-                "slug": "sports-nutrition",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/aePuC",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              },
-              {
-                "id": 192,
-                "name": "Mindfulness & Relaxation",
-                "slug": "mindfulness-relaxation",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/xxplv",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              }
-            ]
-          }
-        ],
-        "sort_order": 0,
-        "tier": "Tier 5",
-        "stores": [
-          {
-            "id": 10054,
-            "country_id": 4,
-            "brand_id": 16078,
-            "name": "",
-            "average_reward_days": 90,
-            "return_policy_days": 0,
-            "terms_and_condition": "",
-            "redirect_url": "https://www.linkbux.com/track?pid=LB00004906&mid=161551&url=https%3A%2F%2Fherbaly.com",
-            "share_url": "",
-            "review_deeplink": "",
-            "rating_detail": {
-              "average": 0,
-              "count": null,
-              "breakdown": "{\"progress_1\":0,\"progress_2\":0,\"progress_3\":0,\"progress_4\":0,\"progress_5\":0}"
-            },
-            "spending_value": 0.4,
-            "rating": 0,
-            "rating_count": 0,
-            "review_count": 0,
-            "order_count": 0,
-            "sort_order": 0,
-            "is_active": true,
-            "conversion_percentage": null,
-            "live_date": null,
-            "created_at": "2024-10-01 12:46:56",
-            "updated_at": "2024-10-23 08:34:17",
-            "categories": [
-              {
-                "category": "Default",
-                "type": "percentage",
-                "commission": 5
-              }
-            ],
-            "share_msg": "herbaly.com",
-            "tag": "",
-            "cities": []
-          }
-        ],
-        "__order": -1,
-        "store": {
-          "id": 10054,
-          "country_id": 4,
-          "brand_id": 16078,
-          "name": "",
-          "average_reward_days": 90,
-          "return_policy_days": 0,
-          "terms_and_condition": "",
-          "redirect_url": "https://www.linkbux.com/track?pid=LB00004906&mid=161551&url=https%3A%2F%2Fherbaly.com",
-          "share_url": "",
-          "review_deeplink": "",
-          "rating_detail": {
-            "average": 0,
-            "count": null,
-            "breakdown": "{\"progress_1\":0,\"progress_2\":0,\"progress_3\":0,\"progress_4\":0,\"progress_5\":0}"
-          },
-          "spending_value": 0.4,
-          "rating": 4,
-          "rating_count": 0,
-          "review_count": 0,
-          "order_count": 0,
-          "sort_order": 0,
-          "is_active": true,
-          "conversion_percentage": null,
-          "live_date": null,
-          "created_at": "2024-10-01 12:46:56",
-          "updated_at": "2024-10-23 08:34:17",
-          "categories": [
-            {
-              "category": "Default",
-              "type": "percentage",
-              "commission": 5
-            }
-          ],
-          "share_msg": "herbaly.com",
-          "tag": "",
-          "cities": [],
-          "purchase_date": "2024-10-21T09:35:10"
-        }
-      },
-      {
-        "id": 16773,
-        "tags": "Clothing",
-        "specialities": "",
-        "slug": "camp-aspen-llc",
-        "rating_count": 0,
-        "review_count": 0,
-        "name": "Camp Aspen",
-        "business_category_id": 5,
-        "description": "",
-        "long_description": "<p>Camp Aspen LLC is a renowned brand that specializes in providing top-notch outdoor gear and equipment for camping enthusiasts. With a strong commitment to sustainability and eco-friendliness, the brand has established itself as a leader in the industry.</p>\n\n<h2>Chronicle of Excellence</h2>\n\n<p>Camp Aspen LLC has a rich history of delivering high-quality products that cater to the needs of outdoor enthusiasts. The brand's dedication to innovation, sustainability, and customer satisfaction has earned it a loyal customer base. With a strong focus on renewable energy and recyclable materials, Camp Aspen LLC is paving the way for a greener future.</p>\n\n<h2>Products Offered</h2>\n\n<p>Camp Aspen LLC offers a wide range of products that cater to the needs of campers, hikers, and outdoor enthusiasts. The brand's product categories include:</p>\n\n<p>Camping Gear: This category includes tents, sleeping bags, backpacks, and other essential camping equipment.</p>\n<ul>\n<li>Tents: From lightweight backpacking tents to spacious family tents, Camp Aspen LLC offers a wide range of options.</li>\n<li>Sleeping Bags: The brand's sleeping bags are designed to provide maximum comfort and warmth in extreme weather conditions.</li>\n<li>Backpacks: Camp Aspen LLC's backpacks are built to last, with durable materials and comfortable straps.</li>\n</ul>\n\n<p>Outdoor Apparel: This category includes clothing and footwear designed for outdoor activities such as hiking, camping, and climbing.</p>\n<ul>\n<li>Jackets and Coats: Water-resistant and breathable jackets and coats for men and women.</li>\n<li>Pants and Shorts: Durable and comfortable pants and shorts for outdoor enthusiasts.</li>\n<li>Footwear: Hiking boots, trail running shoes, and sandals for men and women.</li>\n</ul>\n\n<p>Cooking Gear: This category includes camping stoves, cookware, and utensils designed for outdoor cooking.</p>\n<ul>\n<li>Camping Stoves: Portable and efficient camping stoves for cooking in the great outdoors.</li>\n<li>Cookware: Durable and lightweight cookware sets for camping and backpacking.</li>\n<li>Utensils: Eco-friendly and durable utensils for outdoor cooking.</li>\n</ul>\n\n<h2>Top Features List</h2>\n\n<p>Camp Aspen LLC's products are designed with the following top features:</p>\n\n<p>Sustainability: The brand's commitment to sustainability is reflected in its use of eco-friendly materials and renewable energy sources.</p>\n<p>Quality: Camp Aspen LLC's products are built to last, with durable materials and exceptional craftsmanship.</p>\n<p>Innovation: The brand's products are designed with innovative features that cater to the needs of outdoor enthusiasts.</p>\n<p>Comfort: Camp Aspen LLC's products are designed to provide maximum comfort and convenience for campers and outdoor enthusiasts.</p>\n\n<h2>Unparalleled Value Offering</h2>\n\n<p>Camp Aspen LLC offers an unparalleled value proposition to its customers. The brand's commitment to sustainability, quality, and innovation sets it apart from its competitors. With a strong focus on customer satisfaction, Camp Aspen LLC provides exceptional customer service and support.</p>\n\n<h2>Key Elements</h2>\n\n<p>Camp Aspen LLC's key elements include:</p>\n\n<p>Sustainable Practices: The brand's commitment to sustainability is reflected in its use of eco-friendly materials and renewable energy sources.</p>\n<p>Innovative Products: Camp Aspen LLC's products are designed with innovative features that cater to the needs of outdoor enthusiasts.</p>\n<p>Customer Satisfaction: The brand's strong focus on customer satisfaction ensures that customers receive exceptional service and support.</p>\n<p>Community Involvement: Camp Aspen LLC is involved in various community-driven initiatives that promote sustainability and eco-friendliness.</p>\n\n<p>Savyour is not directly partnered with Camp Aspen LLC, but it creates value for Camp Aspen LLC end users by promoting eco-friendly and sustainable practices. This includes planting trees and spearheading community-driven causes, contributing to a greener, better world.</p>",
-        "banner": null,
-        "banner_home": "https://assets.savyour.com/assets/NoImage.png",
-        "identity_logo": "https://assets.savyour.com/brands/16773/4iEWfiM17JrQJbz7jeVaqhx8iNPxBlPAAMud0yd7.png",
-        "monochrome_logo": "https://assets.savyour.com/brands/16773/rTbymzVx1MTjEzJ7UBIwekxkU8gw17yZduZhUFjm.png",
-        "logo": "https://assets.savyour.com/brands/16773/kNI9VXgPYX61vj8C8RCfT1edltZqW2kqWMdXXHKe.png",
-        "kv_image": "https://assets.savyour.com/assets/NoImage.png",
-        "banner_detail": "https://assets.savyour.com/assets/NoImage.png",
-        "meta_title": "[BRAND NAME] – Shop & Get [CASHBACK] Cashback with Savyour",
-        "meta_description": "Shop on [BRAND NAME] through Savyour and get guaranteed cashbacks on top of deals and discounts",
-        "identifier": "campaspen.com",
-        "is_active": true,
-        "created_at": "2024-10-01T13:03:24",
-        "updated_at": "2024-10-23T08:35:20",
-        "valueIds": [
-          5
-        ],
-        "valueNames": [
-          "Eco-Friendly"
-        ],
-        "values": [
-          {
-            "id": 5,
-            "name": "Eco-Friendly",
-            "slug": "eco-friendly",
-            "image": "https://assets.savyour.com/value/5/thumbnail/2rcmuttxMR4zQkOaEcygbmODj3zbbPDtj1i5RKq3.png",
-            "background_color": "#f4faf3",
-            "short_description": "Made with sustainable materials and practices to minimize harm.",
-            "description": "Eco-friendly products are designed with the environment in mind, using sustainable materials and practices that reduce harm to the planet. By choosing eco-friendly items, you’re making a positive impact by supporting products that minimize waste, conserve resources, and lower pollution. These products are a simple way to make greener choices in your daily life. Shop eco-friendly to protect the Earth and contribute to a healthier, more sustainable future!"
-          }
-        ],
-        "business_category": {
-          "id": 5,
-          "name": "Fashion"
         },
-        "categories": [
-          {
-            "id": 110,
-            "name": "Women Fashion",
-            "slug": "women-fashion-category",
-            "meta_title": "[CATEGORYNAME] Brands and Products at Savyour",
-            "meta_description": "Explore sustainable products and brands in [CATEGORYNAME] on Savyour. Shop eco-conscious, high-quality items that blend style and sustainability for a smarter, greener lifestyle",
-            "share_msg": "",
-            "share_url": "https://savyour.app/yIWX3",
-            "image": "https://assets.savyour.com/brand-categories-us/medium/110.jpg",
-            "subcategories": [
-              {
-                "id": 100,
-                "name": "Bottoms",
-                "slug": "bottoms",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/iHe0E",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              },
-              {
-                "id": 101,
-                "name": "Dresses",
-                "slug": "dresses",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/6GMFf",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              },
-              {
-                "id": 102,
-                "name": "Plus Size",
-                "slug": "plus-size",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/5Dh7v",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              },
-              {
-                "id": 103,
-                "name": "Outerwear",
-                "slug": "outerwear",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/bub8u",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              },
-              {
-                "id": 104,
-                "name": "Bridal",
-                "slug": "bridal",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/Rx7o4",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              },
-              {
-                "id": 105,
-                "name": "Matching Sets",
-                "slug": "matching-sets",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/a8b6s",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              },
-              {
-                "id": 106,
-                "name": "Tops",
-                "slug": "tops",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/dUCw2",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              },
-              {
-                "id": 107,
-                "name": "Swimwear",
-                "slug": "swimwear",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/4klDL",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              },
-              {
-                "id": 108,
-                "name": "Loungewear Lingerie",
-                "slug": "loungewear-lingerie",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/sbOND",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              },
-              {
-                "id": 109,
-                "name": "Girls Clothing",
-                "slug": "girls-clothing",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/pPKEa",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              },
-              {
-                "id": 110,
-                "name": "Bags",
-                "slug": "bags",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/X8YVl",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              },
-              {
-                "id": 111,
-                "name": "Watches",
-                "slug": "watches",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/4h6r8",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              },
-              {
-                "id": 112,
-                "name": "Jewelry",
-                "slug": "jewelry",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/EYDtn",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              },
-              {
-                "id": 113,
-                "name": "Sports Wear",
-                "slug": "sports-wear",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/ueoxX",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              },
-              {
-                "id": 114,
-                "name": "Fashion Accessories",
-                "slug": "fashion-accessories",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/sKPUh",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              },
-              {
-                "id": 115,
-                "name": "Shoes",
-                "slug": "shoes",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/1RI3U",
-                "image": "https://assets.savyour.com/subcategories-us/medium/115.jpg"
-              }
-            ]
-          },
-          {
-            "id": 111,
-            "name": "Men's Fashion",
-            "slug": "mens-fashion-category",
-            "meta_title": "[CATEGORYNAME] Brands and Products at Savyour",
-            "meta_description": "Explore sustainable products and brands in [CATEGORYNAME] on Savyour. Shop eco-conscious, high-quality items that blend style and sustainability for a smarter, greener lifestyle",
-            "share_msg": "",
-            "share_url": "https://savyour.app/Y3IBd",
-            "image": "https://assets.savyour.com/categories-beta/111/medium/6hA66wAQy7p6Fqn5uji4UsL13MFcUObvvggCsO0y.png",
-            "subcategories": [
-              {
-                "id": 116,
-                "name": "Pants & Jeans",
-                "slug": "pants-jeans",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/uPsH0",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              },
-              {
-                "id": 117,
-                "name": "Blazers & Suits",
-                "slug": "blazers-suits",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/7AXtP",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              },
-              {
-                "id": 118,
-                "name": "Sweaters & Jackets",
-                "slug": "sweaters-jackets",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/BEpZJ",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              },
-              {
-                "id": 119,
-                "name": "Shorts, Joggers & Sweats",
-                "slug": "shorts-joggers-sweats",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/vMTkA",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              },
-              {
-                "id": 120,
-                "name": "Undergarments",
-                "slug": "undergarments",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/qUW9a",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              },
-              {
-                "id": 121,
-                "name": "Shirts & Polo",
-                "slug": "shirts-polo",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/Fgp8E",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              },
-              {
-                "id": 122,
-                "name": "T-Shirts & Tanks",
-                "slug": "t-shirts-tanks",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/IdQAO",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              },
-              {
-                "id": 123,
-                "name": "Boys Clothing",
-                "slug": "boys-clothing",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/yNXMN",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              },
-              {
-                "id": 124,
-                "name": "Men Accessories",
-                "slug": "men-accessories",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/TOPFq",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              },
-              {
-                "id": 125,
-                "name": "Boys Accessories",
-                "slug": "boys-accessories",
-                "meta_title": null,
-                "meta_description": null,
-                "share_msg": null,
-                "share_url": "https://savyour.app/IJUy7",
-                "image": "https://assets.savyour.com/assets/NoImage.png"
-              }
-            ]
-          }
-        ],
-        "sort_order": 0,
-        "tier": "Tier 5",
-        "stores": [
-          {
-            "id": 10749,
-            "country_id": 4,
-            "brand_id": 16773,
-            "name": "",
-            "average_reward_days": 90,
-            "return_policy_days": 0,
-            "terms_and_condition": "",
-            "redirect_url": "https://www.linkbux.com/track?pid=LB00004906&mid=207570&url=https%3A%2F%2Fwww.campaspen.com",
-            "share_url": "",
-            "review_deeplink": "",
-            "rating_detail": {
-              "average": 0,
-              "count": null,
-              "breakdown": "{\"progress_1\":0,\"progress_2\":0,\"progress_3\":0,\"progress_4\":0,\"progress_5\":0}"
-            },
-            "spending_value": 0.2,
-            "rating": 0,
-            "rating_count": 0,
-            "review_count": 0,
-            "order_count": 0,
-            "sort_order": 0,
-            "is_active": true,
-            "conversion_percentage": null,
-            "live_date": null,
-            "created_at": "2024-10-01 13:03:30",
-            "updated_at": "2024-10-23 08:35:20",
-            "categories": [
-              {
-                "category": "Default",
-                "type": "percentage",
-                "commission": 10
-              }
-            ],
-            "share_msg": "campaspen.com",
-            "tag": "",
-            "cities": []
-          }
-        ],
-        "__order": -1,
-        "store": {
-          "id": 10749,
-          "country_id": 4,
-          "brand_id": 16773,
-          "name": "",
-          "average_reward_days": 90,
-          "return_policy_days": 0,
-          "terms_and_condition": "",
-          "redirect_url": "https://www.linkbux.com/track?pid=LB00004906&mid=207570&url=https%3A%2F%2Fwww.campaspen.com",
-          "share_url": "",
-          "review_deeplink": "",
-          "rating_detail": {
-            "average": 0,
-            "count": null,
-            "breakdown": "{\"progress_1\":0,\"progress_2\":0,\"progress_3\":0,\"progress_4\":0,\"progress_5\":0}"
-          },
-          "spending_value": 0.2,
-          "rating": 3,
-          "rating_count": 0,
-          "review_count": 0,
-          "order_count": 0,
-          "sort_order": 0,
-          "is_active": true,
-          "conversion_percentage": null,
-          "live_date": null,
-          "created_at": "2024-10-01 13:03:30",
-          "updated_at": "2024-10-23 08:35:20",
-          "categories": [
-            {
-              "category": "Default",
-              "type": "percentage",
-              "commission": 10
+        {
+            "id": 59,
+            "slug": "impact_banner",
+            "title": "impact banner",
+            "sub_title": "",
+            "group": "impact",
+            "type": "impact",
+            "sub_type": "banner",
+            "endpoint": "https://api-staging.savyour.com/api/v1/users/impact",
+            "mixpanel_type": "categoryClicked",
+            "end_date": "",
+            "is_see_all_shown": false,
+            "is_personalized": false,
+            "viewed_from": "",
+            "personalized_endpoint": "",
+            "fetch_url": "",
+            "see_all_type": "",
+            "items": {
+                "title": "Continue your Impactful Journey",
+                "sub_title": "Discover and support brands, products, and deals that reflect your personal values. From sustainability and ethical practices to social responsibility.",
+                "btn_cta": "Let’s Proceed",
+                "image": "https://staging-assets.savyour.com/assets/oSh4iZatf2i1iXmTUSVtnX4cdXV1vrIODCoe8ngQ.png",
+                "percentage": 25
             }
-          ],
-          "share_msg": "campaspen.com",
-          "tag": "",
-          "cities": [],
-          "purchase_date": "2024-10-21T09:35:10"
+        },
+        {
+            "id": 23,
+            "slug": "recent-purchases-home",
+            "title": "Share your experience",
+            "sub_title": "Earn points by writing reviews!",
+            "group": "rating",
+            "type": "rating",
+            "sub_type": "small",
+            "endpoint": "https://api-staging.savyour.com/api/v1/users/reviews/pending",
+            "mixpanel_type": "ratingClicked",
+            "end_date": "",
+            "is_see_all_shown": false,
+            "is_personalized": false,
+            "viewed_from": "",
+            "personalized_endpoint": "",
+            "fetch_url": "https://shanraisshan.github.io/MockApis/v15/home-reviews.json",
+            "see_all_type": "",
+            "items": []
+        },
+        {
+            "id": 38,
+            "slug": "recommendation",
+            "title": "Recommendations",
+            "sub_title": "",
+            "group": "recommendation",
+            "type": "recommendation",
+            "sub_type": "small",
+            "endpoint": "",
+            "mixpanel_type": "",
+            "end_date": "",
+            "is_see_all_shown": false,
+            "is_personalized": false,
+            "viewed_from": "",
+            "personalized_endpoint": "",
+            "fetch_url": "",
+            "see_all_type": "",
+            "items": [
+                {
+                    "id": 40,
+                    "slug": "pagination_product",
+                    "title": "Products",
+                    "sub_title": "",
+                    "group": "recommend_product",
+                    "type": "pagination_product",
+                    "sub_type": "grid",
+                    "endpoint": "",
+                    "mixpanel_type": "",
+                    "end_date": "",
+                    "is_see_all_shown": false,
+                    "is_personalized": false,
+                    "viewed_from": "",
+                    "personalized_endpoint": "",
+                    "fetch_url": "https://api-staging.savyour.com/api/v1/community_values?type=products&page=1&limit=10",
+                    "see_all_type": "",
+                    "items": []
+                },
+                {
+                    "id": 39,
+                    "slug": "pagination",
+                    "title": "Brands",
+                    "sub_title": "",
+                    "group": "recommend_brand",
+                    "type": "pagination",
+                    "sub_type": "grid",
+                    "endpoint": "",
+                    "mixpanel_type": "categoryClicked",
+                    "end_date": "",
+                    "is_see_all_shown": false,
+                    "is_personalized": false,
+                    "viewed_from": "",
+                    "personalized_endpoint": "",
+                    "fetch_url": "https://api-staging.savyour.com/api/v1/community_values?type=brands&page=1&limit=10",
+                    "see_all_type": "",
+                    "items": []
+                }
+            ]
         }
-      }
     ],
-    "pagination": {
-      "total": 20,
-      "per_page": 8,
-      "current_page": "https://api.savyour.com/api/v1/users/reviews/pending?limit=8",
-      "last_page": 3,
-      "next_page_url": "https://api.savyour.com/api/v1/users/reviews/pending?page=2&limit=8",
-      "prev_page_url": "",
-      "from": 1,
-      "to": 8
-    }
-  },
-  "errors": {},
-  "meta_data": {}
+    "errors": {},
+    "meta_data": {}
 }
