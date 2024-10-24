@@ -43,56 +43,56 @@
                 {
                     "id": 16,
                     "name": "Mobile Phones & Tablets",
-                    "image": "https://i.ibb.co/XJG3Lpk/Mobile-Phones-Tablets.png",
+                    "image": "https://github.com/shanraisshan/MockApis/blob/main/res/category/mobile.png",
                     "slug": "tv-home-entertainment-category",
                     "background_color": "#e6f3f3"
                 },
                 {
                     "id": 12,
                     "name": "Computer, Laptop & Accessories",
-                    "image": "https://i.ibb.co/BPw9xrq/Computer-Laptop-Accessories.png",
+                    "image": "https://github.com/shanraisshan/MockApis/blob/main/res/category/computer.png",
                     "slug": "home-decor-furniture-category",
                     "background_color": "#e6f3f3"
                 },
                 {
                     "id": 3,
                     "name": "Women Fashion",
-                    "image": "https://i.ibb.co/CzKQDhh/Women-Fashion.png",
+                    "image": "https://github.com/shanraisshan/MockApis/blob/main/res/category/women.png",
                     "slug": "auto-tyres-category",
                     "background_color": "#e6f3f3"
                 },
                 {
                     "id": 9,
                     "name": "Home Decor & Garden",
-                    "image": "https://i.ibb.co/s2bxCGt/Home-Decor-Garden.png",
+                    "image": "https://github.com/shanraisshan/MockApis/blob/main/res/category/home.png",
                     "slug": "mobile-phones-electronics-category",
                     "background_color": "#e6f3f3"
                 },
                 {
                     "id": 10,
                     "name": "Mom, Babies & Toys",
-                    "image": "https://i.ibb.co/pxBPSSb/Mom-Babies-Toys.png",
+                    "image": "https://github.com/shanraisshan/MockApis/blob/main/res/category/toys.png",
                     "slug": "beauty-personal-care-category",
                     "background_color": "#e6f3f3"
                 },
                 {
                     "id": 4,
                     "name": "Sports & Entertainment",
-                    "image": "https://i.ibb.co/rwTdQqL/Sports-Entertainment.png",
+                    "image": "https://github.com/shanraisshan/MockApis/blob/main/res/category/sport.png",
                     "slug": "fashion-category",
                     "background_color": "#e6f3f3"
                 },
                 {
                     "id": 1,
                     "name": "Men Fashion",
-                    "image": "https://i.ibb.co/jGdvG2N/Men-Fashion.png",
+                    "image": "https://github.com/shanraisshan/MockApis/blob/main/res/category/men.png",
                     "slug": "restaurant-eateriess-category",
                     "background_color": "#e6f3f3"
                 },
                 {
                     "id": 7,
                     "name": "Photography",
-                    "image": "https://i.ibb.co/WvB3Gnt/Photography-Videography.png",
+                    "image": "https://github.com/shanraisshan/MockApis/blob/main/res/category/photo.png",
                     "slug": "baby-clothes-gear-category",
                     "background_color": "#e6f3f3"
                 },
@@ -189,7 +189,7 @@
                     "is_personalized": false,
                     "viewed_from": "",
                     "personalized_endpoint": "",
-                    "fetch_url": "https://api-staging.savyour.com/api/v1/community_values?type=products&page=1&limit=10",
+                    "fetch_url": "https://shanraisshan.github.io/MockApis/v15/home-product-pagination.json",
                     "see_all_type": "",
                     "items": []
                 },
