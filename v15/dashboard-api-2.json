@@ -141,7 +141,7 @@
             "id": 23,
             "slug": "recent-purchases-home",
             "title": "Share your experience",
-            "sub_title": "Earn points by writing reviews!",
+            "sub_title": "",
             "group": "rating",
             "type": "rating",
             "sub_type": "small",
