@@ -99,14 +99,14 @@
                 {
                     "id": 6,
                     "name": "Toys & Games",
-                    "image": "",
+                    "image": "https://shanraisshan.github.io/MockApis/res/category/games.png",
                     "slug": "toys-games-category",
                     "background_color": "#e6f3f3"
                 },
                 {
                     "id": 5,
                     "name": "Books & Stationary",
-                    "image": "",
+                    "image": "https://shanraisshan.github.io/MockApis/res/category/book.png",
                     "slug": "books-stationary-category",
                     "background_color": "#e6f3f3"
                 }
