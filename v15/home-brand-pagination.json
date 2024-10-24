@@ -1,0 +1,267 @@
+{
+  "success": true,
+  "message": "",
+  "code": 200,
+  "data": {
+    "items": [
+      {
+        "id": 6133,
+        "slug": "hurley",
+        "name": "Hurley",
+        "logo": "https://assets.savyour.com/brands/6133/dzUJDxFMwSmwIfig73zbE9zjfGc6VxJZGojrjmrU.png",
+        "identity_logo": "https://assets.savyour.com/brands/6133/NhxKYo8YR9jxte3ZvMcbpYRUyWE0oxn8FrCGGx91.png",
+        "monochrome_logo": "https://assets.savyour.com/brands/6133/66RfqGpSZt1R7e9KglEVKids8h5nxLE535vxPIMP.png",
+        "banner": null,
+        "kv_image": "https://assets.savyour.com/brands/6133/yEgn8BGFNwALaUSUnMb0YbHYk8JF0KOduXqM9j2X.png",
+        "website_url": null,
+        "identifier": "hurley.com",
+        "type": null,
+        "business_category": {
+          "id": 5,
+          "name": "Fashion"
+        },
+        "categories": [
+          {
+            "id": 110,
+            "name": "Women Fashion",
+            "slug": "women-fashion-category",
+            "meta_title": "[CATEGORYNAME] Brands and Products at Savyour",
+            "meta_description": "Explore sustainable products and brands in [CATEGORYNAME] on Savyour. Shop eco-conscious, high-quality items that blend style and sustainability for a smarter, greener lifestyle",
+            "share_msg": "",
+            "share_url": "https://savyour.app/yIWX3",
+            "image": "https://assets.savyour.com/brand-categories-us/medium/110.jpg",
+            "subcategories": [
+              {
+                "id": 107,
+                "name": "Swimwear",
+                "slug": "swimwear",
+                "meta_title": null,
+                "meta_description": null,
+                "share_msg": null,
+                "share_url": "https://savyour.app/4klDL",
+                "image": "https://assets.savyour.com/assets/NoImage.png"
+              },
+              {
+                "id": 111,
+                "name": "Watches",
+                "slug": "watches",
+                "meta_title": null,
+                "meta_description": null,
+                "share_msg": null,
+                "share_url": "https://savyour.app/4h6r8",
+                "image": "https://assets.savyour.com/assets/NoImage.png"
+              },
+              {
+                "id": 113,
+                "name": "Sports Wear",
+                "slug": "sports-wear",
+                "meta_title": null,
+                "meta_description": null,
+                "share_msg": null,
+                "share_url": "https://savyour.app/ueoxX",
+                "image": "https://assets.savyour.com/assets/NoImage.png"
+              },
+              {
+                "id": 115,
+                "name": "Shoes",
+                "slug": "shoes",
+                "meta_title": null,
+                "meta_description": null,
+                "share_msg": null,
+                "share_url": "https://savyour.app/1RI3U",
+                "image": "https://assets.savyour.com/subcategories-us/medium/115.jpg"
+              }
+            ]
+          },
+          {
+            "id": 111,
+            "name": "Men's Fashion",
+            "slug": "mens-fashion-category",
+            "meta_title": "[CATEGORYNAME] Brands and Products at Savyour",
+            "meta_description": "Explore sustainable products and brands in [CATEGORYNAME] on Savyour. Shop eco-conscious, high-quality items that blend style and sustainability for a smarter, greener lifestyle",
+            "share_msg": "",
+            "share_url": "https://savyour.app/Y3IBd",
+            "image": "https://assets.savyour.com/categories-beta/111/medium/6hA66wAQy7p6Fqn5uji4UsL13MFcUObvvggCsO0y.png",
+            "subcategories": [
+              {
+                "id": 116,
+                "name": "Pants & Jeans",
+                "slug": "pants-jeans",
+                "meta_title": null,
+                "meta_description": null,
+                "share_msg": null,
+                "share_url": "https://savyour.app/uPsH0",
+                "image": "https://assets.savyour.com/assets/NoImage.png"
+              },
+              {
+                "id": 117,
+                "name": "Blazers & Suits",
+                "slug": "blazers-suits",
+                "meta_title": null,
+                "meta_description": null,
+                "share_msg": null,
+                "share_url": "https://savyour.app/7AXtP",
+                "image": "https://assets.savyour.com/assets/NoImage.png"
+              },
+              {
+                "id": 118,
+                "name": "Sweaters & Jackets",
+                "slug": "sweaters-jackets",
+                "meta_title": null,
+                "meta_description": null,
+                "share_msg": null,
+                "share_url": "https://savyour.app/BEpZJ",
+                "image": "https://assets.savyour.com/assets/NoImage.png"
+              },
+              {
+                "id": 119,
+                "name": "Shorts, Joggers & Sweats",
+                "slug": "shorts-joggers-sweats",
+                "meta_title": null,
+                "meta_description": null,
+                "share_msg": null,
+                "share_url": "https://savyour.app/vMTkA",
+                "image": "https://assets.savyour.com/assets/NoImage.png"
+              },
+              {
+                "id": 120,
+                "name": "Undergarments",
+                "slug": "undergarments",
+                "meta_title": null,
+                "meta_description": null,
+                "share_msg": null,
+                "share_url": "https://savyour.app/qUW9a",
+                "image": "https://assets.savyour.com/assets/NoImage.png"
+              },
+              {
+                "id": 121,
+                "name": "Shirts & Polo",
+                "slug": "shirts-polo",
+                "meta_title": null,
+                "meta_description": null,
+                "share_msg": null,
+                "share_url": "https://savyour.app/Fgp8E",
+                "image": "https://assets.savyour.com/assets/NoImage.png"
+              },
+              {
+                "id": 122,
+                "name": "T-Shirts & Tanks",
+                "slug": "t-shirts-tanks",
+                "meta_title": null,
+                "meta_description": null,
+                "share_msg": null,
+                "share_url": "https://savyour.app/IdQAO",
+                "image": "https://assets.savyour.com/assets/NoImage.png"
+              },
+              {
+                "id": 123,
+                "name": "Boys Clothing",
+                "slug": "boys-clothing",
+                "meta_title": null,
+                "meta_description": null,
+                "share_msg": null,
+                "share_url": "https://savyour.app/yNXMN",
+                "image": "https://assets.savyour.com/assets/NoImage.png"
+              },
+              {
+                "id": 124,
+                "name": "Men Accessories",
+                "slug": "men-accessories",
+                "meta_title": null,
+                "meta_description": null,
+                "share_msg": null,
+                "share_url": "https://savyour.app/TOPFq",
+                "image": "https://assets.savyour.com/assets/NoImage.png"
+              },
+              {
+                "id": 125,
+                "name": "Boys Accessories",
+                "slug": "boys-accessories",
+                "meta_title": null,
+                "meta_description": null,
+                "share_msg": null,
+                "share_url": "https://savyour.app/IJUy7",
+                "image": "https://assets.savyour.com/assets/NoImage.png"
+              }
+            ]
+          }
+        ],
+        "store": {
+          "id": 111,
+          "name": "",
+          "type": null,
+          "spending_value": 1,
+          "points": {
+            "text": "1 point = $1.0",
+            "value": 1
+          },
+          "rating": 0,
+          "order_count": 0,
+          "rating_count": 0,
+          "review_count": 0,
+          "rating_detail": {
+            "average": 0,
+            "count": null,
+            "breakdown": "{\"progress_1\":0,\"progress_2\":0,\"progress_3\":0,\"progress_4\":0,\"progress_5\":0}"
+          },
+          "categories": [
+            {
+              "category": "Hurley outlet ",
+              "type": "percentage",
+              "commission": 2
+            },
+            {
+              "category": "New vs. return",
+              "type": "percentage",
+              "commission": 1
+            }
+          ],
+          "tag": {
+            "text": ""
+          },
+          "redirect_url": "https://www.anrdoezrs.net/click-100829987-14469925",
+          "live_date": null,
+          "terms_and_condition": "",
+          "return_policy_days": 0,
+          "share_url": "",
+          "review_deeplink": "",
+          "average_reward_days": 90,
+          "sort_order": 0,
+          "share_msg": "hurley.com"
+        },
+        "values": [
+          {
+            "id": 19,
+            "name": "Renewable",
+            "slug": "renewable",
+            "image": "https://assets.savyour.com/value/19/thumbnail/vGYkOlJ4fkOvszfDTy3Fn4REK6SmxWdlgw0f0l50.png",
+            "background_color": "#f4faf3",
+            "short_description": "Made from resources that naturally replenish, these products help preserve the environment",
+            "description": "Renewable products are made from resources that can naturally replenish themselves, making them a smart and eco-friendly choice. By choosing renewable items, you’re supporting materials that don't deplete the earth’s resources, helping to preserve the environment for future generations. These products offer a sustainable way to enjoy what you need while minimizing environmental impact. Shop renewable and take a step toward a greener, more sustainable future!"
+          },
+          {
+            "id": 17,
+            "name": "Recyclable",
+            "slug": "recyclable",
+            "image": "https://assets.savyour.com/value/17/thumbnail/yifcD9tU9p9Buzjkm8poFitt3c3GMWYApVSph6Kl.png",
+            "background_color": "#f4faf3",
+            "short_description": "Designed for reuse, these products help reduce waste by keeping materials out of landfills.",
+            "description": "Recyclable products are designed to be reused and repurposed, helping to reduce waste and conserve natural resources. When you choose recyclable items, you're making an eco-friendly choice that supports a cleaner planet. These products can be given a new life after use, keeping them out of landfills. Shopping for recyclable goods is a simple way to do your part for the environment and promote a sustainable future!"
+          }
+        ]
+      }
+    ],
+    "pagination": {
+      "total": 6,
+      "per_page": 6,
+      "current_page": "https://api.savyour.com/api/v1/community_values?type=brands&page=1&limit=12",
+      "last_page": 1,
+      "next_page_url": "https://api.savyour.com/api/v1/community_values?type=brands&page=2&limit=12",
+      "prev_page_url": "",
+      "from": 1,
+      "to": 6
+    }
+  },
+  "errors": {},
+  "meta_data": {}
+}
