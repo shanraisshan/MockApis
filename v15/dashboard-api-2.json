@@ -43,56 +43,56 @@
                 {
                     "id": 16,
                     "name": "Mobile Phones & Tablets",
-                    "image": "https://github.com/shanraisshan/MockApis/blob/main/res/category/mobile.png",
+                    "image": "https://shanraisshan.github.io/MockApis/res/category/mobile.png",
                     "slug": "tv-home-entertainment-category",
                     "background_color": "#e6f3f3"
                 },
                 {
                     "id": 12,
                     "name": "Computer, Laptop & Accessories",
-                    "image": "https://github.com/shanraisshan/MockApis/blob/main/res/category/computer.png",
+                    "image": "https://shanraisshan.github.io/MockApis/res/category/computer.png",
                     "slug": "home-decor-furniture-category",
                     "background_color": "#e6f3f3"
                 },
                 {
                     "id": 3,
                     "name": "Women Fashion",
-                    "image": "https://github.com/shanraisshan/MockApis/blob/main/res/category/women.png",
+                    "image": "https://shanraisshan.github.io/MockApis/res/category/women.png",
                     "slug": "auto-tyres-category",
                     "background_color": "#e6f3f3"
                 },
                 {
                     "id": 9,
                     "name": "Home Decor & Garden",
-                    "image": "https://github.com/shanraisshan/MockApis/blob/main/res/category/home.png",
+                    "image": "https://shanraisshan.github.io/MockApis/res/category/home.png",
                     "slug": "mobile-phones-electronics-category",
                     "background_color": "#e6f3f3"
                 },
                 {
                     "id": 10,
                     "name": "Mom, Babies & Toys",
-                    "image": "https://github.com/shanraisshan/MockApis/blob/main/res/category/toys.png",
+                    "image": "https://shanraisshan.github.io/MockApis/res/category/toys.png",
                     "slug": "beauty-personal-care-category",
                     "background_color": "#e6f3f3"
                 },
                 {
                     "id": 4,
                     "name": "Sports & Entertainment",
-                    "image": "https://github.com/shanraisshan/MockApis/blob/main/res/category/sport.png",
+                    "image": "https://shanraisshan.github.io/MockApis/res/category/sport.png",
                     "slug": "fashion-category",
                     "background_color": "#e6f3f3"
                 },
                 {
                     "id": 1,
                     "name": "Men Fashion",
-                    "image": "https://github.com/shanraisshan/MockApis/blob/main/res/category/men.png",
+                    "image": "https://shanraisshan.github.io/MockApis/res/category/men.png",
                     "slug": "restaurant-eateriess-category",
                     "background_color": "#e6f3f3"
                 },
                 {
                     "id": 7,
                     "name": "Photography",
-                    "image": "https://github.com/shanraisshan/MockApis/blob/main/res/category/photo.png",
+                    "image": "https://shanraisshan.github.io/MockApis/res/category/photo.png",
                     "slug": "baby-clothes-gear-category",
                     "background_color": "#e6f3f3"
                 },
