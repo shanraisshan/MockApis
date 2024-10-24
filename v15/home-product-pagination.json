@@ -5,15 +5,18 @@
   "data": {
     "items": [
       {
-        "title": "Mastermind WORLD Black Leather Wallet",
+        "title": "Nike Quest 5 - Men Shoes- Sports Trainers",
         "id": "2229133105201792762",
         "slug": "mastermind-world-black-leather-wallet",
-        "price_range": null,
+        "price_range": "$ 29.44 - $ 51.99",
         "categories": [],
         "images": [
-          "https://sv77.com/upload/iblock/783/3uhq4sdfiikrmcel2f6tx41ru5ly8t3l.jpg"
+          "https://shanraisshan.github.io/MockApis/res/product/product-1.png"
         ],
         "image": "https://sv77.com/upload/iblock/783/3uhq4sdfiikrmcel2f6tx41ru5ly8t3l.jpg",
+        "tag": {
+          "text": "Free Delivery"
+        },
         "values": [
           {
             "id": 1,
@@ -28,41 +31,6 @@
             "slug": "ethical",
             "image": "value/7/GwusftgLRpNWjkMlw8EVg1AhBXFQSf3d54V7M6AX.png",
             "description": "Ethical products are made with fairness, transparency, and respect for people, animals, and the environment."
-          },
-          {
-            "id": 22,
-            "name": "Sustainable",
-            "slug": "sustainable",
-            "image": "value/22/gJpHlhMJtirfXtItCQBAZzuLpXUm801DByE01qqX.png",
-            "description": "Sustainable products are made with the planet in mind, using methods and materials that protect natural resources and reduce environmental impact."
-          },
-          {
-            "id": 15,
-            "name": "Organic",
-            "slug": "organic",
-            "image": "value/15/UUlLWc4CWqLzOqC2uc7xiQ93URGazSnx8yvHNNAr.png",
-            "description": "Organic products are made without synthetic chemicals, pesticides, or harmful additives, offering a natural and healthier choice for you and the planet."
-          },
-          {
-            "id": 5,
-            "name": "Eco-Friendly",
-            "slug": "eco-friendly",
-            "image": "value/5/2rcmuttxMR4zQkOaEcygbmODj3zbbPDtj1i5RKq3.png",
-            "description": "Eco-friendly products are designed with the environment in mind, using sustainable materials and practices that reduce harm to the planet."
-          },
-          {
-            "id": 12,
-            "name": "Low Impact",
-            "slug": "low-impact",
-            "image": "value/12/i2P38dgp3s56gFodlhqFHHyF19hlnjUHAaGCYs44.png",
-            "description": "Low-impact products are created with minimal harm to the environment, using fewer resources and generating less waste."
-          },
-          {
-            "id": 23,
-            "name": "Vegan",
-            "slug": "vegan",
-            "image": "value/23/RHpknvEkxlFsc23pqHbXwzSZlSH3yX1kPA0bw7ND.png",
-            "description": "Vegan products are completely free from any animal ingredients, making them a compassionate and eco-friendly choice."
           }
         ],
         "brands": [
@@ -71,20 +39,6 @@
             "brand_title": "SV77",
             "updated_at": "2024-09-23 17:45:03",
             "redirect_url": "https://www.jdoqocy.com/click-100829987-13308736?url=https%3A%2F%2Fsv77.com%2Fmen%2Fmastermind-world%2Fblack-leather-wallet%2F246998-product%2F&cjsku=M247091",
-            "is_active": true,
-            "stores": [
-              {
-                "spending_value": "0.14",
-                "country_id": 4,
-                "tag": ""
-              }
-            ]
-          },
-          {
-            "id": 6120,
-            "brand_title": "SV77",
-            "updated_at": "2024-09-23 17:45:03",
-            "redirect_url": "https://www.dpbolvw.net/click-100829987-13855286?url=https%3A%2F%2Fsv77.com%2Fmen%2Fmastermind-world%2Fblack-leather-wallet%2F246998-product%2F&cjsku=M228397",
             "is_active": true,
             "stores": [
               {
