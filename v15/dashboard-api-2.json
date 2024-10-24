@@ -208,7 +208,7 @@
                     "is_personalized": false,
                     "viewed_from": "",
                     "personalized_endpoint": "",
-                    "fetch_url": "https://api-staging.savyour.com/api/v1/community_values?type=brands&page=1&limit=10",
+                    "fetch_url": "https://shanraisshan.github.io/MockApis/v15/home-brand-pagination.json",
                     "see_all_type": "",
                     "items": []
                 }
