@@ -6,13 +6,13 @@
     "items": [
       {
         "id": 6133,
-        "slug": "hurley",
+        "slug": "Amazon",
         "name": "Hurley",
-        "logo": "https://assets.savyour.com/brands/6133/dzUJDxFMwSmwIfig73zbE9zjfGc6VxJZGojrjmrU.png",
-        "identity_logo": "https://assets.savyour.com/brands/6133/NhxKYo8YR9jxte3ZvMcbpYRUyWE0oxn8FrCGGx91.png",
+        "logo": "https://shanraisshan.github.io/MockApis/res/brand/brand-1.png",
+        "identity_logo": "https://shanraisshan.github.io/MockApis/res/identity/amazon.png",
         "monochrome_logo": "https://assets.savyour.com/brands/6133/66RfqGpSZt1R7e9KglEVKids8h5nxLE535vxPIMP.png",
         "banner": null,
-        "kv_image": "https://assets.savyour.com/brands/6133/yEgn8BGFNwALaUSUnMb0YbHYk8JF0KOduXqM9j2X.png",
+        "kv_image": "https://shanraisshan.github.io/MockApis/res/brand/brand-1.png",
         "website_url": null,
         "identifier": "hurley.com",
         "type": null,
@@ -192,7 +192,7 @@
           "type": null,
           "spending_value": 1,
           "points": {
-            "text": "1 point = $1.0",
+            "text": "1 point = 1¢ Spend",
             "value": 1
           },
           "rating": 0,
@@ -217,7 +217,7 @@
             }
           ],
           "tag": {
-            "text": ""
+            "text": "Free Delivery"
           },
           "redirect_url": "https://www.anrdoezrs.net/click-100829987-14469925",
           "live_date": null,
@@ -254,9 +254,9 @@
     "pagination": {
       "total": 6,
       "per_page": 6,
-      "current_page": "https://api.savyour.com/api/v1/community_values?type=brands&page=1&limit=12",
+      "current_page": "",
       "last_page": 1,
-      "next_page_url": "https://api.savyour.com/api/v1/community_values?type=brands&page=2&limit=12",
+      "next_page_url": "",
       "prev_page_url": "",
       "from": 1,
       "to": 6
