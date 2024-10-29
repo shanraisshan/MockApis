@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "message": "",
+  "code": 200,
+  "data": [
+    {
+      "id": 19,
+      "slug": "",
+      "title": "",
+      "sub_title": "",
+      "group": "",
+      "type": "header",
+      "sub_type": "",
+      "endpoint": "",
+      "is_see_all_shown": false,
+      "is_personalized": false,
+      "items": {
+        "name": "Electronics"
+      }
+    },
+    {
+      "id": 38,
+      "slug": "recommendation",
+      "title": "Recommendations",
+      "sub_title": "",
+      "group": "recommendation",
+      "type": "recommendation",
+      "sub_type": "small",
+      "endpoint": "",
+      "mixpanel_type": "",
+      "end_date": "",
+      "is_see_all_shown": false,
+      "is_personalized": false,
+      "viewed_from": "",
+      "personalized_endpoint": "",
+      "fetch_url": "",
+      "see_all_type": "",
+      "items": [
+        {
+          "id": 40,
+          "slug": "pagination_product",
+          "title": "Products",
+          "sub_title": "",
+          "group": "recommend_product",
+          "type": "pagination_product",
+          "sub_type": "grid",
+          "endpoint": "",
+          "mixpanel_type": "",
+          "end_date": "",
+          "is_see_all_shown": false,
+          "is_personalized": false,
+          "viewed_from": "",
+          "personalized_endpoint": "",
+          "fetch_url": "https://shanraisshan.github.io/MockApis/v15/home-product-pagination.json",
+          "see_all_type": "",
+          "items": []
+        },
+        {
+          "id": 39,
+          "slug": "pagination",
+          "title": "Brands",
+          "sub_title": "",
+          "group": "recommend_brand",
+          "type": "pagination",
+          "sub_type": "grid",
+          "endpoint": "",
+          "mixpanel_type": "categoryClicked",
+          "end_date": "",
+          "is_see_all_shown": false,
+          "is_personalized": false,
+          "viewed_from": "",
+          "personalized_endpoint": "",
+          "fetch_url": "https://shanraisshan.github.io/MockApis/v15/home-brand-pagination.json",
+          "see_all_type": "",
+          "items": []
+        }
+      ]
+    }
+  ],
+  "errors": {},
+  "meta_data": {}
+}
