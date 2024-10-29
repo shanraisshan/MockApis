@@ -31,6 +31,7 @@
       "is_personalized": false,
       "items": [
         {
+          "id": 12,
           "title": "Tag Line",
           "btn_cta": "Shop Now",
           "points": "1 pt = 1¢ Spend",
