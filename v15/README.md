@@ -32,16 +32,16 @@ Popular Suggestion|https://abc/search/suggestion|-|✅
 Auto Suggest|https://abc/search/auto-suggest?keyword=iPhone|-|✅
 Search|https://abc/search?keyword=Apple|-|✅
 🔗|🔗 **`CATEGORY`** 🔗|🔗|🔗
-Category|https://abc/brand-categories/146|-|-
+Category|https://abc/brand-categories/146|-|[New](/v15/category-detail.json)
 Sub-Category|https://abc/subcategories/33|-|-
 🔗|🔗 **`PROFILE`** 🔗|🔗|🔗
-Profile|https://abc/users|-|-
+Profile|https://abc/users|-|✅
 🔗|🔗 **`INVITE`** 🔗|🔗|🔗
 Invite|https://abc/user/invite|-|-
 🔗|🔗 **`POPUPS`** 🔗|🔗|🔗
 Popups|https://abc/users/popup|-|-
 🔗|🔗 **`BRAND DETAIL`** 🔗|🔗|🔗
-Brand Detail|https://abc/brand-outlets/67|[Old](/v6/brand-detail.json)|[New](/v15/brand-detail.json)
+Brand Detail|https://abc/brand-outlets/67|[Old](/v6/brand-detail.json)|[New](/v15/brand-detail.json) ✅
 🔗|🔗 **`REVIEW`** 🔗|🔗|🔗
 Review Detail|-|-|-
 🔗|🔗 **`ACTIVATION`** 🔗|🔗|🔗
@@ -56,9 +56,9 @@ Pending|https://abc/wallet/pending?limit=10|-|-
 Approved|https://abc/wallet/approved?limit=10|-|-
 Declined|https://abc/wallet/declined?limit=10|-|-
 🔗|🔗 **`SEE ALL`** 🔗|🔗|🔗
-See All Brand|https://abc/brands/sections/promotional?title=top+20|-|[New](/v15/see-all-brand.json)
+See All Brand|https://abc/brands/sections/promotional?title=top+20|-|[New](/v15/see-all-brand.json) ✅
 ↑ Pagination|https://abc/brands/types/promotional|-|-
-See All Product|https://abc/products/sections/top-selling|[Old](/v6/see-all-product.json)|[New](/v15/see-all-product.json)
+See All Product|https://abc/products/sections/top-selling|[Old](/v6/see-all-product.json)|[New](/v15/see-all-product.json) ✅
 ↑ Pagination|https://abc/list/products/best_seller|[Old](/v6/see-all-product-pagination.json)|-
 See All Value|https://abc/values/see-all|✖️|✅
 See All Special Brand|⚠️ not a part of beta release|-|[New](/v15/special-brand.json)
