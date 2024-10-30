@@ -184,6 +184,66 @@
           "personalized_endpoint": "",
           "fetch_url": "https://shanraisshan.github.io/MockApis/v15/home-product-pagination.json",
           "see_all_type": "",
+          "filters": [
+                        {
+                            "name": "Brands",
+                            "query_param_keys": [
+                                "brand_ids"
+                            ],
+                            "key": "brand_ids",
+                            "type": "brand",
+                            "sub_type": "pill",
+                            "fetch_url": "https://api-staging.savyour.com/api/v1/brand_filters?category_ids[]=7"
+                        },
+                        {
+                            "name": "Price Range",
+                            "query_param_keys": [
+                                "min_price",
+                                "max_price"
+                            ],
+                            "key": "price_range",
+                            "type": "product",
+                            "sub_type": "range_slider",
+                            "fetch_url": ""
+                        },
+                        {
+                            "name": "Values",
+                            "query_param_keys": [
+                                "value_ids"
+                            ],
+                            "key": "value_ids",
+                            "type": "value",
+                            "sub_type": "pill",
+                            "fetch_url": "https://api-staging.savyour.com/api/v1/value_filters"
+                        },
+                        {
+                            "name": "Sub categories",
+                            "query_param_keys": [
+                                "sub_category_ids"
+                            ],
+                            "key": "sub_category_ids",
+                            "type": "sub_category",
+                            "sub_type": "pill",
+                            "fetch_url": "https://api-staging.savyour.com/api/v1/sub_category_filters?category_ids[]=7"
+                        }
+                    ],
+                    "sort": [
+                        {
+                            "name": "Sort by",
+                            "key": "sort_by",
+                            "is_selected": true
+                        },
+                        {
+                            "name": "Product name (A-Z)",
+                            "key": "name_asc",
+                            "is_selected": false
+                        },
+                        {
+                            "name": "Product name (Z-A)",
+                            "key": "name_desc",
+                            "is_selected": false
+                        }
+                    ],
           "items": []
         },
         {
@@ -203,6 +263,66 @@
           "personalized_endpoint": "",
           "fetch_url": "https://shanraisshan.github.io/MockApis/v15/home-brand-pagination.json",
           "see_all_type": "",
+          "filters": [
+                        {
+                            "name": "Brands",
+                            "query_param_keys": [
+                                "brand_ids"
+                            ],
+                            "key": "brand_ids",
+                            "type": "brand",
+                            "sub_type": "pill",
+                            "fetch_url": "https://api-staging.savyour.com/api/v1/brand_filters?category_ids[]=7"
+                        },
+                        {
+                            "name": "Price Range",
+                            "query_param_keys": [
+                                "min_price",
+                                "max_price"
+                            ],
+                            "key": "price_range",
+                            "type": "product",
+                            "sub_type": "range_slider",
+                            "fetch_url": ""
+                        },
+                        {
+                            "name": "Values",
+                            "query_param_keys": [
+                                "value_ids"
+                            ],
+                            "key": "value_ids",
+                            "type": "value",
+                            "sub_type": "pill",
+                            "fetch_url": "https://api-staging.savyour.com/api/v1/value_filters"
+                        },
+                        {
+                            "name": "Sub categories",
+                            "query_param_keys": [
+                                "sub_category_ids"
+                            ],
+                            "key": "sub_category_ids",
+                            "type": "sub_category",
+                            "sub_type": "pill",
+                            "fetch_url": "https://api-staging.savyour.com/api/v1/sub_category_filters?category_ids[]=7"
+                        }
+                    ],
+                    "sort": [
+                        {
+                            "name": "Sort by",
+                            "key": "sort_by",
+                            "is_selected": true
+                        },
+                        {
+                            "name": "Product name (A-Z)",
+                            "key": "name_asc",
+                            "is_selected": false
+                        },
+                        {
+                            "name": "Product name (Z-A)",
+                            "key": "name_desc",
+                            "is_selected": false
+                        }
+                    ],
           "items": []
         }
       ]
