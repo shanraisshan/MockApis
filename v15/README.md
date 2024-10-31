@@ -11,6 +11,7 @@ Name|Routes|Old Response|New Response
 🔗|🔗 **`OTHERS`** 🔗|🔗|🔗
 App Settings|https://abc/app-settings|-|✅
 🔗|🔗 **`ONBOARDING`** 🔗|🔗|🔗
+Country Settings|https://abc/users/countries-setting|-|✅
 Validate Number|https://abc/otp/validate-number|-|✅
 OTP Request|https://staging-apigateway.abc.com.pk/v1/otp/send|-|✅
 OTP Verification|https://abc/otp/verify|-|✅
@@ -36,6 +37,7 @@ Category|https://abc/brand-categories/146|-|[New](/v15/category-detail.json)
 Sub-Category|https://abc/subcategories/33|-|-
 🔗|🔗 **`PROFILE`** 🔗|🔗|🔗
 Profile|https://abc/users|-|✅
+Other Profile|https://abc/users/4170877|-|
 🔗|🔗 **`INVITE`** 🔗|🔗|🔗
 Invite|https://abc/user/invite|-|-
 🔗|🔗 **`POPUPS`** 🔗|🔗|🔗
@@ -43,7 +45,11 @@ Popups|https://abc/users/popup|-|-
 🔗|🔗 **`BRAND DETAIL`** 🔗|🔗|🔗
 Brand Detail|https://abc/brand-outlets/67|[Old](/v6/brand-detail.json)|[New](/v15/brand-detail.json) ✅
 🔗|🔗 **`REVIEW`** 🔗|🔗|🔗
-Review Detail|-|-|-
+Review Detail|https://abc/rating-reviews|-|-
+Review See All|https://abc/brand-outlets/1119/reviews|-|-
+User Brand Review|https://abc/brand-outlets/1119/user-review|-|-
+User Reviews|https://abc/reviews|-|-
+Other User Reviews|https://abc/users/4171600/reviews|-|-
 🔗|🔗 **`ACTIVATION`** 🔗|🔗|🔗
 Activation|https://abc/brand-outlets/67/cashback ■ https://abc/brand/67/points|[Old](/v6/activation.json)|[New](/v15/activation.json)
 🔗|🔗 **`PRODUCT DETAIL`** 🔗|🔗|🔗
