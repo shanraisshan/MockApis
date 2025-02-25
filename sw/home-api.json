@@ -1,37 +1,6 @@
 {
   "sections": [
     {
-      "title": "POPULAR CATEGORIES",
-      "type": "category_slider",
-      "categories":[
-        {
-           "img_src":"https://cdn.shopify.com/s/files/1/0584/7089/1629/files/e7e06c0fd26bd7bb55140f75a2f66e9d.png?v=1736862534",
-           "handle":"collection/mens-new-arrivals",
-           "title":{
-              "en":"New Arrivals",
-              "ar":"New Arrivals"
-           }
-        },
-        {
-           "img_src":"https://cdn.shopify.com/s/files/1/0584/7089/1629/files/e7e06c0fd26bd7bb55140f75a2f66e9d.png?v=1736862534",
-           "handle":"collection/gym-tshirts-men",
-           "title":{
-              "en":"T-SHIRTS",
-              "ar":"T-SHIRTS"
-           }
-        },
-        {
-           "img_src":"https://cdn.shopify.com/s/files/1/0584/7089/1629/files/e7e06c0fd26bd7bb55140f75a2f66e9d.png?v=1736862534",
-           "handle":"collection/gym-tshirts-men",
-           "title":{
-              "en":"SWEATERS",
-              "ar":"SWEATERS"
-           }
-        }
-     ],
-      "queryable": false
-    },
-    {
       "type": "slider",
       "title": "foo",
       "slides": [
@@ -60,6 +29,37 @@
           }
         }
       ],
+      "queryable": false
+    },
+    {
+      "title": "POPULAR CATEGORIES",
+      "type": "category_slider",
+      "categories":[
+        {
+           "img_src":"https://cdn.shopify.com/s/files/1/0584/7089/1629/files/e7e06c0fd26bd7bb55140f75a2f66e9d.png?v=1736862534",
+           "handle":"collection/mens-new-arrivals",
+           "title":{
+              "en":"New Arrivals",
+              "ar":"New Arrivals"
+           }
+        },
+        {
+           "img_src":"https://cdn.shopify.com/s/files/1/0584/7089/1629/files/e7e06c0fd26bd7bb55140f75a2f66e9d.png?v=1736862534",
+           "handle":"collection/gym-tshirts-men",
+           "title":{
+              "en":"T-SHIRTS",
+              "ar":"T-SHIRTS"
+           }
+        },
+        {
+           "img_src":"https://cdn.shopify.com/s/files/1/0584/7089/1629/files/e7e06c0fd26bd7bb55140f75a2f66e9d.png?v=1736862534",
+           "handle":"collection/gym-tshirts-men",
+           "title":{
+              "en":"SWEATERS",
+              "ar":"SWEATERS"
+           }
+        }
+     ],
       "queryable": false
     },
     {
