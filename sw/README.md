@@ -2,5 +2,8 @@
 apis
 
 
-HOME -> https://shanraisshan.github.io/MockApis/sw/home-api.json
-GET ADDRESSES -> https://shanraisshan.github.io/MockApis/sw/get-address-api.json
+Home -> https://shanraisshan.github.io/MockApis/sw/home-api.json
+
+Get Customer Addresses -> https://shanraisshan.github.io/MockApis/sw/get-address-api.json
+
+Customer Profile -> https://shanraisshan.github.io/MockApis/sw/customer-profile-api.json
