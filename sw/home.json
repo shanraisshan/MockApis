@@ -1,0 +1,196 @@
+{
+  "sections": [
+    {
+      "title": "POPULAR CATEGORIES",
+      "type": "category_slider",
+      "categories":[
+        {
+           "img_src":"https://cdn.shopify.com/s/files/1/0584/7089/1629/files/e7e06c0fd26bd7bb55140f75a2f66e9d.png?v=1736862534",
+           "handle":"collection/mens-new-arrivals",
+           "title":{
+              "en":"New Arrivals",
+              "ar":"New Arrivals"
+           }
+        },
+        {
+           "img_src":"https://cdn.shopify.com/s/files/1/0584/7089/1629/files/e7e06c0fd26bd7bb55140f75a2f66e9d.png?v=1736862534",
+           "handle":"collection/gym-tshirts-men",
+           "title":{
+              "en":"T-SHIRTS",
+              "ar":"T-SHIRTS"
+           }
+        },
+        {
+           "img_src":"https://cdn.shopify.com/s/files/1/0584/7089/1629/files/e7e06c0fd26bd7bb55140f75a2f66e9d.png?v=1736862534",
+           "handle":"collection/gym-tshirts-men",
+           "title":{
+              "en":"SWEATERS",
+              "ar":"SWEATERS"
+           }
+        }
+     ],
+      "queryable": false
+    },
+    {
+      "type": "slider",
+      "title": "foo",
+      "slides": [
+        {
+          "img_src": "https://cdn.shopify.com/s/files/1/0584/7089/1629/files/e1bda0d15e72418ec84249a2a266987b.png?v=1736862077",
+          "handle": "/slug",
+          "title": {
+            "en": "NORTHERN STRIDE",
+            "ar": "NORTHERN STRIDE"
+          },
+          "sub_title": {
+            "en": "// OUTDOOR COLLECTION",
+            "ar": "// OUTDOOR COLLECTION"
+          }
+        },
+        {
+          "img_src": "https://i.ibb.co/0JmC1X1/407c4881c36bb0f2ff55b0458482c848-1-2.png",
+          "handle": "/slug",
+          "title": {
+            "en": "NORTHERN STRIDE",
+            "ar": "NORTHERN STRIDE"
+          },
+          "sub_title": {
+            "en": "// OUTDOOR COLLECTION",
+            "ar": "// OUTDOOR COLLECTION"
+          }
+        }
+      ],
+      "queryable": false
+    },
+    {
+      "title": "HOT RIGHT NOW",
+      "type": "featured_products",
+      "video_url": "https://www.foo.com",
+      "query": {
+        "query_entity": "products",
+        "queryable_objects": [
+          "gid://shopify/Product/7843480207611",
+          "gid://shopify/Product/7843480273147",
+          "gid://shopify/Product/7843480371451",
+          "gid://shopify/Product/7843480469755",
+          "gid://shopify/Product/7843480535291"
+        ]
+      }
+    },
+    {
+      "title": "IN THE WILD",
+      "type": "shop_the_look",
+      "slides": [
+        {
+          "title": {
+            "ar": "@UMER",
+            "en": "@UMER"
+          },
+          "avatar": "https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg",
+          "img_src": "https://cdn.shopify.com/s/files/1/0584/7089/1629/files/7abff299c558716acb44696649ea6ab8.png?v=1736862535",
+          "button_title": {
+            "ar": "Shop The Look",
+            "en": "Shop The Look"
+          },
+          "query": {
+            "query_entity": "products",
+            "queryable_objects": [
+              "gid://shopify/ProductVariant/41512399175789",
+              "gid://shopify/ProductVariant/41770753851501",
+              "gid://shopify/ProductVariant/41512399274093"
+            ]
+          }
+        },
+        {
+          "title": {
+            "ar": "@TALHA",
+            "en": "@TALHA"
+          },
+          "avatar": "https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg",
+          "img_src": "https://cdn.shopify.com/s/files/1/0584/7089/1629/files/04e423be552f76a8c10e712c9d572fbf.png?v=1736862536",
+          "button_title": {
+            "ar": "Shop The Look",
+            "en": "Shop The Look"
+          },
+          "query": {
+            "query_entity": "products",
+            "queryable_objects": [
+              "gid://shopify/ProductVariant/41512399306861",
+              "gid://shopify/ProductVariant/41512399339629"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": null,
+      "type": "grid2x2",
+      "queryable": false,
+      "slides": [
+        {
+          "img_src": "https://cdn.shopify.com/s/files/1/0584/7089/1629/files/30b1dcbe5718687a09b703d2b6e141c0.png?v=1736862535",
+          "handle": "https://www.foo.com",
+          "title": {
+            "en": "THE ESSENTIALS",
+            "ar": "THE ESSENTIALS"
+          },
+          "sub_title": {
+            "en": "// POPULAR",
+            "ar": "// POPULAR"
+          }
+        },
+        {
+          "img_src": "https://cdn.shopify.com/s/files/1/0584/7089/1629/files/30b1dcbe5718687a09b703d2b6e141c0.png?v=1736862535",
+          "handle": "https://www.foo.com",
+          "title": {
+            "en": "BACK TO GYM",
+            "ar": "BACK TO GYM"
+          },
+          "sub_title": {
+            "en": "// NEW DROP",
+            "ar": "// NEW DROP"
+          }
+        }
+      ]
+    },
+    {
+      "title": "STAY IN THE KNOW",
+      "type": "grid2x2withText",
+      "queryable": false,
+      "slides": [
+        {
+          "img_src": "https://cdn.shopify.com/s/files/1/0584/7089/1629/files/30b1dcbe5718687a09b703d2b6e141c0.png?v=1736862535",
+          "handle": "https://www.foo.com",
+          "title": {
+            "en": "OUR APP",
+            "ar": "OUR APP"
+          },
+          "content": {
+            "en": "Our design philosophy is driven by the belief that utility is at the heart of beauty. We understand the benefits of looking good, but we weill never compromise.",
+            "ar": "Our design philosophy is driven by the belief that utility is at the heart of beauty. We understand the benefits of looking good, but we weill never compromise."
+          },
+          "button_title": {
+            "en": "Explore",
+            "ar": "Explore"
+          }
+        },
+        {
+          "img_src": "https://cdn.shopify.com/s/files/1/0584/7089/1629/files/30b1dcbe5718687a09b703d2b6e141c0.png?v=1736862535",
+          "handle": "https://www.foo.com",
+          "title": {
+            "en": "OUR APP",
+            "ar": "OUR APP"
+          },
+          "content": {
+            "en": "Our design philosophy is driven by the belief that utility is at the heart of beauty. We understand the benefits of looking good, but we weill never compromise.",
+            "ar": "Our design philosophy is driven by the belief that utility is at the heart of beauty. We understand the benefits of looking good, but we weill never compromise."
+          },
+          "button_title": {
+            "en": "Explore",
+            "ar": "Explore"
+          }
+        }
+      ]
+    }
+  ]
+}
