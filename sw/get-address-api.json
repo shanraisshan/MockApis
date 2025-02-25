@@ -1,0 +1,76 @@
+{
+    "status": 200,
+    "isSuccess": true,
+    "message": "Success",
+    "payload": {
+        "addresses": {
+            "edges": [
+                {
+                    "node": {
+                        "id": "gid://shopify/MailingAddress/9475248521444?model_name=CustomerAddress&customer_access_token=uKnqPqvb_zp0jmxixfGMJmxiR2ii7slztwRkxM65hsjRBk72rGa80j8W1hAFTVSAHxPPCKsWEl3XhNsD1EtjytvPDqajt31qVne7DucPbGh0YWvLZ1yYLjNzWzDg2R-1YsNSXpxgPnYw6L_FdUEiTAnYZIP82tiCaiyPCzWr91u01-mPwgbehUThlu4I9G9Rpk7y_mEv8KFZkPpJ78N2QzyQxEQSgzq94fRgpeUizQlnXQVDTyXNbwgfDYbaw_gh",
+                        "firstName": "Talha",
+                        "lastName": "Amin",
+                        "address1": "A/601/1",
+                        "city": "Dubai",
+                        "country": "United Arab Emirates",
+                        "zip": "25314",
+                        "address2": "Appartments"
+                    }
+                },
+                {
+                    "node": {
+                        "id": "gid://shopify/MailingAddress/9475250421988?model_name=CustomerAddress&customer_access_token=wkd6NB3ZdRRv4o_QFchBS17fQMrJ_Se5jT0x11g5d4tEUuG9TzOkRbQu5MGmJ_-vU_O6l3TGUYmk0BiURoZS2cDifYIMa9Fw70Wf6ya_5Q1JO4vx3K11lM6lD5fiZlvIN4WfFOfjTHRR7vF8ETWZIy_aRCZL3YXErwk2FYTNJg4_Yj8DExYBQ2GEI4KCtd81rhyCxQdbzHwfLPOQ5jkkKbj9XxNzx7W-URzVgr2_GsCFdaKVmamFcxR4HlB1EcIL",
+                        "firstName": "Talha",
+                        "lastName": "Amin",
+                        "address1": "A/601/2",
+                        "city": "Dubai",
+                        "country": "United Arab Emirates",
+                        "zip": "25314",
+                        "address2": "Appartments"
+                    }
+                },
+                {
+                    "node": {
+                        "id": "gid://shopify/MailingAddress/9475250487524?model_name=CustomerAddress&customer_access_token=KkNN75KCqXWRS8KU3dDIOII7NGHMHid3EuJwJYHPNK4uEIsf-5NJlu9jubWN9hoW0uniEzBFj9ne4Cg86OHCyTk5PON89ZhLetWtNCrKKG7Ka4S8PZ7s5sFJn3AH4UsUyT6exf5U3371a2Qcx4VmJaU7aE8yUPPghkmzrZWNgQ8-rB0ViqoO2NLibQSG4MGz8s2d0Q9sdsuOqmWmtItfhjaz2srgWpKtgbJTZ5omv3Aywi1YTEp7XMOsFvneVFze",
+                        "firstName": "Talha",
+                        "lastName": "Amin",
+                        "address1": "A/601/3",
+                        "city": "Dubai",
+                        "country": "United Arab Emirates",
+                        "zip": "25314",
+                        "address2": "Appartments"
+                    }
+                },
+                {
+                    "node": {
+                        "id": "gid://shopify/MailingAddress/9475250684132?model_name=CustomerAddress&customer_access_token=tH0E1kSARCgeWmY4wpBQlfzjIhVjTExps2M6-maw_6UHUKC5j-NUeVcFRB2MuoQ7y37yL9cZJ1lXwQ0nF44KbAU4tQ7U-ahUHnDw-08IRpa57dHsmiV3BHGnGvc0KClgW5DCHpIymitlXpPNtV3yfV5F9EzYjxKc2i2GpzeyhMPYg-WYDlbaPQZAhl6RMC_-FhYAYfsq5wosqtvDELSdm2kQISdqBybAf3pHT_du2rbtUUKBfhgjPll6k3HjvJKw",
+                        "firstName": "Talha",
+                        "lastName": "Amin",
+                        "address1": "A/601/4",
+                        "city": "Dubai",
+                        "country": "United Arab Emirates",
+                        "zip": "25314",
+                        "address2": "Appartments"
+                    }
+                },
+                {
+                    "node": {
+                        "id": "gid://shopify/MailingAddress/9475250782436?model_name=CustomerAddress&customer_access_token=T54OFWPOpDvLNY9jKVoVZ51gVGZL9RkDpf1gfIR1sbrWZuWoxhMoeWJBls78_rn-AM9wmoLxLt6DqPxnBUM7EzTWKYKrDUa3cqfTnDllh-xSTqsZRgl9c6NQXO1hAiw9gU-V4VIsrntdegkTIMK-sWvlIfmq7nQmjfTxeW0EoAqPsDR5ww-LwWoPb8bPzIQRuiH2ax8pSn9PN-a3mJaFNs47_KUCBuXI7oumL8225wNh3DgSPFkSN_T6a-pQZna_",
+                        "firstName": "Talha",
+                        "lastName": "Amin",
+                        "address1": "A/601/5",
+                        "city": "Dubai",
+                        "country": "United Arab Emirates",
+                        "zip": "25314",
+                        "address2": "Appartments"
+                    }
+                }
+            ],
+            "pageInfo": {
+                "hasNextPage": false,
+                "startCursor": "eyJsYXN0X2lkIjo5NDc1MjQ4NTIxNDQ0LCJsYXN0X3ZhbHVlIjpudWxsfQ==",
+                "endCursor": "eyJsYXN0X2lkIjo5NDc1MjUwNzgyNDM2LCJsYXN0X3ZhbHVlIjpudWxsfQ=="
+            }
+        }
+    }
+}
