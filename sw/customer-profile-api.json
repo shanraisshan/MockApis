@@ -1,0 +1,24 @@
+{
+    "status": 200,
+    "isSuccess": true,
+    "message": "Success",
+    "payload": {
+        "id": "gid://shopify/Customer/7586286534884",
+        "firstName": "Talha",
+        "lastName": "Amin",
+        "acceptsMarketing": true,
+        "email": "talha.amin@squatwolf.com",
+        "phone": "+923353107231",
+        "displayName": "Talha Amin",
+        "defaultAddress": {
+            "id": "gid://shopify/MailingAddress/9475048243428?model_name=CustomerAddress&customer_access_token=_yXR7Dy2D_eIpbKvju5l2NtkqEHpOkbrVKNGrwJHNIY1pl-BjqfE5xTGqOZB2I_ZU-_HsYibjuZ-mOTnLrveGnUWDcwN3-ZpiNwww9wos8Tuf4WjZYzEW4F_qhtrvnPVMUzFwnv1cL63TdPbF7icyWK1_BF4ZQfbczwfiTpF7rmd7Og_4nm1LB_7hppZ92YwWX2hukca-Y9UkfAECIjryWZZ5Tq5DoIJhHqTVe5Aepaa-_4Bdnh8OHZXcotADvIm",
+            "address1": "north",
+            "address2": null,
+            "city": "karachi",
+            "country": "Canada",
+            "firstName": "ghayur",
+            "lastName": "khan",
+            "zip": "12345"
+        }
+    }
+}
