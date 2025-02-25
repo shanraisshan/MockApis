@@ -1,2 +1,2 @@
-# Design
-zeplin, figma
+# Life
+mock apis
