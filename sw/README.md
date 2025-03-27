@@ -8,4 +8,4 @@ Get Customer Addresses -> https://shanraisshan.github.io/MockApis/sw/get-address
 
 Customer Profile -> https://shanraisshan.github.io/MockApis/sw/customer-profile-api.json
 
-Cms Settings -> https://shanraisshan.github.io/MockApis/sw/ccms-settings.json
+Cms Settings -> https://shanraisshan.github.io/MockApis/sw/cms-settings.json
